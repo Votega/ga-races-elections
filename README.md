@@ -6,6 +6,7 @@ Georgia election race and candidate data for the 2026 election cycle, published 
 
 ### Counts
 | Level |	Races |
+| :-----: | :-----: |
 | U.S. Senate |	1 |
 U.S. House	14
 GA Statewide Executive	10
