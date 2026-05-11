@@ -158,20 +158,22 @@ memberSource is "congress" for U.S. members (keyed by bioguide ID) or "ga-member
 | U.S. Senate | senate-{cycle} |	senate-2026 |
 | GA Executive | ga-{office-slug}-{cycle} | ga-governor-2026 |
 | Superior Court | superior-court-{circuit-slug}-{seat-slug}-{cycle} | superior-court-gwinnett-mason-2026 |
-Court of Appeals	court-of-appeals-{seat-slug}-{cycle}	court-of-appeals-gobeil-2026
-Supreme Court	supreme-court-{seat-slug}-{cycle}	supreme-court-warren-2026
+| Court of Appeals | court-of-appeals-{seat-slug}-{cycle} |	court-of-appeals-gobeil-2026 |
+| Supreme Court |	supreme-court-{seat-slug}-{cycle} |	supreme-court-warren-2026 |
 
 ## Data sources
-GA legislative candidates — GA Secretary of State Qualifying Candidate Information. Data collected during the qualifying period (April–May 2026).
-GA judicial candidates — GA Secretary of State Qualifying Candidate Information. Covers Superior Court, Court of Appeals, and Supreme Court of Georgia seats on the 2026 ballot.
-Federal members — Congress.gov API
-GA state members — GA General Assembly
-Updates
+ - GA legislative candidates — GA Secretary of State Qualifying Candidate Information. Data collected during the qualifying period (April–May 2026).
+ - GA judicial candidates — GA Secretary of State Qualifying Candidate Information. Covers Superior Court, Court of Appeals, and Supreme Court of Georgia seats on the 2026 ballot.
+ - Federal members — Congress.gov API
+ - GA state members — GA General Assembly
+
+## Updates
 This file is published automatically from VoteGA.org via GitHub Actions. It updates daily and whenever races.json changes in the source repo.
 
 Data is current through the 2026 qualifying period. General election candidate data will be added after the May 19, 2026 primary.
 
 ## Usage
+```json
 const res = await fetch('https://raw.githubusercontent.com/Votega/ga-races-elections/main/races.json');
 const { races } = await res.json();
 
@@ -186,6 +188,7 @@ const contestedJudicial = races.filter(r =>
   r.level === 'state-judicial' &&
   r.phases[r.activePhase].candidates.length > 1
 );
+```
 
 // All Superior Court races in a given circuit
 const gwinnettCourts = races.filter(r =>
