@@ -46,11 +46,12 @@ Georgia election race and candidate data for the 2026 election cycle, published 
   }
 }
 ```
-Field	Values
-level	"federal", "state-executive", "state", "state-judicial"
-chamber	See counts table above
-district	Integer (legislative/congressional races only; absent for judicial)
-activePhase	"primary" or "general"
+| Field |	Values |
+| :-----: | :-----: |
+| level |	"federal", "state-executive", "state", "state-judicial" |
+| chamber |	See counts table above |
+| district | Integer (legislative/congressional races only; absent for judicial) |
+| activePhase |	"primary" or "general" |
 
 ## Race object — judicial
 Judicial races use a flat candidates array (not ballots) since all Georgia judicial elections are non-partisan.
@@ -76,19 +77,23 @@ Judicial races use a flat candidates array (not ballots) since all Georgia judic
   }
 }
 ```
-### Field	Notes
-circuit	Present on Superior Court races only (e.g. "Gwinnett Judicial Circuit")
-seat	The seat name, taken from the SOS contest label (e.g. "Mason")
-displayTitle	Human-readable title for the race (e.g. "Gwinnett Judicial Circuit — Mason")
-_note	Present on open-seat races (e.g. "Open seat — Judge Mason not running.")
+| Field |	Notes |
+| :-----: | :-----: |
+| circuit	| Present on Superior Court races only (e.g. "Gwinnett Judicial Circuit") |
+| seat | The seat name, taken from the SOS contest label (e.g. "Mason") |
+| displayTitle | Human-readable title for the race (e.g. "Gwinnett Judicial Circuit — Mason") |
+| _note | Present on open-seat races (e.g. "Open seat — Judge Mason not running.") |
+
 Supreme Court and Court of Appeals races follow the same shape but omit circuit.
 
 ## Primary phase — open primary (ballots)
 Georgia holds an open primary: voters choose a party ballot on election day. Legislative and executive races use a ballots object keyed by party name.
+```json
 "ballots": {
   "Democrat": [ ...candidates ],
   "Republican": [ ...candidates ]
 }
+```
 Judicial races are non-partisan and use a flat candidates array instead (see below).
 
 ## Candidate object — legislative (GA House / GA Senate)
@@ -105,12 +110,13 @@ Judicial races are non-partisan and use a flat candidates array instead (see bel
   "email": "jane@janeforgeorgia.com"
 }
 ```
-Field	Notes
-id	{state}-{chamber}-{district}-{cycle}-{party}-{n}
-type	Always "challenger" for legislative races
-isIncumbent	true if the candidate currently holds the seat
-withdrawn	true if the candidate was disqualified or withdrew
-occupation, county, email, website	Present when available from SOS qualifying data
+| Field |	Notes |
+| :-----: | :-----: |
+| id | {state}-{chamber}-{district}-{cycle}-{party}-{n} |
+| type | Always "challenger" for legislative races |
+| isIncumbent | true if the candidate currently holds the seat |
+| withdrawn |	true if the candidate was disqualified or withdrew |
+| occupation, county, email, website | Present when available from SOS qualifying data |
 
 ## Candidate object — judicial
 ```json
@@ -125,11 +131,12 @@ occupation, county, email, website	Present when available from SOS qualifying da
   "website": "https://reelectraceymason.com"
 }
 ```
-Field	Notes
-type	Always "challenger" for judicial candidates
-party	Always "Non-Partisan"
-isIncumbent	true if the candidate currently holds the seat
-occupation, email, website	Present when available from SOS qualifying data
+| Field | Notes |
+| :-----: | :-----: |
+| type | Always "challenger" for judicial candidates |
+| party |	Always "Non-Partisan" |
+| isIncumbent |	true if the candidate currently holds the seat |
+| occupation, email, website | Present when available from SOS qualifying data |
 
 ## Candidate object — federal / executive (incumbent reference)
 For races where an incumbent is running, the entry references their record in a separate members dataset rather than duplicating data:
@@ -143,13 +150,14 @@ For races where an incumbent is running, the entry references their record in a 
 memberSource is "congress" for U.S. members (keyed by bioguide ID) or "ga-members" for state officials.
 
 ## ID conventions
-Race type	ID pattern	Example
-GA House	ga-house-{district}-{cycle}	ga-house-128-2026
-GA Senate	ga-senate-{district}-{cycle}	ga-senate-7-2026
-U.S. House	house-{district}-{cycle}	house-6-2026
-U.S. Senate	senate-{cycle}	senate-2026
-GA Executive	ga-{office-slug}-{cycle}	ga-governor-2026
-Superior Court	superior-court-{circuit-slug}-{seat-slug}-{cycle}	superior-court-gwinnett-mason-2026
+| Race type |	ID pattern | Example |
+| :-----: | :-----: | :-----:|
+| GA House | ga-house-{district}-{cycle} | ga-house-128-2026 |
+| GA Senate | ga-senate-{district}-{cycle} | ga-senate-7-2026 |
+| U.S. House | house-{district}-{cycle} |	house-6-2026 |
+| U.S. Senate | senate-{cycle} |	senate-2026 |
+| GA Executive | ga-{office-slug}-{cycle} | ga-governor-2026 |
+| Superior Court | superior-court-{circuit-slug}-{seat-slug}-{cycle} | superior-court-gwinnett-mason-2026 |
 Court of Appeals	court-of-appeals-{seat-slug}-{cycle}	court-of-appeals-gobeil-2026
 Supreme Court	supreme-court-{seat-slug}-{cycle}	supreme-court-warren-2026
 
