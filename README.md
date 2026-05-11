@@ -8,14 +8,14 @@ Georgia election race and candidate data for the 2026 election cycle, published 
 | Level |	Races |
 | :-----: | :-----: |
 | U.S. Senate |	1 |
-U.S. House	14
-GA Statewide Executive	10
-GA State Senate	56
-GA House of Representatives	180
-Superior Court	84
-Georgia Court of Appeals	5
-Supreme Court of Georgia	2
-Total	352
+| U.S. House | 14 |
+| GA Statewide Executive | 10 |
+| GA State Senate |	56 |
+| GA House of Representatives	| 180 |
+| Superior Court | 84 |
+| Georgia Court of Appeals | 5 |
+| Supreme Court of Georgia | 2 |
+| Total | 352 |
 
 ## Top-level structure
 {
