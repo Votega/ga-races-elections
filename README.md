@@ -18,10 +18,12 @@ Georgia election race and candidate data for the 2026 election cycle, published 
 | Total | 352 |
 
 ## Top-level structure
+```json
 {
   "races": [ ... ],
   "updatedAt": "2026-05-11T00:00:00Z"
 }
+```
 
 ### Race object — legislative / executive
 ```json
@@ -52,6 +54,7 @@ activePhase	"primary" or "general"
 
 ## Race object — judicial
 Judicial races use a flat candidates array (not ballots) since all Georgia judicial elections are non-partisan.
+```json
 {
   "id": "superior-court-gwinnett-mason-2026",
   "level": "state-judicial",
@@ -72,6 +75,7 @@ Judicial races use a flat candidates array (not ballots) since all Georgia judic
     }
   }
 }
+```
 ### Field	Notes
 circuit	Present on Superior Court races only (e.g. "Gwinnett Judicial Circuit")
 seat	The seat name, taken from the SOS contest label (e.g. "Mason")
@@ -88,6 +92,7 @@ Georgia holds an open primary: voters choose a party ballot on election day. Leg
 Judicial races are non-partisan and use a flat candidates array instead (see below).
 
 ## Candidate object — legislative (GA House / GA Senate)
+```json
 {
   "id": "ga-house-128-2026-d-1",
   "type": "challenger",
@@ -99,6 +104,7 @@ Judicial races are non-partisan and use a flat candidates array instead (see bel
   "website": "https://janeforgeorgia.com",
   "email": "jane@janeforgeorgia.com"
 }
+```
 Field	Notes
 id	{state}-{chamber}-{district}-{cycle}-{party}-{n}
 type	Always "challenger" for legislative races
@@ -107,6 +113,7 @@ withdrawn	true if the candidate was disqualified or withdrew
 occupation, county, email, website	Present when available from SOS qualifying data
 
 ## Candidate object — judicial
+```json
 {
   "id": "jud-sup-gwinnett-mason",
   "type": "challenger",
@@ -117,6 +124,7 @@ occupation, county, email, website	Present when available from SOS qualifying da
   "email": "reelecttraceymason@gmail.com",
   "website": "https://reelectraceymason.com"
 }
+```
 Field	Notes
 type	Always "challenger" for judicial candidates
 party	Always "Non-Partisan"
@@ -125,11 +133,13 @@ occupation, email, website	Present when available from SOS qualifying data
 
 ## Candidate object — federal / executive (incumbent reference)
 For races where an incumbent is running, the entry references their record in a separate members dataset rather than duplicating data:
+```json
 {
   "type": "incumbent",
   "memberId": "O000174",
   "memberSource": "congress"
 }
+```
 memberSource is "congress" for U.S. members (keyed by bioguide ID) or "ga-members" for state officials.
 
 ## ID conventions
