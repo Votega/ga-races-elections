@@ -5,8 +5,8 @@ Georgia election race and candidate data for the 2026 election cycle, published 
 352 races across federal, state executive, state legislative, and judicial offices — updated daily via GitHub Actions from VoteGA.org.
 
 ### Counts
-Level	Races
-U.S. Senate	1
+| Level |	Races |
+| U.S. Senate |	1 |
 U.S. House	14
 GA Statewide Executive	10
 GA State Senate	56
