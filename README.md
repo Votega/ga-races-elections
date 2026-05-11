@@ -24,6 +24,7 @@ Georgia election race and candidate data for the 2026 election cycle, published 
 }
 
 ### Race object — legislative / executive
+'''json
 {
   "id": "ga-house-128-2026",
   "level": "state",
@@ -42,6 +43,7 @@ Georgia election race and candidate data for the 2026 election cycle, published 
     }
   }
 }
+'''
 Field	Values
 level	"federal", "state-executive", "state", "state-judicial"
 chamber	See counts table above
