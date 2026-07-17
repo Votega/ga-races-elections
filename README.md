@@ -1,8 +1,8 @@
 # ga-races-elections
-Georgia election race and candidate data for the 2026 election cycle, published as a static JSON file and updated automatically.
+Georgia election race and candidate data for the 2026 election cycle, published as a static JSON file and updated automatically, maintained by [VoteGA.org](https://votega.org).
 
 ## races.json
-352 races across federal, state executive, state legislative, and judicial offices — updated daily via GitHub Actions from VoteGA.org.
+352 races across federal, state executive, state legislative, and judicial offices — updated daily via GitHub Actions from [VoteGA.org](https://votega.org).
 
 ### Counts
 | Level |	Races |
