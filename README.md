@@ -1,5 +1,19 @@
 # ga-races-elections
-Georgia election race and candidate data for the 2026 election cycle, published as a static JSON file and updated automatically, maintained by [VoteGA.org](https://votega.org).
+Georgia election race and candidate data for the 2026 election cycle, updated automatically, maintained by [VoteGA.org](https://votega.org).
+
+## Files
+
+Pick the format that fits how you work — the CSV and Markdown files are flattened views of the nested JSON.
+
+| File | Format | Best for |
+|------|--------|----------|
+| `races.json` | JSON | Developers — full nested data (every candidate & phase) |
+| `races.csv` | CSV | **Spreadsheets** — one row per race |
+| `candidates.csv` | CSV | **Analysis** — one row per (race, phase, candidate); the deeply-nested candidate data, flattened, with incumbent names resolved |
+| `races.schema.json` | JSON Schema | Validating / typing `races.json` |
+| [`RACES.md`](RACES.md) | Markdown | **Reading** — counts by cycle, level, and active phase |
+
+> In `races.json`, partisan races store candidates under party-keyed `phases.<phase>.ballots`, while nonpartisan (judicial) races use a flat `phases.<phase>.candidates` array. `candidates.csv` unifies both into one table.
 
 ## races.json
 352 races across federal, state executive, state legislative, and judicial offices — updated daily via GitHub Actions from [VoteGA.org](https://votega.org).
