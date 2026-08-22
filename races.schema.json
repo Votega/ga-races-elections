@@ -1,0 +1,81 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "$id": "https://raw.githubusercontent.com/Votega/ga-races-elections/main/races.schema.json",
+ "title": "Georgia Races & Elections",
+ "description": "Curated Georgia election races. Each race carries per-phase ballots; partisan races use party-keyed `ballots`, nonpartisan (judicial) races use a flat `candidates` array. See races.csv / candidates.csv for flat views.",
+ "type": "object",
+ "required": [
+  "races"
+ ],
+ "properties": {
+  "updatedAt": {
+   "type": [
+    "string",
+    "null"
+   ]
+  },
+  "races": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "required": [
+     "id",
+     "level",
+     "chamber",
+     "cycle"
+    ],
+    "properties": {
+     "id": {
+      "type": "string"
+     },
+     "level": {
+      "type": "string",
+      "enum": [
+       "federal",
+       "state",
+       "state-executive",
+       "state-judicial"
+      ]
+     },
+     "chamber": {
+      "type": "string"
+     },
+     "district": {
+      "type": [
+       "integer",
+       "null"
+      ]
+     },
+     "cycle": {
+      "type": "integer"
+     },
+     "activePhase": {
+      "type": [
+       "string",
+       "null"
+      ],
+      "description": "Which phase is current (e.g. primary, general, runoff)."
+     },
+     "displayTitle": {
+      "type": [
+       "string",
+       "null"
+      ]
+     },
+     "incumbentBioguideId": {
+      "type": [
+       "string",
+       "null"
+      ]
+     },
+     "phases": {
+      "type": "object",
+      "description": "Keyed by phase name; each phase has electionDate plus ballots{} (partisan) or candidates[] (nonpartisan)."
+     }
+    },
+    "additionalProperties": true
+   }
+  }
+ },
+ "additionalProperties": true
+}
