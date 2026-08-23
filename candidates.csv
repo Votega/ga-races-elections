@@ -511,7 +511,7 @@ ga-house-16-2026,state,Georgia House of Representatives,16,2026,general,2026-11-
 ga-house-17-2026,state,Georgia House of Representatives,17,2026,primary,2026-05-19,Democrat,Tamyko Green,challenger,False,ga-house-17-2026-d-1
 ga-house-17-2026,state,Georgia House of Representatives,17,2026,primary,2026-05-19,Republican,Martin A. Momtahan,challenger,True,ga-house-17-2026-r-1
 ga-house-17-2026,state,Georgia House of Representatives,17,2026,general,2026-11-03,Republican,Martin A. Momtahan,incumbent,True,ga-house-17-2026-r-1
-ga-house-17-2026,state,Georgia House of Representatives,17,2026,general,2026-11-03,Democrat,Tamyko Green,challenger,False,ga-house-17-2026-d-1
+ga-house-17-2026,state,Georgia House of Representatives,17,2026,general,2026-11-03,Democrat,Ke'Andra Foggie,challenger,False,ga-house-17-2026-d-foggie
 ga-house-18-2026,state,Georgia House of Representatives,18,2026,primary,2026-05-19,Democrat,Pat Rhudy,challenger,False,ga-house-18-2026-d-1
 ga-house-18-2026,state,Georgia House of Representatives,18,2026,primary,2026-05-19,Republican,Frank Douglas Phillips,challenger,False,ga-house-18-2026-r-1
 ga-house-18-2026,state,Georgia House of Representatives,18,2026,primary,2026-05-19,Republican,Tyler Paul Smith,challenger,True,ga-house-18-2026-r-2
@@ -636,7 +636,7 @@ ga-house-49-2026,state,Georgia House of Representatives,49,2026,primary,2026-05-
 ga-house-49-2026,state,Georgia House of Representatives,49,2026,primary,2026-05-19,Democrat,Teresa Diane Lin,challenger,False,ga-house-49-2026-d-2
 ga-house-49-2026,state,Georgia House of Representatives,49,2026,primary,2026-05-19,Republican,Chuck Martin,challenger,True,ga-house-49-2026-r-1
 ga-house-49-2026,state,Georgia House of Representatives,49,2026,general,2026-11-03,Republican,Chuck Martin,incumbent,True,ga-house-49-2026-r-1
-ga-house-49-2026,state,Georgia House of Representatives,49,2026,general,2026-11-03,Democrat,Teresa Diane Lin,challenger,False,ga-house-49-2026-d-2
+ga-house-49-2026,state,Georgia House of Representatives,49,2026,general,2026-11-03,Democrat,Sara Fuchs,challenger,False,ga-house-49-2026-d-fuchs
 ga-house-50-2026,state,Georgia House of Representatives,50,2026,primary,2026-05-19,Democrat,Michelle Au,challenger,True,ga-house-50-2026-d-1
 ga-house-50-2026,state,Georgia House of Representatives,50,2026,primary,2026-05-19,Republican,Azure Duan,challenger,False,ga-house-50-2026-r-1
 ga-house-50-2026,state,Georgia House of Representatives,50,2026,general,2026-11-03,Republican,Azure Duan,challenger,False,ga-house-50-2026-r-1
@@ -729,7 +729,7 @@ ga-house-71-2026,state,Georgia House of Representatives,71,2026,primary,2026-05-
 ga-house-71-2026,state,Georgia House of Representatives,71,2026,primary,2026-05-19,Democrat,Brandolynn Yarbrough,challenger,False,ga-house-71-2026-d-2
 ga-house-71-2026,state,Georgia House of Representatives,71,2026,primary,2026-05-19,Republican,"Justin ""jutt"" Howard",challenger,True,ga-house-71-2026-r-1
 ga-house-71-2026,state,Georgia House of Representatives,71,2026,general,2026-11-03,Republican,"Justin ""jutt"" Howard",incumbent,True,ga-house-71-2026-r-1
-ga-house-71-2026,state,Georgia House of Representatives,71,2026,general,2026-11-03,Democrat,Anna Higgins,challenger,False,ga-house-71-2026-d-1
+ga-house-71-2026,state,Georgia House of Representatives,71,2026,general,2026-11-03,Democrat,Brandolynn Yarbrough,challenger,False,ga-house-71-2026-d-2
 ga-house-72-2026,state,Georgia House of Representatives,72,2026,primary,2026-05-19,Republican,Reuben David Huddleston,challenger,True,ga-house-72-2026-r-1
 ga-house-72-2026,state,Georgia House of Representatives,72,2026,general,2026-11-03,Republican,Reuben David Huddleston,incumbent,True,ga-house-72-2026-r-1
 ga-house-73-2026,state,Georgia House of Representatives,73,2026,primary,2026-05-19,Democrat,Timothy C Wilkinson,challenger,False,ga-house-73-2026-d-1
@@ -1030,6 +1030,7 @@ ga-house-151-2026,state,Georgia House of Representatives,151,2026,primary,2026-0
 ga-house-151-2026,state,Georgia House of Representatives,151,2026,primary,2026-05-19,Republican,Michael A Cheokas,challenger,True,ga-house-151-2026-r-1
 ga-house-151-2026,state,Georgia House of Representatives,151,2026,general,2026-11-03,Republican,Michael A Cheokas,incumbent,True,ga-house-151-2026-r-1
 ga-house-151-2026,state,Georgia House of Representatives,151,2026,general,2026-11-03,Democrat,James E. Wolfe,challenger,False,ga-house-151-2026-d-1
+ga-house-151-2026,state,Georgia House of Representatives,151,2026,general,2026-11-03,Independent,Travis Lockhart,challenger,False,ga-house-151-2026-i-lockhart
 ga-house-152-2026,state,Georgia House of Representatives,152,2026,primary,2026-05-19,Democrat,Mitchell Rosa,challenger,False,ga-house-152-2026-d-1
 ga-house-152-2026,state,Georgia House of Representatives,152,2026,primary,2026-05-19,Republican,William Joseph Yearta,challenger,True,ga-house-152-2026-r-1
 ga-house-152-2026,state,Georgia House of Representatives,152,2026,general,2026-11-03,Republican,William Joseph Yearta,incumbent,True,ga-house-152-2026-r-1
