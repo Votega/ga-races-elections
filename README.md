@@ -209,3 +209,5 @@ const gwinnettCourts = races.filter(r =>
   r.circuit === 'Gwinnett Judicial Circuit'
 );
 
+## License
+[CC-BY-SA 4.0](https://github.com/Votega/ga-races-elections?tab=CC-BY-SA-4.0-1-ov-file)
