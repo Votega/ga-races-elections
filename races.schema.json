@@ -74,7 +74,7 @@
        "object",
        "null"
       ],
-      "description": "The decided result (present once status is complete/certified): {name, candidateId, party, phase}.",
+      "description": "The decided result (present once status is complete/certified): {name, candidateId, party, phase}; an incumbent listed only by member id carries memberId in place of candidateId.",
       "additionalProperties": true
      },
      "displayTitle": {
