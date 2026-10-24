@@ -11,12 +11,12 @@ appropriate credit and license any adaptations you distribute under the same ter
 
 > Source: VoteGA.org (https://www.votega.org), CC BY-SA 4.0.
 > Data from [VoteGA.org](https://votega.org), licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
-> Original source: the Georgia Secretary of State.
+> Original source: the Georgia Secretary of State; the county Census figures in early-vote/ come from the U.S. Census Bureau's American Community Survey, compiled by Georgia Civic Data (georgiacivicdata.org, CC BY 4.0).
 
 ## Two things the license does not cover
 
 - **Upstream terms.** VoteGA's license covers the compilation, cleaning, and joins in this
-  repository. The underlying facts come from the Georgia Secretary of State, whose own terms may apply to
+  repository. The underlying facts come from the Georgia Secretary of State; the county Census figures in early-vote/ come from the U.S. Census Bureau's American Community Survey, compiled by Georgia Civic Data (georgiacivicdata.org, CC BY 4.0), whose own terms may apply to
   anything you redistribute — verify them independently.
 - **Accuracy.** The data is provided as is, with no warranty. Spotted an error? Open an
   issue on this repository, or email admin@votega.org.
