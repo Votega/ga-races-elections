@@ -1,0 +1,83 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "$id": "https://raw.githubusercontent.com/Votega/ga-races-elections/main/early-vote/2026-general/county-by-day.schema.json",
+ "schemaVersion": "1.0.0",
+ "schemaStability": "Stable column names and meanings. days_before 45 holds every accepted ballot 45 or more days before election day and has no date. Only elections whose Secretary of State file is complete are included, so 2022 is absent by design.",
+ "title": "Georgia early voting: county by day",
+ "description": "Accepted ballots per county and day before election day, for this election and any past election whose Secretary of State file is complete.",
+ "type": "object",
+ "required": [
+  "metadata",
+  "rows"
+ ],
+ "properties": {
+  "metadata": {
+   "type": "object",
+   "description": "What this file describes: the election, the as-of date, the comparison points, sources and caveats."
+  },
+  "rows": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "properties": {
+     "election_year": {
+      "type": [
+       "integer",
+       "null"
+      ],
+      "description": "Election year of the row (this year, or a past year whose file is complete)."
+     },
+     "county_fips": {
+      "type": [
+       "string",
+       "null"
+      ],
+      "description": "5-digit county FIPS code."
+     },
+     "county": {
+      "type": [
+       "string",
+       "null"
+      ],
+      "description": "County name."
+     },
+     "date": {
+      "type": [
+       "string",
+       "null"
+      ],
+      "description": "Calendar date (ISO) of the day. Blank when days_before is 45, which pools every earlier day."
+     },
+     "days_before": {
+      "type": [
+       "integer",
+       "null"
+      ],
+      "description": "Days before election day. 45 means 45 or more."
+     },
+     "in_person": {
+      "type": [
+       "integer",
+       "null"
+      ],
+      "description": "Accepted early in-person ballots returned that day."
+     },
+     "mail": {
+      "type": [
+       "integer",
+       "null"
+      ],
+      "description": "Accepted mail and electronic ballots received that day."
+     },
+     "ballots": {
+      "type": [
+       "integer",
+       "null"
+      ],
+      "description": "in_person + mail."
+     }
+    }
+   }
+  }
+ }
+}
