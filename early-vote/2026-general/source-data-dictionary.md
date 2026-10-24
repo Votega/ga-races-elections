@@ -180,7 +180,7 @@ One JSON document. Anything we read is committed in distilled form as `results-Y
 
 ---
 
-## 5. Traps
+## 5. Traps that have already cost us
 
 1. **`Ballot Style` is the method, not the ballot.** Anyone reading it as "ballot style" will misread it.
 2. **For in-person voters, `Ballot Return Date` is the day they voted.** There is no separate vote date.
