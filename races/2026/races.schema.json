@@ -1,6 +1,6 @@
 {
  "$schema": "https://json-schema.org/draft/2020-12/schema",
- "$id": "https://raw.githubusercontent.com/Votega/ga-races-elections/main/races.schema.json",
+ "$id": "https://raw.githubusercontent.com/Votega/ga-races-elections/main/races/2026/races.schema.json",
  "title": "Georgia Races & Elections",
  "description": "Curated Georgia election races. Each race carries per-phase ballots; partisan races use party-keyed `ballots`, nonpartisan (judicial) races use a flat `candidates` array. See races.csv / candidates.csv for flat views.",
  "type": "object",
@@ -34,7 +34,8 @@
        "federal",
        "state",
        "state-executive",
-       "state-judicial"
+       "state-judicial",
+       "local"
       ]
      },
      "chamber": {
