@@ -9,7 +9,7 @@ Pick the format that fits how you work — the CSV and Markdown files are flatte
 |------|--------|----------|
 | `races.json` | JSON | Developers — full nested data (every candidate & phase) |
 | `races.csv` | CSV | **Spreadsheets** — one row per race |
-| `candidates.csv` | CSV | **Analysis** — one row per (race, phase, candidate); the deeply-nested candidate data, flattened, with incumbent names resolved |
+| `candidates.csv` | CSV | **Analysis** — one row per (race, phase, candidate); the deeply-nested candidate data, flattened, with incumbent names resolved. `candidateId` is blank for an incumbent listed by reference; `memberId` / `memberSource` point at their member record, and `candidateKey` is `candidateId` if there is one, else `memberId`, so every row has one join key |
 | `races.schema.json` | JSON Schema | Validating / typing `races.json` |
 | [`RACES.md`](RACES.md) | Markdown | **Reading** — counts by cycle, level, and active phase |
 
@@ -173,7 +173,7 @@ For races where an incumbent is running, the entry references their record in a 
   "memberSource": "congress"
 }
 ```
-memberSource is "congress" for U.S. members (keyed by bioguide ID) or "ga-members" for state officials.
+memberSource is "congress" for U.S. members (keyed by bioguide ID) or "ga-members" for state officials. In `candidates.csv` these entries have a blank `candidateId`; they are identified by `memberId` (also given as `candidateKey`).
 
 ## ID conventions
 | Race type |	ID pattern | Example |
