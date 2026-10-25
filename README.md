@@ -7,13 +7,27 @@ Pick the format that fits how you work — the CSV and Markdown files are flatte
 
 | File | Format | Best for |
 |------|--------|----------|
-| `races.json` | JSON | Developers — full nested data (every candidate & phase) |
-| `races.csv` | CSV | **Spreadsheets** — one row per race |
-| `candidates.csv` | CSV | **Analysis** — one row per (race, phase, candidate); the deeply-nested candidate data, flattened, with incumbent names resolved. `candidateId` is blank for an incumbent listed by reference; `memberId` / `memberSource` point at their member record, and `candidateKey` is `candidateId` if there is one, else `memberId`, so every row has one join key |
-| `races.schema.json` | JSON Schema | Validating / typing `races.json` |
-| [`RACES.md`](RACES.md) | Markdown | **Reading** — counts by cycle, level, and active phase |
+| [`races/2026/races.json`](races/2026/races.json) | JSON | Developers — full nested data (every candidate & phase) |
+| [`races/2026/races.csv`](races/2026/races.csv) | CSV | **Spreadsheets** — one row per race |
+| [`races/2026/candidates.csv`](races/2026/candidates.csv) | CSV | **Analysis** — one row per (race, phase, candidate); the deeply-nested candidate data, flattened, with incumbent names resolved. `candidateId` is blank for an incumbent listed by reference; `memberId` / `memberSource` point at their member record, and `candidateKey` is `candidateId` if there is one, else `memberId`, so every row has one join key |
+| [`races/2026/races.schema.json`](races/2026/races.schema.json) | JSON Schema | Validating / typing `races.json` |
+| [`races/2026/RACES.md`](races/2026/RACES.md) | Markdown | **Reading** — counts by cycle, level, and active phase |
 
 > In `races.json`, partisan races store candidates under party-keyed `phases.<phase>.ballots`, while nonpartisan (judicial) races use a flat `phases.<phase>.candidates` array. `candidates.csv` unifies both into one table.
+
+### Layout
+
+```
+ga-races-elections/
+├── README.md, LICENSE, NOTICE.md
+├── races/
+│   └── 2026/                 one folder per election cycle (a cycle spans its primary, runoff and general)
+│       ├── races.json, races.csv, candidates.csv, races.schema.json, RACES.md
+└── early-vote/
+    └── 2026-general/         one folder per election
+```
+
+> **Moved in October 2026.** The races files used to sit at the repository root (`/races.json` and so on). They now live in `races/2026/`; the old paths no longer exist. A later cycle appears as `races/2028/` with the same file names.
 
 ### Early voting (`early-vote/2026-general/`)
 
@@ -25,7 +39,7 @@ Pick the format that fits how you work — the CSV and Markdown files are flatte
 | [`source-data-dictionary.md`](early-vote/2026-general/source-data-dictionary.md) | Markdown | **Reading** — what each field in the Secretary of State's source files means |
 
 ## races.json
-363 races across federal, state executive, state legislative, judicial, and district attorney offices — updated daily via GitHub Actions from [VoteGA.org](https://votega.org). Live counts by level and phase are in [`RACES.md`](RACES.md).
+363 races across federal, state executive, state legislative, judicial, and district attorney offices — updated daily via GitHub Actions from [VoteGA.org](https://votega.org). Live counts by level and phase are in [`races/2026/RACES.md`](races/2026/RACES.md).
 
 ### Counts
 | Level | Races |
@@ -238,7 +252,7 @@ Everything in `early-vote/` is a county-level aggregate derived from the Secreta
 
 ## Usage
 ```js
-const res = await fetch('https://raw.githubusercontent.com/Votega/ga-races-elections/main/races.json');
+const res = await fetch('https://raw.githubusercontent.com/Votega/ga-races-elections/main/races/2026/races.json');
 const { races } = await res.json();
 
 // All Gwinnett House districts
