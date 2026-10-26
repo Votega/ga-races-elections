@@ -6,8 +6,8 @@
    "year": 2026,
    "type": "general"
   },
-  "asOf": "2026-10-24",
-  "dataGeneratedAt": "2026-10-25T17:17:52Z",
+  "asOf": "2026-10-25",
+  "dataGeneratedAt": "2026-10-26T18:24:16Z",
   "years": [
    "2024",
    "2026"
@@ -378,6 +378,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13001",
+   "county": "Appling",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13003",
    "county": "Atkinson",
    "date": null,
@@ -735,6 +745,16 @@
    "in_person": 59,
    "mail": 1,
    "ballots": 60
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13003",
+   "county": "Atkinson",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -1098,6 +1118,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13005",
+   "county": "Bacon",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13007",
    "county": "Baker",
    "date": null,
@@ -1455,6 +1485,16 @@
    "in_person": 23,
    "mail": 1,
    "ballots": 24
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13007",
+   "county": "Baker",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -1818,6 +1858,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13009",
+   "county": "Baldwin",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13011",
    "county": "Banks",
    "date": null,
@@ -2178,6 +2228,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13011",
+   "county": "Banks",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13013",
    "county": "Barrow",
    "date": null,
@@ -2532,9 +2592,19 @@
    "county": "Barrow",
    "date": "2026-10-24",
    "days_before": 10,
-   "in_person": 1151,
+   "in_person": 1154,
    "mail": 45,
-   "ballots": 1196
+   "ballots": 1199
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13013",
+   "county": "Barrow",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -2898,6 +2968,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13015",
+   "county": "Bartow",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13017",
    "county": "Ben Hill",
    "date": null,
@@ -3255,6 +3335,16 @@
    "in_person": 115,
    "mail": 3,
    "ballots": 118
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13017",
+   "county": "Ben Hill",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -3618,6 +3708,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13019",
+   "county": "Berrien",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13021",
    "county": "Bibb",
    "date": null,
@@ -3975,6 +4075,16 @@
    "in_person": 1382,
    "mail": 78,
    "ballots": 1460
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13021",
+   "county": "Bibb",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -4338,6 +4448,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13023",
+   "county": "Bleckley",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13025",
    "county": "Brantley",
    "date": null,
@@ -4695,6 +4815,16 @@
    "in_person": 124,
    "mail": 0,
    "ballots": 124
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13025",
+   "county": "Brantley",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -5058,6 +5188,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13027",
+   "county": "Brooks",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13029",
    "county": "Bryan",
    "date": null,
@@ -5415,6 +5555,16 @@
    "in_person": 691,
    "mail": 0,
    "ballots": 691
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13029",
+   "county": "Bryan",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -5778,6 +5928,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13031",
+   "county": "Bulloch",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13033",
    "county": "Burke",
    "date": null,
@@ -6135,6 +6295,16 @@
    "in_person": 196,
    "mail": 14,
    "ballots": 210
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13033",
+   "county": "Burke",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -6498,6 +6668,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13035",
+   "county": "Butts",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13037",
    "county": "Calhoun",
    "date": null,
@@ -6858,6 +7038,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13037",
+   "county": "Calhoun",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13039",
    "county": "Camden",
    "date": null,
@@ -7212,9 +7402,19 @@
    "county": "Camden",
    "date": "2026-10-24",
    "days_before": 10,
-   "in_person": 665,
+   "in_person": 668,
    "mail": 0,
-   "ballots": 665
+   "ballots": 668
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13039",
+   "county": "Camden",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 28,
+   "ballots": 28
   },
   {
    "election_year": 2026,
@@ -7578,6 +7778,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13043",
+   "county": "Candler",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13045",
    "county": "Carroll",
    "date": null,
@@ -7935,6 +8145,16 @@
    "in_person": 962,
    "mail": 17,
    "ballots": 979
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13045",
+   "county": "Carroll",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -8298,6 +8518,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13047",
+   "county": "Catoosa",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13049",
    "county": "Charlton",
    "date": null,
@@ -8658,6 +8888,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13049",
+   "county": "Charlton",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13051",
    "county": "Chatham",
    "date": null,
@@ -8993,8 +9233,8 @@
    "date": "2026-10-22",
    "days_before": 12,
    "in_person": 3155,
-   "mail": 206,
-   "ballots": 3361
+   "mail": 211,
+   "ballots": 3366
   },
   {
    "election_year": 2026,
@@ -9015,6 +9255,16 @@
    "in_person": 1996,
    "mail": 25,
    "ballots": 2021
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13051",
+   "county": "Chatham",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 876,
+   "mail": 141,
+   "ballots": 1017
   },
   {
    "election_year": 2026,
@@ -9378,6 +9628,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13053",
+   "county": "Chattahoochee",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13055",
    "county": "Chattooga",
    "date": null,
@@ -9738,6 +9998,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13055",
+   "county": "Chattooga",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13057",
    "county": "Cherokee",
    "date": null,
@@ -10092,9 +10362,19 @@
    "county": "Cherokee",
    "date": "2026-10-24",
    "days_before": 10,
-   "in_person": 3596,
+   "in_person": 3597,
    "mail": 84,
-   "ballots": 3680
+   "ballots": 3681
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13057",
+   "county": "Cherokee",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 503,
+   "mail": 0,
+   "ballots": 503
   },
   {
    "election_year": 2026,
@@ -10413,8 +10693,8 @@
    "date": "2026-10-20",
    "days_before": 14,
    "in_person": 2300,
-   "mail": 52,
-   "ballots": 2352
+   "mail": 53,
+   "ballots": 2353
   },
   {
    "election_year": 2026,
@@ -10455,6 +10735,16 @@
    "in_person": 1909,
    "mail": 0,
    "ballots": 1909
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13059",
+   "county": "Clarke",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -10818,6 +11108,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13061",
+   "county": "Clay",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13063",
    "county": "Clayton",
    "date": null,
@@ -11172,9 +11472,19 @@
    "county": "Clayton",
    "date": "2026-10-24",
    "days_before": 10,
-   "in_person": 2248,
+   "in_person": 2258,
    "mail": 8,
-   "ballots": 2256
+   "ballots": 2266
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13063",
+   "county": "Clayton",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 1264,
+   "mail": 7,
+   "ballots": 1271
   },
   {
    "election_year": 2026,
@@ -11538,6 +11848,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13065",
+   "county": "Clinch",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13067",
    "county": "Cobb",
    "date": null,
@@ -11883,8 +12203,8 @@
    "date": "2026-10-23",
    "days_before": 11,
    "in_person": 13891,
-   "mail": 448,
-   "ballots": 14339
+   "mail": 450,
+   "ballots": 14341
   },
   {
    "election_year": 2026,
@@ -11893,8 +12213,18 @@
    "date": "2026-10-24",
    "days_before": 10,
    "in_person": 9143,
+   "mail": 148,
+   "ballots": 9291
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13067",
+   "county": "Cobb",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 3181,
    "mail": 0,
-   "ballots": 9143
+   "ballots": 3181
   },
   {
    "election_year": 2026,
@@ -12258,6 +12588,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13069",
+   "county": "Coffee",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13071",
    "county": "Colquitt",
    "date": null,
@@ -12615,6 +12955,16 @@
    "in_person": 257,
    "mail": 14,
    "ballots": 271
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13071",
+   "county": "Colquitt",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -12978,6 +13328,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13073",
+   "county": "Columbia",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13075",
    "county": "Cook",
    "date": null,
@@ -13335,6 +13695,16 @@
    "in_person": 145,
    "mail": 2,
    "ballots": 147
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13075",
+   "county": "Cook",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -13698,6 +14068,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13077",
+   "county": "Coweta",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13079",
    "county": "Crawford",
    "date": null,
@@ -14055,6 +14435,16 @@
    "in_person": 116,
    "mail": 0,
    "ballots": 116
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13079",
+   "county": "Crawford",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -14418,6 +14808,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13081",
+   "county": "Crisp",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13083",
    "county": "Dade",
    "date": null,
@@ -14775,6 +15175,16 @@
    "in_person": 78,
    "mail": 1,
    "ballots": 79
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13083",
+   "county": "Dade",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -15138,6 +15548,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13085",
+   "county": "Dawson",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13089",
    "county": "DeKalb",
    "date": null,
@@ -15483,8 +15903,8 @@
    "date": "2026-10-23",
    "days_before": 11,
    "in_person": 12632,
-   "mail": 374,
-   "ballots": 13006
+   "mail": 375,
+   "ballots": 13007
   },
   {
    "election_year": 2026,
@@ -15492,9 +15912,19 @@
    "county": "DeKalb",
    "date": "2026-10-24",
    "days_before": 10,
-   "in_person": 9124,
+   "in_person": 9125,
    "mail": 0,
-   "ballots": 9124
+   "ballots": 9125
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13089",
+   "county": "DeKalb",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 5252,
+   "mail": 27,
+   "ballots": 5279
   },
   {
    "election_year": 2026,
@@ -15858,6 +16288,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13087",
+   "county": "Decatur",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13091",
    "county": "Dodge",
    "date": null,
@@ -16215,6 +16655,16 @@
    "in_person": 168,
    "mail": 0,
    "ballots": 168
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13091",
+   "county": "Dodge",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -16578,6 +17028,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13093",
+   "county": "Dooly",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13095",
    "county": "Dougherty",
    "date": null,
@@ -16932,9 +17392,19 @@
    "county": "Dougherty",
    "date": "2026-10-24",
    "days_before": 10,
-   "in_person": 633,
+   "in_person": 638,
    "mail": 0,
-   "ballots": 633
+   "ballots": 638
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13095",
+   "county": "Dougherty",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 423,
+   "mail": 0,
+   "ballots": 423
   },
   {
    "election_year": 2026,
@@ -17298,6 +17768,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13097",
+   "county": "Douglas",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13099",
    "county": "Early",
    "date": null,
@@ -17655,6 +18135,16 @@
    "in_person": 72,
    "mail": 0,
    "ballots": 72
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13099",
+   "county": "Early",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -18018,6 +18508,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13101",
+   "county": "Echols",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13103",
    "county": "Effingham",
    "date": null,
@@ -18375,6 +18875,16 @@
    "in_person": 666,
    "mail": 20,
    "ballots": 686
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13103",
+   "county": "Effingham",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -18738,6 +19248,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13105",
+   "county": "Elbert",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13107",
    "county": "Emanuel",
    "date": null,
@@ -19095,6 +19615,16 @@
    "in_person": 114,
    "mail": 3,
    "ballots": 117
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13107",
+   "county": "Emanuel",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -19458,6 +19988,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13109",
+   "county": "Evans",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13111",
    "county": "Fannin",
    "date": null,
@@ -19815,6 +20355,16 @@
    "in_person": 119,
    "mail": 18,
    "ballots": 137
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13111",
+   "county": "Fannin",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -20178,6 +20728,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13113",
+   "county": "Fayette",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 764,
+   "mail": 2,
+   "ballots": 766
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13115",
    "county": "Floyd",
    "date": null,
@@ -20533,8 +21093,18 @@
    "date": "2026-10-24",
    "days_before": 10,
    "in_person": 492,
-   "mail": 0,
-   "ballots": 492
+   "mail": 3,
+   "ballots": 495
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13115",
+   "county": "Floyd",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 297,
+   "mail": 1,
+   "ballots": 298
   },
   {
    "election_year": 2026,
@@ -20898,6 +21468,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13117",
+   "county": "Forsyth",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13119",
    "county": "Franklin",
    "date": null,
@@ -21258,6 +21838,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13119",
+   "county": "Franklin",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13121",
    "county": "Fulton",
    "date": null,
@@ -21533,8 +22123,8 @@
    "date": "2026-10-16",
    "days_before": 18,
    "in_person": 21783,
-   "mail": 1036,
-   "ballots": 22819
+   "mail": 1038,
+   "ballots": 22821
   },
   {
    "election_year": 2026,
@@ -21593,8 +22183,8 @@
    "date": "2026-10-22",
    "days_before": 12,
    "in_person": 14750,
-   "mail": 777,
-   "ballots": 15527
+   "mail": 778,
+   "ballots": 15528
   },
   {
    "election_year": 2026,
@@ -21612,9 +22202,19 @@
    "county": "Fulton",
    "date": "2026-10-24",
    "days_before": 10,
-   "in_person": 12233,
+   "in_person": 12241,
    "mail": 547,
-   "ballots": 12780
+   "ballots": 12788
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13121",
+   "county": "Fulton",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 6758,
+   "mail": 117,
+   "ballots": 6875
   },
   {
    "election_year": 2026,
@@ -21978,6 +22578,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13123",
+   "county": "Gilmer",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13125",
    "county": "Glascock",
    "date": null,
@@ -22335,6 +22945,16 @@
    "in_person": 31,
    "mail": 0,
    "ballots": 31
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13125",
+   "county": "Glascock",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -22698,6 +23318,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13127",
+   "county": "Glynn",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13129",
    "county": "Gordon",
    "date": null,
@@ -23055,6 +23685,16 @@
    "in_person": 396,
    "mail": 3,
    "ballots": 399
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13129",
+   "county": "Gordon",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -23418,6 +24058,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13131",
+   "county": "Grady",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13133",
    "county": "Greene",
    "date": null,
@@ -23778,6 +24428,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13133",
+   "county": "Greene",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13135",
    "county": "Gwinnett",
    "date": null,
@@ -24113,8 +24773,8 @@
    "date": "2026-10-22",
    "days_before": 12,
    "in_person": 10488,
-   "mail": 648,
-   "ballots": 11136
+   "mail": 652,
+   "ballots": 11140
   },
   {
    "election_year": 2026,
@@ -24123,8 +24783,8 @@
    "date": "2026-10-23",
    "days_before": 11,
    "in_person": 13065,
-   "mail": 506,
-   "ballots": 13571
+   "mail": 508,
+   "ballots": 13573
   },
   {
    "election_year": 2026,
@@ -24132,9 +24792,19 @@
    "county": "Gwinnett",
    "date": "2026-10-24",
    "days_before": 10,
-   "in_person": 10460,
-   "mail": 9,
-   "ballots": 10469
+   "in_person": 10461,
+   "mail": 532,
+   "ballots": 10993
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13135",
+   "county": "Gwinnett",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 6660,
+   "mail": 0,
+   "ballots": 6660
   },
   {
    "election_year": 2026,
@@ -24498,6 +25168,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13137",
+   "county": "Habersham",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13139",
    "county": "Hall",
    "date": null,
@@ -24855,6 +25535,16 @@
    "in_person": 2136,
    "mail": 39,
    "ballots": 2175
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13139",
+   "county": "Hall",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -25218,6 +25908,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13141",
+   "county": "Hancock",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13143",
    "county": "Haralson",
    "date": null,
@@ -25575,6 +26275,16 @@
    "in_person": 198,
    "mail": 16,
    "ballots": 214
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13143",
+   "county": "Haralson",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -25938,6 +26648,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13145",
+   "county": "Harris",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13147",
    "county": "Hart",
    "date": null,
@@ -26295,6 +27015,16 @@
    "in_person": 217,
    "mail": 0,
    "ballots": 217
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13147",
+   "county": "Hart",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -26658,6 +27388,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13149",
+   "county": "Heard",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13151",
    "county": "Henry",
    "date": null,
@@ -27015,6 +27755,16 @@
    "in_person": 2990,
    "mail": 0,
    "ballots": 2990
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13151",
+   "county": "Henry",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -27378,6 +28128,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13153",
+   "county": "Houston",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13155",
    "county": "Irwin",
    "date": null,
@@ -27735,6 +28495,16 @@
    "in_person": 47,
    "mail": 0,
    "ballots": 47
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13155",
+   "county": "Irwin",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -28098,6 +28868,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13157",
+   "county": "Jackson",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13159",
    "county": "Jasper",
    "date": null,
@@ -28455,6 +29235,16 @@
    "in_person": 171,
    "mail": 2,
    "ballots": 173
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13159",
+   "county": "Jasper",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -28818,6 +29608,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13161",
+   "county": "Jeff Davis",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13163",
    "county": "Jefferson",
    "date": null,
@@ -29175,6 +29975,16 @@
    "in_person": 107,
    "mail": 0,
    "ballots": 107
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13163",
+   "county": "Jefferson",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -29538,6 +30348,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13165",
+   "county": "Jenkins",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13167",
    "county": "Johnson",
    "date": null,
@@ -29895,6 +30715,16 @@
    "in_person": 77,
    "mail": 0,
    "ballots": 77
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13167",
+   "county": "Johnson",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -30258,6 +31088,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13169",
+   "county": "Jones",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13171",
    "county": "Lamar",
    "date": null,
@@ -30615,6 +31455,16 @@
    "in_person": 203,
    "mail": 4,
    "ballots": 207
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13171",
+   "county": "Lamar",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -30978,6 +31828,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13173",
+   "county": "Lanier",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13175",
    "county": "Laurens",
    "date": null,
@@ -31335,6 +32195,16 @@
    "in_person": 454,
    "mail": 6,
    "ballots": 460
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13175",
+   "county": "Laurens",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -31698,6 +32568,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13177",
+   "county": "Lee",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13179",
    "county": "Liberty",
    "date": null,
@@ -32055,6 +32935,16 @@
    "in_person": 430,
    "mail": 27,
    "ballots": 457
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13179",
+   "county": "Liberty",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -32418,6 +33308,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13181",
+   "county": "Lincoln",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13183",
    "county": "Long",
    "date": null,
@@ -32775,6 +33675,16 @@
    "in_person": 115,
    "mail": 0,
    "ballots": 115
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13183",
+   "county": "Long",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -33138,6 +34048,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13185",
+   "county": "Lowndes",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 448,
+   "mail": 0,
+   "ballots": 448
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13187",
    "county": "Lumpkin",
    "date": null,
@@ -33495,6 +34415,16 @@
    "in_person": 309,
    "mail": 0,
    "ballots": 309
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13187",
+   "county": "Lumpkin",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -33858,6 +34788,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13193",
+   "county": "Macon",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13195",
    "county": "Madison",
    "date": null,
@@ -34215,6 +35155,16 @@
    "in_person": 277,
    "mail": 0,
    "ballots": 277
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13195",
+   "county": "Madison",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -34578,6 +35528,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13197",
+   "county": "Marion",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13189",
    "county": "McDuffie",
    "date": null,
@@ -34935,6 +35895,16 @@
    "in_person": 200,
    "mail": 0,
    "ballots": 200
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13189",
+   "county": "McDuffie",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -35298,6 +36268,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13191",
+   "county": "McIntosh",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13199",
    "county": "Meriwether",
    "date": null,
@@ -35655,6 +36635,16 @@
    "in_person": 173,
    "mail": 0,
    "ballots": 173
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13199",
+   "county": "Meriwether",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -36018,6 +37008,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13201",
+   "county": "Miller",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13205",
    "county": "Mitchell",
    "date": null,
@@ -36375,6 +37375,16 @@
    "in_person": 148,
    "mail": 23,
    "ballots": 171
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13205",
+   "county": "Mitchell",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -36738,6 +37748,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13207",
+   "county": "Monroe",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13209",
    "county": "Montgomery",
    "date": null,
@@ -37095,6 +38115,16 @@
    "in_person": 73,
    "mail": 0,
    "ballots": 73
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13209",
+   "county": "Montgomery",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -37458,6 +38488,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13211",
+   "county": "Morgan",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13213",
    "county": "Murray",
    "date": null,
@@ -37818,6 +38858,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13213",
+   "county": "Murray",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13215",
    "county": "Muscogee",
    "date": null,
@@ -38153,8 +39203,8 @@
    "date": "2026-10-22",
    "days_before": 12,
    "in_person": 1624,
-   "mail": 168,
-   "ballots": 1792
+   "mail": 171,
+   "ballots": 1795
   },
   {
    "election_year": 2026,
@@ -38173,8 +39223,18 @@
    "date": "2026-10-24",
    "days_before": 10,
    "in_person": 1880,
+   "mail": 12,
+   "ballots": 1892
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13215",
+   "county": "Muscogee",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 1009,
    "mail": 0,
-   "ballots": 1880
+   "ballots": 1009
   },
   {
    "election_year": 2026,
@@ -38538,6 +39598,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13217",
+   "county": "Newton",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13219",
    "county": "Oconee",
    "date": null,
@@ -38895,6 +39965,16 @@
    "in_person": 844,
    "mail": 30,
    "ballots": 874
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13219",
+   "county": "Oconee",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -39258,6 +40338,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13221",
+   "county": "Oglethorpe",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13223",
    "county": "Paulding",
    "date": null,
@@ -39615,6 +40705,16 @@
    "in_person": 2288,
    "mail": 0,
    "ballots": 2288
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13223",
+   "county": "Paulding",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -39978,6 +41078,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13225",
+   "county": "Peach",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13227",
    "county": "Pickens",
    "date": null,
@@ -40335,6 +41445,16 @@
    "in_person": 399,
    "mail": 0,
    "ballots": 399
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13227",
+   "county": "Pickens",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -40698,6 +41818,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13229",
+   "county": "Pierce",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13231",
    "county": "Pike",
    "date": null,
@@ -41055,6 +42185,16 @@
    "in_person": 211,
    "mail": 20,
    "ballots": 231
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13231",
+   "county": "Pike",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -41418,6 +42558,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13233",
+   "county": "Polk",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13235",
    "county": "Pulaski",
    "date": null,
@@ -41775,6 +42925,16 @@
    "in_person": 79,
    "mail": 9,
    "ballots": 88
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13235",
+   "county": "Pulaski",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -42138,6 +43298,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13237",
+   "county": "Putnam",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13239",
    "county": "Quitman",
    "date": null,
@@ -42495,6 +43665,16 @@
    "in_person": 19,
    "mail": 0,
    "ballots": 19
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13239",
+   "county": "Quitman",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -42858,6 +44038,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13241",
+   "county": "Rabun",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13243",
    "county": "Randolph",
    "date": null,
@@ -43215,6 +44405,16 @@
    "in_person": 39,
    "mail": 0,
    "ballots": 39
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13243",
+   "county": "Randolph",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -43578,6 +44778,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13245",
+   "county": "Richmond",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 400,
+   "mail": 0,
+   "ballots": 400
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13247",
    "county": "Rockdale",
    "date": null,
@@ -43935,6 +45145,16 @@
    "in_person": 1447,
    "mail": 51,
    "ballots": 1498
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13247",
+   "county": "Rockdale",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -44298,6 +45518,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13249",
+   "county": "Schley",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13251",
    "county": "Screven",
    "date": null,
@@ -44655,6 +45885,16 @@
    "in_person": 74,
    "mail": 3,
    "ballots": 77
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13251",
+   "county": "Screven",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 160,
+   "mail": 0,
+   "ballots": 160
   },
   {
    "election_year": 2026,
@@ -45018,6 +46258,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13253",
+   "county": "Seminole",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 25,
+   "mail": 0,
+   "ballots": 25
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13255",
    "county": "Spalding",
    "date": null,
@@ -45375,6 +46625,16 @@
    "in_person": 624,
    "mail": 16,
    "ballots": 640
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13255",
+   "county": "Spalding",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -45738,6 +46998,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13257",
+   "county": "Stephens",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13259",
    "county": "Stewart",
    "date": null,
@@ -46095,6 +47365,16 @@
    "in_person": 31,
    "mail": 1,
    "ballots": 32
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13259",
+   "county": "Stewart",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -46458,6 +47738,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13261",
+   "county": "Sumter",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13263",
    "county": "Talbot",
    "date": null,
@@ -46815,6 +48105,16 @@
    "in_person": 67,
    "mail": 4,
    "ballots": 71
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13263",
+   "county": "Talbot",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -47178,6 +48478,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13265",
+   "county": "Taliaferro",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13267",
    "county": "Tattnall",
    "date": null,
@@ -47535,6 +48845,16 @@
    "in_person": 101,
    "mail": 2,
    "ballots": 103
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13267",
+   "county": "Tattnall",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -47898,6 +49218,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13269",
+   "county": "Taylor",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13271",
    "county": "Telfair",
    "date": null,
@@ -48255,6 +49585,16 @@
    "in_person": 60,
    "mail": 0,
    "ballots": 60
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13271",
+   "county": "Telfair",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -48618,6 +49958,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13273",
+   "county": "Terrell",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13275",
    "county": "Thomas",
    "date": null,
@@ -48975,6 +50325,16 @@
    "in_person": 440,
    "mail": 2,
    "ballots": 442
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13275",
+   "county": "Thomas",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -49338,6 +50698,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13277",
+   "county": "Tift",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13279",
    "county": "Toombs",
    "date": null,
@@ -49695,6 +51065,16 @@
    "in_person": 174,
    "mail": 3,
    "ballots": 177
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13279",
+   "county": "Toombs",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -50058,6 +51438,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13281",
+   "county": "Towns",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13283",
    "county": "Treutlen",
    "date": null,
@@ -50415,6 +51805,16 @@
    "in_person": 56,
    "mail": 3,
    "ballots": 59
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13283",
+   "county": "Treutlen",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -50778,6 +52178,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13285",
+   "county": "Troup",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13287",
    "county": "Turner",
    "date": null,
@@ -51135,6 +52545,16 @@
    "in_person": 51,
    "mail": 3,
    "ballots": 54
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13287",
+   "county": "Turner",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -51498,6 +52918,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13289",
+   "county": "Twiggs",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13291",
    "county": "Union",
    "date": null,
@@ -51855,6 +53285,16 @@
    "in_person": 201,
    "mail": 14,
    "ballots": 215
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13291",
+   "county": "Union",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -52218,6 +53658,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13293",
+   "county": "Upson",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13295",
    "county": "Walker",
    "date": null,
@@ -52575,6 +54025,16 @@
    "in_person": 1620,
    "mail": 50,
    "ballots": 1670
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13295",
+   "county": "Walker",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -52938,6 +54398,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13297",
+   "county": "Walton",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13299",
    "county": "Ware",
    "date": null,
@@ -53295,6 +54765,16 @@
    "in_person": 142,
    "mail": 2,
    "ballots": 144
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13299",
+   "county": "Ware",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -53658,6 +55138,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13301",
+   "county": "Warren",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13303",
    "county": "Washington",
    "date": null,
@@ -54015,6 +55505,16 @@
    "in_person": 150,
    "mail": 5,
    "ballots": 155
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13303",
+   "county": "Washington",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -54378,6 +55878,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13305",
+   "county": "Wayne",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13307",
    "county": "Webster",
    "date": null,
@@ -54735,6 +56245,16 @@
    "in_person": 33,
    "mail": 0,
    "ballots": 33
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13307",
+   "county": "Webster",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -55098,6 +56618,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13309",
+   "county": "Wheeler",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13311",
    "county": "White",
    "date": null,
@@ -55455,6 +56985,16 @@
    "in_person": 226,
    "mail": 13,
    "ballots": 239
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13311",
+   "county": "White",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -55818,6 +57358,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13313",
+   "county": "Whitfield",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13315",
    "county": "Wilcox",
    "date": null,
@@ -56175,6 +57725,16 @@
    "in_person": 74,
    "mail": 7,
    "ballots": 81
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13315",
+   "county": "Wilcox",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2026,
@@ -56538,6 +58098,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13317",
+   "county": "Wilkes",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13319",
    "county": "Wilkinson",
    "date": null,
@@ -56898,6 +58468,16 @@
   },
   {
    "election_year": 2026,
+   "county_fips": "13319",
+   "county": "Wilkinson",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
+  },
+  {
+   "election_year": 2026,
    "county_fips": "13321",
    "county": "Worth",
    "date": null,
@@ -57255,6 +58835,16 @@
    "in_person": 111,
    "mail": 0,
    "ballots": 111
+  },
+  {
+   "election_year": 2026,
+   "county_fips": "13321",
+   "county": "Worth",
+   "date": "2026-10-25",
+   "days_before": 9,
+   "in_person": 0,
+   "mail": 0,
+   "ballots": 0
   },
   {
    "election_year": 2024,

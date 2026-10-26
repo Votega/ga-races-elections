@@ -6,9 +6,9 @@
    "year": 2026,
    "type": "general"
   },
-  "asOf": "2026-10-24",
-  "daysBeforeElection": 10,
-  "dataGeneratedAt": "2026-10-25T17:17:52Z",
+  "asOf": "2026-10-25",
+  "daysBeforeElection": 9,
+  "dataGeneratedAt": "2026-10-26T18:24:16Z",
   "comparisons": {
    "2022": {
     "electionDate": "2022-11-08",
@@ -21,8 +21,8 @@
    },
    "2024": {
     "electionDate": "2024-11-05",
-    "cutoff": "2024-10-26",
-    "daysBefore": 10,
+    "cutoff": "2024-10-27",
+    "daysBefore": 9,
     "activeStatewide": 7267985
    }
   },
@@ -42,21 +42,21 @@
   }
  },
  "statewide": {
-  "ballots": 1751151,
-  "in_person": 1669567,
-  "mail": 81584,
+  "ballots": 1780233,
+  "in_person": 1697619,
+  "mail": 82614,
   "active_voters": 7529742,
-  "turnout_pct_of_active": 23.3,
+  "turnout_pct_of_active": 23.6,
   "mail_pipeline": {
-   "accepted": 81584,
-   "rejected": 669,
-   "outstanding": 73523,
-   "other": 8460,
-   "cancelled": 6821,
-   "total": 171057
+   "accepted": 82614,
+   "rejected": 693,
+   "outstanding": 73831,
+   "other": 7271,
+   "cancelled": 6977,
+   "total": 171386
   },
   "citizen_adults_est": 7767653,
-  "ballots_pct_of_citizen_adults_est": 22.5
+  "ballots_pct_of_citizen_adults_est": 22.9
  },
  "counties": [
   {
@@ -86,7 +86,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 81.1,
    "repeat_2024_pct": 89.2,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13003",
@@ -115,7 +115,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 76.9,
    "repeat_2024_pct": 84.3,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13005",
@@ -144,7 +144,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 86.5,
    "repeat_2024_pct": 92.0,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13007",
@@ -173,7 +173,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 59.8,
    "repeat_2024_pct": 87.2,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13009",
@@ -202,7 +202,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 50.9,
    "repeat_2024_pct": 90.7,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13011",
@@ -231,14 +231,14 @@
    "carried_2024": "R",
    "carried_2024_pct": 89.0,
    "repeat_2024_pct": 92.7,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13013",
    "county": "Barrow",
    "active_voters": 65284,
-   "ballots": 12602,
-   "in_person": 11957,
+   "ballots": 12605,
+   "in_person": 11960,
    "mail": 645,
    "turnout_pct_of_active": 19.3,
    "citizen_adults_est": 62953,
@@ -255,12 +255,12 @@
    "carried_2022_pct": 74.2,
    "repeat_2022_pct": 68.0,
    "ballots_2024_same_point": 21815,
-   "ballots_2026_at_2024_point": 12602,
+   "ballots_2026_at_2024_point": 12605,
    "early_share_2024_pct": 71.4,
    "carried_2024": "R",
    "carried_2024_pct": 69.9,
    "repeat_2024_pct": 88.7,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13015",
@@ -289,7 +289,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 75.2,
    "repeat_2024_pct": 89.4,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13017",
@@ -318,7 +318,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 65.9,
    "repeat_2024_pct": 91.1,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13019",
@@ -347,7 +347,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 84.8,
    "repeat_2024_pct": 90.7,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13021",
@@ -370,13 +370,13 @@
    "carried_2022": "D",
    "carried_2022_pct": 58.1,
    "repeat_2022_pct": 68.7,
-   "ballots_2024_same_point": 33009,
+   "ballots_2024_same_point": 34030,
    "ballots_2026_at_2024_point": 22057,
    "early_share_2024_pct": 70.8,
    "carried_2024": "D",
    "carried_2024_pct": 61.0,
    "repeat_2024_pct": 85.4,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13023",
@@ -405,7 +405,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 77.5,
    "repeat_2024_pct": 90.6,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13025",
@@ -434,7 +434,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 91.1,
    "repeat_2024_pct": 91.4,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13027",
@@ -463,7 +463,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 63.2,
    "repeat_2024_pct": 88.0,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13029",
@@ -492,7 +492,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 67.9,
    "repeat_2024_pct": 88.0,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13031",
@@ -521,7 +521,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 64.3,
    "repeat_2024_pct": 85.9,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13033",
@@ -550,7 +550,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 54.4,
    "repeat_2024_pct": 86.8,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13035",
@@ -579,7 +579,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 72.4,
    "repeat_2024_pct": 92.6,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13037",
@@ -602,26 +602,26 @@
    "carried_2022": "D",
    "carried_2022_pct": 53.6,
    "repeat_2022_pct": 71.8,
-   "ballots_2024_same_point": 938,
+   "ballots_2024_same_point": 969,
    "ballots_2026_at_2024_point": 589,
    "early_share_2024_pct": 63.2,
    "carried_2024": "D",
    "carried_2024_pct": 56.1,
    "repeat_2024_pct": 86.2,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13039",
    "county": "Camden",
    "active_voters": 40669,
-   "ballots": 8141,
-   "in_person": 7568,
-   "mail": 573,
-   "turnout_pct_of_active": 20.0,
+   "ballots": 8172,
+   "in_person": 7571,
+   "mail": 601,
+   "turnout_pct_of_active": 20.1,
    "citizen_adults_est": 42625,
-   "ballots_pct_of_citizen_adults_est": 19.1,
+   "ballots_pct_of_citizen_adults_est": 19.2,
    "adults_25plus_bachelors_pct": 24.6,
-   "mail_outstanding": 307,
+   "mail_outstanding": 281,
    "mail_rejected": null,
    "mail_cancelled_or_spoiled": 23,
    "mail_other": null,
@@ -632,12 +632,12 @@
    "carried_2022_pct": 69.6,
    "repeat_2022_pct": 64.7,
    "ballots_2024_same_point": 14550,
-   "ballots_2026_at_2024_point": 8141,
+   "ballots_2026_at_2024_point": 8172,
    "early_share_2024_pct": 76.6,
    "carried_2024": "R",
    "carried_2024_pct": 67.5,
-   "repeat_2024_pct": 87.1,
-   "as_of": "2026-10-24"
+   "repeat_2024_pct": 87.0,
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13043",
@@ -666,7 +666,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 73.7,
    "repeat_2024_pct": 89.8,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13045",
@@ -695,7 +695,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 70.3,
    "repeat_2024_pct": 87.5,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13047",
@@ -724,7 +724,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 77.5,
    "repeat_2024_pct": 90.6,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13049",
@@ -753,36 +753,36 @@
    "carried_2024": "R",
    "carried_2024_pct": 77.9,
    "repeat_2024_pct": 89.1,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13051",
    "county": "Chatham",
    "active_voters": 214846,
-   "ballots": 40820,
-   "in_person": 38135,
-   "mail": 2685,
-   "turnout_pct_of_active": 19.0,
+   "ballots": 41842,
+   "in_person": 39011,
+   "mail": 2831,
+   "turnout_pct_of_active": 19.5,
    "citizen_adults_est": 224634,
-   "ballots_pct_of_citizen_adults_est": 18.2,
+   "ballots_pct_of_citizen_adults_est": 18.6,
    "adults_25plus_bachelors_pct": 37.7,
-   "mail_outstanding": 2604,
+   "mail_outstanding": 2457,
    "mail_rejected": 0,
-   "mail_cancelled_or_spoiled": 249,
+   "mail_cancelled_or_spoiled": 250,
    "mail_other": 179,
    "ballots_2022_same_point": 18729,
    "ballots_2026_at_2022_point": 19313,
    "early_share_2022_pct": 54.4,
    "carried_2022": "D",
    "carried_2022_pct": 55.5,
-   "repeat_2022_pct": 64.7,
-   "ballots_2024_same_point": 69484,
-   "ballots_2026_at_2024_point": 40820,
+   "repeat_2022_pct": 64.3,
+   "ballots_2024_same_point": 70812,
+   "ballots_2026_at_2024_point": 41842,
    "early_share_2024_pct": 71.8,
    "carried_2024": "D",
    "carried_2024_pct": 58.6,
-   "repeat_2024_pct": 86.8,
-   "as_of": "2026-10-24"
+   "repeat_2024_pct": 86.6,
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13053",
@@ -811,7 +811,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 58.0,
    "repeat_2024_pct": 83.7,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13055",
@@ -840,65 +840,65 @@
    "carried_2024": "R",
    "carried_2024_pct": 81.9,
    "repeat_2024_pct": 90.2,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13057",
    "county": "Cherokee",
    "active_voters": 209106,
-   "ballots": 54017,
-   "in_person": 50623,
+   "ballots": 54521,
+   "in_person": 51127,
    "mail": 3394,
-   "turnout_pct_of_active": 25.8,
+   "turnout_pct_of_active": 26.1,
    "citizen_adults_est": 200489,
-   "ballots_pct_of_citizen_adults_est": 26.9,
+   "ballots_pct_of_citizen_adults_est": 27.2,
    "adults_25plus_bachelors_pct": 41.1,
-   "mail_outstanding": 1959,
+   "mail_outstanding": 2102,
    "mail_rejected": 18,
-   "mail_cancelled_or_spoiled": 182,
-   "mail_other": 213,
+   "mail_cancelled_or_spoiled": 183,
+   "mail_other": 69,
    "ballots_2022_same_point": 16547,
    "ballots_2026_at_2022_point": 26163,
    "early_share_2022_pct": 61.7,
    "carried_2022": "R",
    "carried_2022_pct": 74.2,
-   "repeat_2022_pct": 69.8,
+   "repeat_2022_pct": 69.6,
    "ballots_2024_same_point": 86549,
-   "ballots_2026_at_2024_point": 54017,
+   "ballots_2026_at_2024_point": 54521,
    "early_share_2024_pct": 77.9,
    "carried_2024": "R",
    "carried_2024_pct": 69.1,
-   "repeat_2024_pct": 89.0,
-   "as_of": "2026-10-24"
+   "repeat_2024_pct": 88.9,
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13059",
    "county": "Clarke",
    "active_voters": 73240,
-   "ballots": 16843,
+   "ballots": 16844,
    "in_person": 15920,
-   "mail": 923,
+   "mail": 924,
    "turnout_pct_of_active": 23.0,
    "citizen_adults_est": 99255,
    "ballots_pct_of_citizen_adults_est": 17.0,
    "adults_25plus_bachelors_pct": 47.4,
-   "mail_outstanding": 1013,
+   "mail_outstanding": 1173,
    "mail_rejected": null,
    "mail_cancelled_or_spoiled": 80,
-   "mail_other": 121,
+   "mail_other": 21,
    "ballots_2022_same_point": 4908,
    "ballots_2026_at_2022_point": 4166,
    "early_share_2022_pct": 64.0,
    "carried_2022": "D",
    "carried_2022_pct": 66.7,
    "repeat_2022_pct": 67.7,
-   "ballots_2024_same_point": 21248,
-   "ballots_2026_at_2024_point": 16843,
+   "ballots_2024_same_point": 21675,
+   "ballots_2026_at_2024_point": 16844,
    "early_share_2024_pct": 76.0,
    "carried_2024": "D",
    "carried_2024_pct": 68.6,
    "repeat_2024_pct": 86.9,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13061",
@@ -927,36 +927,36 @@
    "carried_2024": "D",
    "carried_2024_pct": 53.5,
    "repeat_2024_pct": 87.8,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13063",
    "county": "Clayton",
    "active_voters": 197638,
-   "ballots": 43888,
-   "in_person": 42340,
-   "mail": 1548,
-   "turnout_pct_of_active": 22.2,
+   "ballots": 45169,
+   "in_person": 43614,
+   "mail": 1555,
+   "turnout_pct_of_active": 22.9,
    "citizen_adults_est": 199661,
-   "ballots_pct_of_citizen_adults_est": 22.0,
+   "ballots_pct_of_citizen_adults_est": 22.6,
    "adults_25plus_bachelors_pct": 22.5,
-   "mail_outstanding": 1061,
-   "mail_rejected": 54,
-   "mail_cancelled_or_spoiled": 85,
-   "mail_other": 145,
+   "mail_outstanding": 1058,
+   "mail_rejected": 53,
+   "mail_cancelled_or_spoiled": 88,
+   "mail_other": 140,
    "ballots_2022_same_point": 23151,
    "ballots_2026_at_2022_point": 22987,
    "early_share_2022_pct": 72.4,
    "carried_2022": "D",
    "carried_2022_pct": 86.0,
-   "repeat_2022_pct": 71.8,
-   "ballots_2024_same_point": 58291,
-   "ballots_2026_at_2024_point": 43888,
+   "repeat_2022_pct": 71.3,
+   "ballots_2024_same_point": 60060,
+   "ballots_2026_at_2024_point": 45169,
    "early_share_2024_pct": 76.5,
    "carried_2024": "D",
    "carried_2024_pct": 84.3,
-   "repeat_2024_pct": 87.1,
-   "as_of": "2026-10-24"
+   "repeat_2024_pct": 86.8,
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13065",
@@ -985,36 +985,36 @@
    "carried_2024": "R",
    "carried_2024_pct": 75.7,
    "repeat_2024_pct": 89.8,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13067",
    "county": "Cobb",
    "active_voters": 525937,
-   "ballots": 146746,
-   "in_person": 141721,
-   "mail": 5025,
-   "turnout_pct_of_active": 27.9,
+   "ballots": 150077,
+   "in_person": 144902,
+   "mail": 5175,
+   "turnout_pct_of_active": 28.5,
    "citizen_adults_est": 533888,
-   "ballots_pct_of_citizen_adults_est": 27.5,
+   "ballots_pct_of_citizen_adults_est": 28.1,
    "adults_25plus_bachelors_pct": 50.8,
-   "mail_outstanding": 7637,
-   "mail_rejected": 71,
-   "mail_cancelled_or_spoiled": 1234,
-   "mail_other": 3134,
+   "mail_outstanding": 7803,
+   "mail_rejected": 87,
+   "mail_cancelled_or_spoiled": 1260,
+   "mail_other": 2863,
    "ballots_2022_same_point": 62724,
    "ballots_2026_at_2022_point": 68032,
    "early_share_2022_pct": 66.0,
    "carried_2022": "D",
    "carried_2022_pct": 51.8,
-   "repeat_2022_pct": 69.7,
-   "ballots_2024_same_point": 208505,
-   "ballots_2026_at_2024_point": 146746,
+   "repeat_2022_pct": 69.3,
+   "ballots_2024_same_point": 212629,
+   "ballots_2026_at_2024_point": 150077,
    "early_share_2024_pct": 78.8,
    "carried_2024": "D",
    "carried_2024_pct": 56.9,
-   "repeat_2024_pct": 87.4,
-   "as_of": "2026-10-24"
+   "repeat_2024_pct": 87.2,
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13069",
@@ -1043,7 +1043,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 72.5,
    "repeat_2024_pct": 87.0,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13071",
@@ -1072,7 +1072,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 75.0,
    "repeat_2024_pct": 86.6,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13073",
@@ -1101,7 +1101,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 62.4,
    "repeat_2024_pct": 88.2,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13075",
@@ -1130,7 +1130,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 73.0,
    "repeat_2024_pct": 89.4,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13077",
@@ -1143,10 +1143,10 @@
    "citizen_adults_est": 112100,
    "ballots_pct_of_citizen_adults_est": 24.7,
    "adults_25plus_bachelors_pct": 36.2,
-   "mail_outstanding": 841,
+   "mail_outstanding": 849,
    "mail_rejected": 41,
    "mail_cancelled_or_spoiled": 59,
-   "mail_other": 49,
+   "mail_other": 41,
    "ballots_2022_same_point": 12877,
    "ballots_2026_at_2022_point": 13392,
    "early_share_2022_pct": 57.7,
@@ -1159,7 +1159,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 66.6,
    "repeat_2024_pct": 89.7,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13079",
@@ -1188,7 +1188,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 74.8,
    "repeat_2024_pct": 90.4,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13081",
@@ -1211,13 +1211,13 @@
    "carried_2022": "R",
    "carried_2022_pct": 68.0,
    "repeat_2022_pct": 73.8,
-   "ballots_2024_same_point": 4573,
+   "ballots_2024_same_point": 4674,
    "ballots_2026_at_2024_point": 2703,
    "early_share_2024_pct": 76.0,
    "carried_2024": "R",
    "carried_2024_pct": 62.8,
    "repeat_2024_pct": 90.2,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13083",
@@ -1246,7 +1246,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 83.0,
    "repeat_2024_pct": 89.3,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13085",
@@ -1259,7 +1259,7 @@
    "citizen_adults_est": 23221,
    "ballots_pct_of_citizen_adults_est": 29.2,
    "adults_25plus_bachelors_pct": 36.4,
-   "mail_outstanding": 181,
+   "mail_outstanding": 185,
    "mail_rejected": 0,
    "mail_cancelled_or_spoiled": null,
    "mail_other": null,
@@ -1275,7 +1275,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 82.3,
    "repeat_2024_pct": 92.5,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13087",
@@ -1304,36 +1304,36 @@
    "carried_2024": "R",
    "carried_2024_pct": 61.8,
    "repeat_2024_pct": 89.6,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13089",
    "county": "DeKalb",
    "active_voters": 508657,
-   "ballots": 146779,
-   "in_person": 141798,
-   "mail": 4981,
-   "turnout_pct_of_active": 28.9,
+   "ballots": 152060,
+   "in_person": 147051,
+   "mail": 5009,
+   "turnout_pct_of_active": 29.9,
    "citizen_adults_est": 523741,
-   "ballots_pct_of_citizen_adults_est": 28.0,
+   "ballots_pct_of_citizen_adults_est": 29.0,
    "adults_25plus_bachelors_pct": 47.4,
-   "mail_outstanding": 7516,
+   "mail_outstanding": 7451,
    "mail_rejected": 33,
-   "mail_cancelled_or_spoiled": 801,
-   "mail_other": 777,
+   "mail_cancelled_or_spoiled": 845,
+   "mail_other": 775,
    "ballots_2022_same_point": 69594,
    "ballots_2026_at_2022_point": 71214,
    "early_share_2022_pct": 71.3,
    "carried_2022": "D",
    "carried_2022_pct": 81.1,
-   "repeat_2022_pct": 72.8,
-   "ballots_2024_same_point": 199564,
-   "ballots_2026_at_2024_point": 146779,
+   "repeat_2022_pct": 72.2,
+   "ballots_2024_same_point": 206327,
+   "ballots_2026_at_2024_point": 152060,
    "early_share_2024_pct": 79.9,
    "carried_2024": "D",
    "carried_2024_pct": 81.9,
-   "repeat_2024_pct": 87.7,
-   "as_of": "2026-10-24"
+   "repeat_2024_pct": 87.4,
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13091",
@@ -1362,7 +1362,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 74.8,
    "repeat_2024_pct": 86.2,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13093",
@@ -1391,36 +1391,36 @@
    "carried_2024": "R",
    "carried_2024_pct": 53.7,
    "repeat_2024_pct": 87.3,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13095",
    "county": "Dougherty",
    "active_voters": 60834,
-   "ballots": 10039,
-   "in_person": 9457,
+   "ballots": 10467,
+   "in_person": 9885,
    "mail": 582,
-   "turnout_pct_of_active": 16.5,
+   "turnout_pct_of_active": 17.2,
    "citizen_adults_est": 61752,
-   "ballots_pct_of_citizen_adults_est": 16.3,
+   "ballots_pct_of_citizen_adults_est": 17.0,
    "adults_25plus_bachelors_pct": 22.8,
-   "mail_outstanding": 563,
+   "mail_outstanding": 559,
    "mail_rejected": 26,
-   "mail_cancelled_or_spoiled": 30,
+   "mail_cancelled_or_spoiled": 34,
    "mail_other": 140,
    "ballots_2022_same_point": 4738,
    "ballots_2026_at_2022_point": 5106,
    "early_share_2022_pct": 53.3,
    "carried_2022": "D",
    "carried_2022_pct": 67.7,
-   "repeat_2022_pct": 67.3,
-   "ballots_2024_same_point": 14605,
-   "ballots_2026_at_2024_point": 10039,
+   "repeat_2022_pct": 66.5,
+   "ballots_2024_same_point": 15211,
+   "ballots_2026_at_2024_point": 10467,
    "early_share_2024_pct": 63.0,
    "carried_2024": "D",
    "carried_2024_pct": 70.4,
-   "repeat_2024_pct": 84.4,
-   "as_of": "2026-10-24"
+   "repeat_2024_pct": 84.0,
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13097",
@@ -1433,10 +1433,10 @@
    "citizen_adults_est": 104223,
    "ballots_pct_of_citizen_adults_est": 26.1,
    "adults_25plus_bachelors_pct": 30.8,
-   "mail_outstanding": 775,
+   "mail_outstanding": 776,
    "mail_rejected": null,
    "mail_cancelled_or_spoiled": 69,
-   "mail_other": 103,
+   "mail_other": 102,
    "ballots_2022_same_point": 12867,
    "ballots_2026_at_2022_point": 13647,
    "early_share_2022_pct": 70.5,
@@ -1449,7 +1449,7 @@
    "carried_2024": "D",
    "carried_2024_pct": 65.4,
    "repeat_2024_pct": 88.2,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13099",
@@ -1472,13 +1472,13 @@
    "carried_2022": "R",
    "carried_2022_pct": 59.4,
    "repeat_2022_pct": 73.9,
-   "ballots_2024_same_point": 2383,
+   "ballots_2024_same_point": 2462,
    "ballots_2026_at_2024_point": 1270,
    "early_share_2024_pct": 67.0,
    "carried_2024": "R",
    "carried_2024_pct": 55.7,
    "repeat_2024_pct": 88.9,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13101",
@@ -1507,7 +1507,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 90.9,
    "repeat_2024_pct": 90.7,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13103",
@@ -1536,7 +1536,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 74.3,
    "repeat_2024_pct": 88.3,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13105",
@@ -1565,7 +1565,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 71.5,
    "repeat_2024_pct": 89.9,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13107",
@@ -1594,7 +1594,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 71.9,
    "repeat_2024_pct": 86.3,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13109",
@@ -1623,7 +1623,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 70.9,
    "repeat_2024_pct": 90.4,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13111",
@@ -1652,65 +1652,65 @@
    "carried_2024": "R",
    "carried_2024_pct": 82.2,
    "repeat_2024_pct": 89.9,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13113",
    "county": "Fayette",
    "active_voters": 93309,
-   "ballots": 30030,
-   "in_person": 28772,
-   "mail": 1258,
-   "turnout_pct_of_active": 32.2,
+   "ballots": 30796,
+   "in_person": 29536,
+   "mail": 1260,
+   "turnout_pct_of_active": 33.0,
    "citizen_adults_est": 88435,
-   "ballots_pct_of_citizen_adults_est": 34.0,
+   "ballots_pct_of_citizen_adults_est": 34.8,
    "adults_25plus_bachelors_pct": 49.9,
-   "mail_outstanding": 982,
+   "mail_outstanding": 978,
    "mail_rejected": 46,
-   "mail_cancelled_or_spoiled": 74,
+   "mail_cancelled_or_spoiled": 76,
    "mail_other": 152,
    "ballots_2022_same_point": 14013,
    "ballots_2026_at_2022_point": 14836,
    "early_share_2022_pct": 68.5,
    "carried_2022": "R",
    "carried_2022_pct": 56.5,
-   "repeat_2022_pct": 73.5,
+   "repeat_2022_pct": 73.0,
    "ballots_2024_same_point": 45984,
-   "ballots_2026_at_2024_point": 30030,
+   "ballots_2026_at_2024_point": 30796,
    "early_share_2024_pct": 83.2,
    "carried_2024": "R",
    "carried_2024_pct": 51.2,
-   "repeat_2024_pct": 90.5,
-   "as_of": "2026-10-24"
+   "repeat_2024_pct": 90.2,
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13115",
    "county": "Floyd",
    "active_voters": 65120,
-   "ballots": 11676,
-   "in_person": 11028,
-   "mail": 648,
-   "turnout_pct_of_active": 17.9,
+   "ballots": 11977,
+   "in_person": 11325,
+   "mail": 652,
+   "turnout_pct_of_active": 18.4,
    "citizen_adults_est": 73167,
-   "ballots_pct_of_citizen_adults_est": 16.0,
+   "ballots_pct_of_citizen_adults_est": 16.4,
    "adults_25plus_bachelors_pct": 25.9,
-   "mail_outstanding": 362,
+   "mail_outstanding": 386,
    "mail_rejected": 0,
    "mail_cancelled_or_spoiled": 25,
-   "mail_other": 35,
+   "mail_other": null,
    "ballots_2022_same_point": 5648,
    "ballots_2026_at_2022_point": 5768,
    "early_share_2022_pct": 53.1,
    "carried_2022": "R",
    "carried_2022_pct": 74.6,
-   "repeat_2022_pct": 67.3,
-   "ballots_2024_same_point": 23376,
-   "ballots_2026_at_2024_point": 11676,
+   "repeat_2022_pct": 66.9,
+   "ballots_2024_same_point": 23903,
+   "ballots_2026_at_2024_point": 11977,
    "early_share_2024_pct": 73.6,
    "carried_2024": "R",
    "carried_2024_pct": 70.7,
-   "repeat_2024_pct": 89.1,
-   "as_of": "2026-10-24"
+   "repeat_2024_pct": 88.9,
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13117",
@@ -1733,13 +1733,13 @@
    "carried_2022": "R",
    "carried_2022_pct": 72.3,
    "repeat_2022_pct": 70.7,
-   "ballots_2024_same_point": 84727,
+   "ballots_2024_same_point": 84766,
    "ballots_2026_at_2024_point": 46673,
    "early_share_2024_pct": 84.0,
    "carried_2024": "R",
    "carried_2024_pct": 66.0,
    "repeat_2024_pct": 90.1,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13119",
@@ -1768,36 +1768,36 @@
    "carried_2024": "R",
    "carried_2024_pct": 86.2,
    "repeat_2024_pct": 91.5,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13121",
    "county": "Fulton",
    "active_voters": 765603,
-   "ballots": 210543,
-   "in_person": 203340,
-   "mail": 7203,
-   "turnout_pct_of_active": 27.5,
+   "ballots": 217429,
+   "in_person": 210106,
+   "mail": 7323,
+   "turnout_pct_of_active": 28.4,
    "citizen_adults_est": 777829,
-   "ballots_pct_of_citizen_adults_est": 27.1,
+   "ballots_pct_of_citizen_adults_est": 28.0,
    "adults_25plus_bachelors_pct": 58.5,
-   "mail_outstanding": 8000,
-   "mail_rejected": 96,
-   "mail_cancelled_or_spoiled": 897,
-   "mail_other": 1246,
+   "mail_outstanding": 8428,
+   "mail_rejected": 95,
+   "mail_cancelled_or_spoiled": 925,
+   "mail_other": 704,
    "ballots_2022_same_point": 103628,
-   "ballots_2026_at_2022_point": 102498,
+   "ballots_2026_at_2022_point": 102500,
    "early_share_2022_pct": 72.8,
    "carried_2022": "D",
    "carried_2022_pct": 68.8,
-   "repeat_2022_pct": 71.5,
-   "ballots_2024_same_point": 307197,
-   "ballots_2026_at_2024_point": 210543,
+   "repeat_2022_pct": 71.0,
+   "ballots_2024_same_point": 316700,
+   "ballots_2026_at_2024_point": 217429,
    "early_share_2024_pct": 82.7,
    "carried_2024": "D",
    "carried_2024_pct": 71.9,
-   "repeat_2024_pct": 88.0,
-   "as_of": "2026-10-24"
+   "repeat_2024_pct": 87.8,
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13123",
@@ -1826,7 +1826,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 81.0,
    "repeat_2024_pct": 89.3,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13125",
@@ -1855,7 +1855,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 91.9,
    "repeat_2024_pct": 92.8,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13127",
@@ -1884,7 +1884,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 62.8,
    "repeat_2024_pct": 90.7,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13129",
@@ -1913,7 +1913,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 81.5,
    "repeat_2024_pct": 87.7,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13131",
@@ -1942,7 +1942,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 68.9,
    "repeat_2024_pct": 88.2,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13133",
@@ -1971,36 +1971,36 @@
    "carried_2024": "R",
    "carried_2024_pct": 64.2,
    "repeat_2024_pct": 89.8,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13135",
    "county": "Gwinnett",
    "active_voters": 613308,
-   "ballots": 140622,
-   "in_person": 135936,
-   "mail": 4686,
-   "turnout_pct_of_active": 22.9,
+   "ballots": 147812,
+   "in_person": 142597,
+   "mail": 5215,
+   "turnout_pct_of_active": 24.1,
    "citizen_adults_est": 583830,
-   "ballots_pct_of_citizen_adults_est": 24.1,
+   "ballots_pct_of_citizen_adults_est": 25.3,
    "adults_25plus_bachelors_pct": 39.0,
-   "mail_outstanding": 7872,
-   "mail_rejected": 26,
-   "mail_cancelled_or_spoiled": 675,
-   "mail_other": 432,
+   "mail_outstanding": 7419,
+   "mail_rejected": 35,
+   "mail_cancelled_or_spoiled": 718,
+   "mail_other": 443,
    "ballots_2022_same_point": 56309,
    "ballots_2026_at_2022_point": 63699,
    "early_share_2022_pct": 64.2,
    "carried_2022": "D",
    "carried_2022_pct": 54.8,
-   "repeat_2022_pct": 64.7,
-   "ballots_2024_same_point": 213692,
-   "ballots_2026_at_2024_point": 140622,
+   "repeat_2022_pct": 63.8,
+   "ballots_2024_same_point": 222541,
+   "ballots_2026_at_2024_point": 147812,
    "early_share_2024_pct": 76.4,
    "carried_2024": "D",
    "carried_2024_pct": 57.6,
-   "repeat_2024_pct": 85.9,
-   "as_of": "2026-10-24"
+   "repeat_2024_pct": 85.5,
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13137",
@@ -2029,7 +2029,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 82.2,
    "repeat_2024_pct": 92.3,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13139",
@@ -2058,7 +2058,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 71.6,
    "repeat_2024_pct": 89.4,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13141",
@@ -2087,7 +2087,7 @@
    "carried_2024": "D",
    "carried_2024_pct": 67.5,
    "repeat_2024_pct": 90.6,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13143",
@@ -2116,7 +2116,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 87.0,
    "repeat_2024_pct": 89.6,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13145",
@@ -2145,7 +2145,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 72.8,
    "repeat_2024_pct": 90.3,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13147",
@@ -2174,7 +2174,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 77.2,
    "repeat_2024_pct": 91.4,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13149",
@@ -2203,7 +2203,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 85.9,
    "repeat_2024_pct": 91.9,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13151",
@@ -2216,10 +2216,10 @@
    "citizen_adults_est": 180031,
    "ballots_pct_of_citizen_adults_est": 26.8,
    "adults_25plus_bachelors_pct": 29.5,
-   "mail_outstanding": 1333,
+   "mail_outstanding": 1338,
    "mail_rejected": 30,
    "mail_cancelled_or_spoiled": 98,
-   "mail_other": 100,
+   "mail_other": 95,
    "ballots_2022_same_point": 22452,
    "ballots_2026_at_2022_point": 23374,
    "early_share_2022_pct": 72.0,
@@ -2232,7 +2232,7 @@
    "carried_2024": "D",
    "carried_2024_pct": 64.5,
    "repeat_2024_pct": 88.5,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13153",
@@ -2261,7 +2261,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 55.3,
    "repeat_2024_pct": 89.4,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13155",
@@ -2290,7 +2290,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 76.9,
    "repeat_2024_pct": 91.5,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13157",
@@ -2303,10 +2303,10 @@
    "citizen_adults_est": 61077,
    "ballots_pct_of_citizen_adults_est": 21.2,
    "adults_25plus_bachelors_pct": 27.8,
-   "mail_outstanding": 420,
+   "mail_outstanding": 421,
    "mail_rejected": 20,
    "mail_cancelled_or_spoiled": 25,
-   "mail_other": 35,
+   "mail_other": 34,
    "ballots_2022_same_point": 6098,
    "ballots_2026_at_2022_point": 6402,
    "early_share_2022_pct": 64.5,
@@ -2319,7 +2319,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 77.3,
    "repeat_2024_pct": 90.7,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13159",
@@ -2348,7 +2348,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 79.0,
    "repeat_2024_pct": 89.0,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13161",
@@ -2377,7 +2377,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 84.0,
    "repeat_2024_pct": 86.9,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13163",
@@ -2390,8 +2390,8 @@
    "citizen_adults_est": 11464,
    "ballots_pct_of_citizen_adults_est": 16.1,
    "adults_25plus_bachelors_pct": 13.5,
-   "mail_outstanding": 171,
-   "mail_rejected": 0,
+   "mail_outstanding": 170,
+   "mail_rejected": null,
    "mail_cancelled_or_spoiled": null,
    "mail_other": null,
    "ballots_2022_same_point": 1401,
@@ -2406,7 +2406,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 50.4,
    "repeat_2024_pct": 88.2,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13165",
@@ -2435,7 +2435,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 65.0,
    "repeat_2024_pct": 86.6,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13167",
@@ -2464,7 +2464,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 73.1,
    "repeat_2024_pct": 89.4,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13169",
@@ -2493,7 +2493,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 68.8,
    "repeat_2024_pct": 90.9,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13171",
@@ -2522,7 +2522,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 72.8,
    "repeat_2024_pct": 92.2,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13173",
@@ -2551,7 +2551,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 73.0,
    "repeat_2024_pct": 87.4,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13175",
@@ -2580,7 +2580,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 66.2,
    "repeat_2024_pct": 87.8,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13177",
@@ -2609,7 +2609,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 71.6,
    "repeat_2024_pct": 89.6,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13179",
@@ -2638,7 +2638,7 @@
    "carried_2024": "D",
    "carried_2024_pct": 58.4,
    "repeat_2024_pct": 88.4,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13181",
@@ -2667,7 +2667,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 72.2,
    "repeat_2024_pct": 90.2,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13183",
@@ -2696,18 +2696,18 @@
    "carried_2024": "R",
    "carried_2024_pct": 64.6,
    "repeat_2024_pct": 83.1,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13185",
    "county": "Lowndes",
    "active_voters": 76572,
-   "ballots": 14418,
-   "in_person": 13884,
+   "ballots": 14866,
+   "in_person": 14332,
    "mail": 534,
-   "turnout_pct_of_active": 18.8,
+   "turnout_pct_of_active": 19.4,
    "citizen_adults_est": 88038,
-   "ballots_pct_of_citizen_adults_est": 16.4,
+   "ballots_pct_of_citizen_adults_est": 16.9,
    "adults_25plus_bachelors_pct": 27.9,
    "mail_outstanding": 603,
    "mail_rejected": null,
@@ -2718,14 +2718,14 @@
    "early_share_2022_pct": 65.8,
    "carried_2022": "R",
    "carried_2022_pct": 61.2,
-   "repeat_2022_pct": 71.9,
-   "ballots_2024_same_point": 24853,
-   "ballots_2026_at_2024_point": 14418,
+   "repeat_2022_pct": 71.4,
+   "ballots_2024_same_point": 25651,
+   "ballots_2026_at_2024_point": 14866,
    "early_share_2024_pct": 75.8,
    "carried_2024": "R",
    "carried_2024_pct": 58.8,
-   "repeat_2024_pct": 88.4,
-   "as_of": "2026-10-24"
+   "repeat_2024_pct": 88.1,
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13187",
@@ -2754,7 +2754,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 80.5,
    "repeat_2024_pct": 92.9,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13189",
@@ -2777,13 +2777,13 @@
    "carried_2022": "R",
    "carried_2022_pct": 63.5,
    "repeat_2022_pct": 75.2,
-   "ballots_2024_same_point": 5923,
+   "ballots_2024_same_point": 5924,
    "ballots_2026_at_2024_point": 3773,
    "early_share_2024_pct": 79.7,
    "carried_2024": "R",
    "carried_2024_pct": 62.3,
    "repeat_2024_pct": 90.3,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13191",
@@ -2812,7 +2812,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 64.1,
    "repeat_2024_pct": 91.6,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13193",
@@ -2841,7 +2841,7 @@
    "carried_2024": "D",
    "carried_2024_pct": 58.8,
    "repeat_2024_pct": 90.2,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13195",
@@ -2870,7 +2870,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 77.1,
    "repeat_2024_pct": 90.4,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13197",
@@ -2899,7 +2899,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 64.8,
    "repeat_2024_pct": 88.1,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13199",
@@ -2912,10 +2912,10 @@
    "citizen_adults_est": 16517,
    "ballots_pct_of_citizen_adults_est": 16.3,
    "adults_25plus_bachelors_pct": 14.5,
-   "mail_outstanding": 112,
+   "mail_outstanding": 113,
    "mail_rejected": 10,
    "mail_cancelled_or_spoiled": null,
-   "mail_other": 11,
+   "mail_other": 10,
    "ballots_2022_same_point": 1516,
    "ballots_2026_at_2022_point": 1335,
    "early_share_2022_pct": 48.2,
@@ -2928,7 +2928,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 62.6,
    "repeat_2024_pct": 89.1,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13201",
@@ -2957,7 +2957,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 75.1,
    "repeat_2024_pct": 92.7,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13205",
@@ -2986,7 +2986,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 58.0,
    "repeat_2024_pct": 89.6,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13207",
@@ -3015,7 +3015,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 73.2,
    "repeat_2024_pct": 90.9,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13209",
@@ -3044,7 +3044,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 76.3,
    "repeat_2024_pct": 88.6,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13211",
@@ -3073,7 +3073,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 72.7,
    "repeat_2024_pct": 92.3,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13213",
@@ -3102,36 +3102,36 @@
    "carried_2024": "R",
    "carried_2024_pct": 85.7,
    "repeat_2024_pct": 88.5,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13215",
    "county": "Muscogee",
    "active_voters": 130473,
-   "ballots": 25626,
-   "in_person": 23446,
-   "mail": 2180,
-   "turnout_pct_of_active": 19.6,
+   "ballots": 26650,
+   "in_person": 24455,
+   "mail": 2195,
+   "turnout_pct_of_active": 20.4,
    "citizen_adults_est": 148432,
-   "ballots_pct_of_citizen_adults_est": 17.3,
+   "ballots_pct_of_citizen_adults_est": 18.0,
    "adults_25plus_bachelors_pct": 30.5,
-   "mail_outstanding": 1360,
+   "mail_outstanding": 1345,
    "mail_rejected": null,
-   "mail_cancelled_or_spoiled": 99,
-   "mail_other": 101,
+   "mail_cancelled_or_spoiled": 102,
+   "mail_other": 99,
    "ballots_2022_same_point": 14351,
    "ballots_2026_at_2022_point": 12894,
    "early_share_2022_pct": 66.2,
    "carried_2022": "D",
    "carried_2022_pct": 59.1,
-   "repeat_2022_pct": 72.4,
-   "ballots_2024_same_point": 42573,
-   "ballots_2026_at_2024_point": 25626,
+   "repeat_2022_pct": 71.8,
+   "ballots_2024_same_point": 43608,
+   "ballots_2026_at_2024_point": 26650,
    "early_share_2024_pct": 76.2,
    "carried_2024": "D",
    "carried_2024_pct": 61.4,
-   "repeat_2024_pct": 88.8,
-   "as_of": "2026-10-24"
+   "repeat_2024_pct": 88.5,
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13217",
@@ -3160,7 +3160,7 @@
    "carried_2024": "D",
    "carried_2024_pct": 57.3,
    "repeat_2024_pct": 86.7,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13219",
@@ -3189,7 +3189,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 67.5,
    "repeat_2024_pct": 91.7,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13221",
@@ -3218,7 +3218,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 70.9,
    "repeat_2024_pct": 91.7,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13223",
@@ -3231,10 +3231,10 @@
    "citizen_adults_est": 126974,
    "ballots_pct_of_citizen_adults_est": 20.7,
    "adults_25plus_bachelors_pct": 29.5,
-   "mail_outstanding": 1137,
+   "mail_outstanding": 1210,
    "mail_rejected": null,
    "mail_cancelled_or_spoiled": 74,
-   "mail_other": 94,
+   "mail_other": 21,
    "ballots_2022_same_point": 13870,
    "ballots_2026_at_2022_point": 12543,
    "early_share_2022_pct": 66.0,
@@ -3247,7 +3247,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 61.7,
    "repeat_2024_pct": 88.0,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13225",
@@ -3276,7 +3276,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 52.8,
    "repeat_2024_pct": 89.7,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13227",
@@ -3305,7 +3305,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 82.6,
    "repeat_2024_pct": 91.3,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13229",
@@ -3334,7 +3334,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 88.7,
    "repeat_2024_pct": 92.4,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13231",
@@ -3363,7 +3363,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 86.6,
    "repeat_2024_pct": 93.3,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13233",
@@ -3392,7 +3392,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 80.1,
    "repeat_2024_pct": 91.4,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13235",
@@ -3421,7 +3421,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 70.0,
    "repeat_2024_pct": 90.5,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13237",
@@ -3434,10 +3434,10 @@
    "citizen_adults_est": 17489,
    "ballots_pct_of_citizen_adults_est": 29.6,
    "adults_25plus_bachelors_pct": 31.1,
-   "mail_outstanding": 142,
+   "mail_outstanding": 143,
    "mail_rejected": null,
    "mail_cancelled_or_spoiled": 10,
-   "mail_other": 12,
+   "mail_other": 11,
    "ballots_2022_same_point": 2402,
    "ballots_2026_at_2022_point": 2609,
    "early_share_2022_pct": 66.9,
@@ -3450,7 +3450,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 70.9,
    "repeat_2024_pct": 92.0,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13239",
@@ -3479,7 +3479,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 57.5,
    "repeat_2024_pct": 90.8,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13241",
@@ -3508,7 +3508,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 78.2,
    "repeat_2024_pct": 91.5,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13243",
@@ -3537,18 +3537,18 @@
    "carried_2024": "D",
    "carried_2024_pct": 53.5,
    "repeat_2024_pct": 88.9,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13245",
    "county": "Richmond",
    "active_voters": 134163,
-   "ballots": 25125,
-   "in_person": 23552,
+   "ballots": 25525,
+   "in_person": 23952,
    "mail": 1573,
-   "turnout_pct_of_active": 18.7,
+   "turnout_pct_of_active": 19.0,
    "citizen_adults_est": 155130,
-   "ballots_pct_of_citizen_adults_est": 16.2,
+   "ballots_pct_of_citizen_adults_est": 16.5,
    "adults_25plus_bachelors_pct": 24.5,
    "mail_outstanding": 1368,
    "mail_rejected": 0,
@@ -3559,14 +3559,14 @@
    "early_share_2022_pct": 56.7,
    "carried_2022": "D",
    "carried_2022_pct": 65.7,
-   "repeat_2022_pct": 69.0,
-   "ballots_2024_same_point": 37777,
-   "ballots_2026_at_2024_point": 25125,
+   "repeat_2022_pct": 68.6,
+   "ballots_2024_same_point": 38374,
+   "ballots_2026_at_2024_point": 25525,
    "early_share_2024_pct": 67.0,
    "carried_2024": "D",
    "carried_2024_pct": 67.8,
-   "repeat_2024_pct": 86.5,
-   "as_of": "2026-10-24"
+   "repeat_2024_pct": 86.3,
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13247",
@@ -3595,7 +3595,7 @@
    "carried_2024": "D",
    "carried_2024_pct": 73.4,
    "repeat_2024_pct": 88.6,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13249",
@@ -3624,18 +3624,18 @@
    "carried_2024": "R",
    "carried_2024_pct": 81.1,
    "repeat_2024_pct": 89.5,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13251",
    "county": "Screven",
    "active_voters": 10301,
-   "ballots": 2079,
-   "in_person": 2020,
+   "ballots": 2239,
+   "in_person": 2180,
    "mail": 59,
-   "turnout_pct_of_active": 20.2,
+   "turnout_pct_of_active": 21.7,
    "citizen_adults_est": 11090,
-   "ballots_pct_of_citizen_adults_est": 18.7,
+   "ballots_pct_of_citizen_adults_est": 20.2,
    "adults_25plus_bachelors_pct": 14.7,
    "mail_outstanding": 80,
    "mail_rejected": 0,
@@ -3646,25 +3646,25 @@
    "early_share_2022_pct": 57.1,
    "carried_2022": "R",
    "carried_2022_pct": 64.4,
-   "repeat_2022_pct": 70.1,
-   "ballots_2024_same_point": 3529,
-   "ballots_2026_at_2024_point": 2079,
+   "repeat_2022_pct": 68.6,
+   "ballots_2024_same_point": 3728,
+   "ballots_2026_at_2024_point": 2239,
    "early_share_2024_pct": 72.2,
    "carried_2024": "R",
    "carried_2024_pct": 62.5,
-   "repeat_2024_pct": 89.3,
-   "as_of": "2026-10-24"
+   "repeat_2024_pct": 88.3,
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13253",
    "county": "Seminole",
    "active_voters": 5779,
-   "ballots": 670,
-   "in_person": 630,
+   "ballots": 695,
+   "in_person": 655,
    "mail": 40,
-   "turnout_pct_of_active": 11.6,
+   "turnout_pct_of_active": 12.0,
    "citizen_adults_est": 7259,
-   "ballots_pct_of_citizen_adults_est": 9.2,
+   "ballots_pct_of_citizen_adults_est": 9.6,
    "adults_25plus_bachelors_pct": 13.4,
    "mail_outstanding": 25,
    "mail_rejected": 0,
@@ -3675,14 +3675,14 @@
    "early_share_2022_pct": 45.4,
    "carried_2022": "R",
    "carried_2022_pct": 74.1,
-   "repeat_2022_pct": 69.1,
+   "repeat_2022_pct": 67.5,
    "ballots_2024_same_point": 1620,
-   "ballots_2026_at_2024_point": 670,
+   "ballots_2026_at_2024_point": 695,
    "early_share_2024_pct": 61.0,
    "carried_2024": "R",
    "carried_2024_pct": 70.2,
-   "repeat_2024_pct": 88.4,
-   "as_of": "2026-10-24"
+   "repeat_2024_pct": 87.3,
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13255",
@@ -3711,7 +3711,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 58.1,
    "repeat_2024_pct": 89.4,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13257",
@@ -3740,7 +3740,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 81.2,
    "repeat_2024_pct": 92.3,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13259",
@@ -3769,7 +3769,7 @@
    "carried_2024": "D",
    "carried_2024_pct": 58.0,
    "repeat_2024_pct": 86.2,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13261",
@@ -3798,7 +3798,7 @@
    "carried_2024": "D",
    "carried_2024_pct": 50.9,
    "repeat_2024_pct": 87.9,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13263",
@@ -3827,7 +3827,7 @@
    "carried_2024": "D",
    "carried_2024_pct": 55.9,
    "repeat_2024_pct": 89.2,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13265",
@@ -3856,7 +3856,7 @@
    "carried_2024": "D",
    "carried_2024_pct": 57.4,
    "repeat_2024_pct": 90.4,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13267",
@@ -3885,7 +3885,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 76.5,
    "repeat_2024_pct": 89.5,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13269",
@@ -3914,7 +3914,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 65.3,
    "repeat_2024_pct": 91.1,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13271",
@@ -3943,7 +3943,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 69.5,
    "repeat_2024_pct": 86.5,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13273",
@@ -3972,7 +3972,7 @@
    "carried_2024": "D",
    "carried_2024_pct": 51.9,
    "repeat_2024_pct": 88.9,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13275",
@@ -4001,7 +4001,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 61.9,
    "repeat_2024_pct": 90.4,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13277",
@@ -4030,7 +4030,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 67.7,
    "repeat_2024_pct": 88.1,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13279",
@@ -4059,7 +4059,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 75.2,
    "repeat_2024_pct": 90.4,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13281",
@@ -4088,7 +4088,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 81.0,
    "repeat_2024_pct": 90.8,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13283",
@@ -4117,7 +4117,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 72.1,
    "repeat_2024_pct": 90.4,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13285",
@@ -4146,7 +4146,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 61.9,
    "repeat_2024_pct": 89.5,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13287",
@@ -4175,7 +4175,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 64.1,
    "repeat_2024_pct": 88.3,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13289",
@@ -4204,7 +4204,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 57.2,
    "repeat_2024_pct": 88.7,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13291",
@@ -4233,7 +4233,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 81.0,
    "repeat_2024_pct": 90.0,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13293",
@@ -4262,7 +4262,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 69.7,
    "repeat_2024_pct": 92.6,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13295",
@@ -4291,7 +4291,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 79.4,
    "repeat_2024_pct": 89.1,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13297",
@@ -4304,10 +4304,10 @@
    "citizen_adults_est": 76397,
    "ballots_pct_of_citizen_adults_est": 24.9,
    "adults_25plus_bachelors_pct": 24.5,
-   "mail_outstanding": 461,
+   "mail_outstanding": 470,
    "mail_rejected": null,
    "mail_cancelled_or_spoiled": 38,
-   "mail_other": 48,
+   "mail_other": 39,
    "ballots_2022_same_point": 8541,
    "ballots_2026_at_2022_point": 9385,
    "early_share_2022_pct": 59.1,
@@ -4320,7 +4320,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 72.6,
    "repeat_2024_pct": 90.1,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13299",
@@ -4343,13 +4343,13 @@
    "carried_2022": "R",
    "carried_2022_pct": 73.1,
    "repeat_2022_pct": 71.7,
-   "ballots_2024_same_point": 7662,
+   "ballots_2024_same_point": 7795,
    "ballots_2026_at_2024_point": 3933,
    "early_share_2024_pct": 74.3,
    "carried_2024": "R",
    "carried_2024_pct": 71.4,
    "repeat_2024_pct": 89.8,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13301",
@@ -4378,7 +4378,7 @@
    "carried_2024": "D",
    "carried_2024_pct": 52.2,
    "repeat_2024_pct": 88.4,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13303",
@@ -4407,7 +4407,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 50.8,
    "repeat_2024_pct": 87.4,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13305",
@@ -4436,7 +4436,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 79.7,
    "repeat_2024_pct": 89.6,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13307",
@@ -4465,7 +4465,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 59.1,
    "repeat_2024_pct": 89.3,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13309",
@@ -4494,7 +4494,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 72.4,
    "repeat_2024_pct": 86.0,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13311",
@@ -4507,7 +4507,7 @@
    "citizen_adults_est": 22905,
    "ballots_pct_of_citizen_adults_est": 24.1,
    "adults_25plus_bachelors_pct": 24.0,
-   "mail_outstanding": 119,
+   "mail_outstanding": 121,
    "mail_rejected": 0,
    "mail_cancelled_or_spoiled": null,
    "mail_other": null,
@@ -4523,7 +4523,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 84.0,
    "repeat_2024_pct": 91.3,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13313",
@@ -4552,7 +4552,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 71.9,
    "repeat_2024_pct": 81.8,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13315",
@@ -4581,7 +4581,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 74.5,
    "repeat_2024_pct": 90.1,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13317",
@@ -4610,7 +4610,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 58.3,
    "repeat_2024_pct": 87.3,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13319",
@@ -4639,7 +4639,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 58.8,
    "repeat_2024_pct": 87.5,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   },
   {
    "county_fips": "13321",
@@ -4668,7 +4668,7 @@
    "carried_2024": "R",
    "carried_2024_pct": 75.1,
    "repeat_2024_pct": 86.9,
-   "as_of": "2026-10-24"
+   "as_of": "2026-10-25"
   }
  ]
 }
