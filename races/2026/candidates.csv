@@ -1117,7 +1117,7 @@ ga-house-176-2026,state,Georgia House of Representatives,176,2026,primary,2026-0
 ga-house-176-2026,state,Georgia House of Representatives,176,2026,primary,2026-05-19,Republican,Michael R Dockery,challenger,False,ga-house-176-2026-r-2,,,ga-house-176-2026-r-2
 ga-house-176-2026,state,Georgia House of Representatives,176,2026,general,2026-11-03,Republican,James D Burchett,incumbent,True,ga-house-176-2026-r-1,ocd-person/dbce462d-74e3-42d3-bd6c-3b9f8eeb69fe,state,ga-house-176-2026-r-1
 ga-house-176-2026,state,Georgia House of Representatives,176,2026,general,2026-11-03,Democrat,Marcus T. Ryan,challenger,False,ga-house-176-2026-d-1,,,ga-house-176-2026-d-1
-ga-house-177-2026,state,Georgia House of Representatives,177,2026,primary,2026-05-19,Democrat,Alvin Payton Jr,challenger,False,ga-house-177-2026-d-1,,,ga-house-177-2026-d-1
+ga-house-177-2026,state,Georgia House of Representatives,177,2026,primary,2026-05-19,Democrat,Alvin Payton Jr,challenger,True,ga-house-177-2026-d-1,ocd-person/8aa7ee05-bf64-4c51-8821-ad905d25741b,state,ga-house-177-2026-d-1
 ga-house-177-2026,state,Georgia House of Representatives,177,2026,primary,2026-05-19,Democrat,Blake Alexander Robinson,challenger,False,ga-house-177-2026-d-2,,,ga-house-177-2026-d-2
 ga-house-177-2026,state,Georgia House of Representatives,177,2026,primary,2026-05-19,Democrat,Elsie Cason Napier,challenger,False,ga-house-177-2026-d-3,,,ga-house-177-2026-d-3
 ga-house-177-2026,state,Georgia House of Representatives,177,2026,primary,2026-05-19,Democrat,Eric G Howard,challenger,False,ga-house-177-2026-d-4,,,ga-house-177-2026-d-4
