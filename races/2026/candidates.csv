@@ -1368,7 +1368,9 @@ ga-senate-56-2026,state,Georgia State Senate,56,2026,primary,2026-05-19,Democrat
 ga-senate-56-2026,state,Georgia State Senate,56,2026,primary,2026-05-19,Republican,John Albers,challenger,True,ga-senate-56-2026-r-1,ocd-person/ac1cac30-3fec-4c56-b172-b483db465a6b,state,ga-senate-56-2026-r-1
 ga-senate-56-2026,state,Georgia State Senate,56,2026,general,2026-11-03,Republican,John Albers,incumbent,True,ga-senate-56-2026-r-1,ocd-person/ac1cac30-3fec-4c56-b172-b483db465a6b,state,ga-senate-56-2026-r-1
 ga-senate-56-2026,state,Georgia State Senate,56,2026,general,2026-11-03,Democrat,Patrick Thompson,challenger,False,ga-senate-56-2026-d-1,,,ga-senate-56-2026-d-1
-da-atlantic-2026,local,District Attorney,,2026,general,2026-11-03,Republican,Billy Joe Nelson Jr.,incumbent,True,da-atlantic-2026-r-1,,,da-atlantic-2026-r-1
+da-atlantic-2026,local,District Attorney,,2026,primary,2026-05-19,Republican,Billy Joe Nelson Jr.,incumbent,True,da-atlantic-2026-r-1,,,da-atlantic-2026-r-1
+da-atlantic-2026,local,District Attorney,,2026,general,2026-11-03,Republican,"Richard Eugene Braun, Jr.",challenger,False,da-atlantic-2026-r-2,,,da-atlantic-2026-r-2
+da-atlantic-2026,local,District Attorney,,2026,general,2026-11-03,Republican,Laurie Elyse Baio,challenger,False,da-atlantic-2026-r-3,,,da-atlantic-2026-r-3
 da-columbia-2026,local,District Attorney,,2026,general,2026-11-03,Republican,Natalie Paine,challenger,False,da-columbia-2026-r-1,,,da-columbia-2026-r-1
 da-cordele-2026,local,District Attorney,,2026,general,2026-11-03,Republican,Lyndsey Walters,challenger,False,da-cordele-2026-r-1,,,da-cordele-2026-r-1
 da-enotah-2026,local,District Attorney,,2026,general,2026-11-03,Republican,Jeff Langley,incumbent,True,da-enotah-2026-r-1,,,da-enotah-2026-r-1
