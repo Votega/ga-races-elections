@@ -1,0 +1,52 @@
+{
+ "manifestSchemaVersion": "1.0.0",
+ "dataset": "races",
+ "title": "Georgia races and candidates",
+ "description": "Every Georgia race on the ballot and the candidates who qualified for it, by election cycle, as the Secretary of State publishes them.",
+ "repo": "Votega/ga-races-elections",
+ "publisher": "VoteGA.org",
+ "generatedAt": "2026-10-30T22:57:38Z",
+ "publishedAt": "2026-11-02T02:21:19Z",
+ "updateCadence": "As the Secretary of State publishes qualifying and ballot changes.",
+ "schemaVersion": null,
+ "rowCount": 363,
+ "source": "the Georgia Secretary of State; the county Census figures in early-vote/ come from the U.S. Census Bureau's American Community Survey, compiled by Georgia Civic Data (georgiacivicdata.org, CC BY 4.0)",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+ },
+ "files": [
+  {
+   "path": "races/2026/RACES.md",
+   "description": "Human-readable overview.",
+   "bytes": 643
+  },
+  {
+   "path": "races/2026/candidates.csv",
+   "description": "Candidates as a spreadsheet.",
+   "bytes": 261048
+  },
+  {
+   "path": "races/2026/races.csv",
+   "description": "Races as a spreadsheet.",
+   "bytes": 30428
+  },
+  {
+   "path": "races/2026/races.json",
+   "description": "Every race and candidate in the cycle.",
+   "bytes": 1185528
+  },
+  {
+   "path": "races/2026/races.schema.json",
+   "description": "JSON Schema for one race.",
+   "bytes": 2530
+  }
+ ],
+ "coverage": {
+  "cycles": [
+   2026
+  ],
+  "races": 363
+ }
+}
