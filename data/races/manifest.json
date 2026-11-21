@@ -5,7 +5,7 @@
  "description": "Every Georgia race on the ballot and the candidates who qualified for it, by election cycle, as the Secretary of State publishes them.",
  "repo": "Votega/ga-races-elections",
  "publisher": "VoteGA.org",
- "generatedAt": "2026-10-30T22:57:38Z",
+ "generatedAt": "2026-11-21T01:54:54Z",
  "updateCadence": "As the Secretary of State publishes qualifying and ballot changes.",
  "schemaVersion": null,
  "rowCount": 363,
@@ -34,7 +34,7 @@
   {
    "path": "races/2026/races.json",
    "description": "Every race and candidate in the cycle.",
-   "bytes": 1185528
+   "bytes": 1236150
   },
   {
    "path": "races/2026/races.schema.json",
