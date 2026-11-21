@@ -1031,6 +1031,8 @@ ga-house-151-2026,state,Georgia House of Representatives,151,2026,primary,2026-0
 ga-house-151-2026,state,Georgia House of Representatives,151,2026,general,2026-11-03,Republican,Mike Cheokas,incumbent,True,ga-house-151-2026-r-1,ocd-person/1831cc73-e694-4cea-83a4-b55c3495f76a,state,ga-house-151-2026-r-1
 ga-house-151-2026,state,Georgia House of Representatives,151,2026,general,2026-11-03,Democrat,Ethan Wolfe,challenger,False,ga-house-151-2026-d-1,,,ga-house-151-2026-d-1
 ga-house-151-2026,state,Georgia House of Representatives,151,2026,general,2026-11-03,Independent,Travis Lockhart,challenger,False,ga-house-151-2026-i-lockhart,,,ga-house-151-2026-i-lockhart
+ga-house-151-2026,state,Georgia House of Representatives,151,2026,runoff,2026-12-01,Republican,Mike Cheokas,incumbent,True,ga-house-151-2026-r-1,ocd-person/1831cc73-e694-4cea-83a4-b55c3495f76a,state,ga-house-151-2026-r-1
+ga-house-151-2026,state,Georgia House of Representatives,151,2026,runoff,2026-12-01,Democrat,Ethan Wolfe,challenger,False,ga-house-151-2026-d-1,,,ga-house-151-2026-d-1
 ga-house-152-2026,state,Georgia House of Representatives,152,2026,primary,2026-05-19,Democrat,Mitchell Rosa,challenger,False,ga-house-152-2026-d-1,,,ga-house-152-2026-d-1
 ga-house-152-2026,state,Georgia House of Representatives,152,2026,primary,2026-05-19,Republican,"William J. ""Bill"" Yearta",challenger,True,ga-house-152-2026-r-1,ocd-person/23dfc274-73d1-45df-b381-67e597cf0b84,state,ga-house-152-2026-r-1
 ga-house-152-2026,state,Georgia House of Representatives,152,2026,general,2026-11-03,Republican,"William J. ""Bill"" Yearta",incumbent,True,ga-house-152-2026-r-1,ocd-person/23dfc274-73d1-45df-b381-67e597cf0b84,state,ga-house-152-2026-r-1

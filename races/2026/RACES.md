@@ -1,7 +1,7 @@
 # Georgia Races & Elections
 
 _Auto-generated from [votega.org](https://votega.org) — do not edit by hand._  
-_Last updated 2026-11-21T01:54:54Z · 363 races._
+_Last updated 2026-11-21T01:59:20Z · 363 races._
 
 > Data: [`races.json`](races.json) (full, nested — every candidate & phase), [`races.csv`](races.csv) (one row per race), [`candidates.csv`](candidates.csv) (one row per candidate, flattened).
 
@@ -25,6 +25,6 @@ _Last updated 2026-11-21T01:54:54Z · 363 races._
 
 | Active phase | Races |
 |---|---|
-| general | 362 |
-| runoff | 1 |
+| general | 361 |
+| runoff | 2 |
 
