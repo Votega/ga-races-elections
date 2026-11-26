@@ -1,3 +1,3 @@
-election,office,district,party,candidate,votes,totalVotes,incumbent,winner,electionDate,section,contestId,contestParty,outcome,advancedToRunoff,status
-2026-special-us-house-13-runoff,U.S. House,13,Democrat,"Everton ""EJ"" Blair",9895,18342,False,True,2026-08-25,us-house,us-house-district-13,,decided,False,certified
-2026-special-us-house-13-runoff,U.S. House,13,Democrat,Marcye Scott,8447,18342,False,False,2026-08-25,us-house,us-house-district-13,,decided,False,certified
+election,office,district,party,candidate,votes,totalVotes,incumbent,winner,electionDate,section,contestId,contestParty,outcome,advancedToRunoff,status,electionDay,advanceVoting,absenteeByMail,provisional
+2026-special-us-house-13-runoff,U.S. House,13,Democrat,"Everton ""EJ"" Blair",9895,18342,False,True,2026-08-25,us-house,us-house-district-13,,decided,False,certified,,,,
+2026-special-us-house-13-runoff,U.S. House,13,Democrat,Marcye Scott,8447,18342,False,False,2026-08-25,us-house,us-house-district-13,,decided,False,certified,,,,

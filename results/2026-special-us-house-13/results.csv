@@ -1,6 +1,6 @@
-election,office,district,party,candidate,votes,totalVotes,incumbent,winner,electionDate,section,contestId,contestParty,outcome,advancedToRunoff,status
-2026-special-us-house-13,U.S. House,13,Democrat,Marcye Scott,9441,20510,False,False,2026-07-28,us-house,us-house-district-13,,runoff,True,certified
-2026-special-us-house-13,U.S. House,13,Democrat,"Everton ""EJ"" Blair",7680,20510,False,False,2026-07-28,us-house,us-house-district-13,,runoff,True,certified
-2026-special-us-house-13,U.S. House,13,Republican,Caesar Gonzales,1778,20510,False,False,2026-07-28,us-house,us-house-district-13,,runoff,False,certified
-2026-special-us-house-13,U.S. House,13,Republican,Fayth Park,972,20510,False,False,2026-07-28,us-house,us-house-district-13,,runoff,False,certified
-2026-special-us-house-13,U.S. House,13,Democrat,Carlos Moore,639,20510,False,False,2026-07-28,us-house,us-house-district-13,,runoff,False,certified
+election,office,district,party,candidate,votes,totalVotes,incumbent,winner,electionDate,section,contestId,contestParty,outcome,advancedToRunoff,status,electionDay,advanceVoting,absenteeByMail,provisional
+2026-special-us-house-13,U.S. House,13,Democrat,Marcye Scott,9441,20510,False,False,2026-07-28,us-house,us-house-district-13,,runoff,True,certified,,,,
+2026-special-us-house-13,U.S. House,13,Democrat,"Everton ""EJ"" Blair",7680,20510,False,False,2026-07-28,us-house,us-house-district-13,,runoff,True,certified,,,,
+2026-special-us-house-13,U.S. House,13,Republican,Caesar Gonzales,1778,20510,False,False,2026-07-28,us-house,us-house-district-13,,runoff,False,certified,,,,
+2026-special-us-house-13,U.S. House,13,Republican,Fayth Park,972,20510,False,False,2026-07-28,us-house,us-house-district-13,,runoff,False,certified,,,,
+2026-special-us-house-13,U.S. House,13,Democrat,Carlos Moore,639,20510,False,False,2026-07-28,us-house,us-house-district-13,,runoff,False,certified,,,,

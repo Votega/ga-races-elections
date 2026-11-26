@@ -1,55 +1,55 @@
-election,office,district,party,candidate,votes,totalVotes,incumbent,winner,electionDate,section,contestId,contestParty,outcome,advancedToRunoff,status
-2026-primary-runoff,US Senate,,Republican,Mike Collins,390174,702513,False,True,2026-06-16,statewide,statewide-us-senate-rep,Republican,decided,False,certified
-2026-primary-runoff,US Senate,,Republican,Derek Dooley,312339,702513,False,False,2026-06-16,statewide,statewide-us-senate-rep,Republican,decided,False,certified
-2026-primary-runoff,Governor,,Republican,Rick Jackson,373543,709554,False,True,2026-06-16,statewide,statewide-governor-rep,Republican,decided,False,certified
-2026-primary-runoff,Governor,,Republican,Burt Jones,336011,709554,False,False,2026-06-16,statewide,statewide-governor-rep,Republican,decided,False,certified
-2026-primary-runoff,Lieutenant Governor,,Republican,Greg Dolezal,375012,691912,False,True,2026-06-16,statewide,statewide-lieutenant-governor-rep,Republican,decided,False,certified
-2026-primary-runoff,Lieutenant Governor,,Republican,John F. Kennedy,316900,691912,False,False,2026-06-16,statewide,statewide-lieutenant-governor-rep,Republican,decided,False,certified
-2026-primary-runoff,Lieutenant Governor,,Democrat,Josh McLaurin,210842,384212,False,True,2026-06-16,statewide,statewide-lieutenant-governor-dem,Democrat,decided,False,certified
-2026-primary-runoff,Lieutenant Governor,,Democrat,Nabilah Parkes,173370,384212,False,False,2026-06-16,statewide,statewide-lieutenant-governor-dem,Democrat,decided,False,certified
-2026-primary-runoff,Secretary of State,,Republican,Tim Fleming,430455,667375,False,True,2026-06-16,statewide,statewide-secretary-of-state-rep,Republican,decided,False,certified
-2026-primary-runoff,Secretary of State,,Republican,Vernon Jones,236920,667375,False,False,2026-06-16,statewide,statewide-secretary-of-state-rep,Republican,decided,False,certified
-2026-primary-runoff,Secretary of State,,Democrat,Penny Brown Reynolds,242439,384198,False,True,2026-06-16,statewide,statewide-secretary-of-state-dem,Democrat,decided,False,certified
-2026-primary-runoff,Secretary of State,,Democrat,Dana Barrett,141759,384198,False,False,2026-06-16,statewide,statewide-secretary-of-state-dem,Democrat,decided,False,certified
-2026-primary-runoff,Commissioner of Insurance,,Democrat,Keisha Sean Waites,224125,381791,False,True,2026-06-16,statewide,statewide-commissioner-of-insurance-dem,Democrat,decided,False,certified
-2026-primary-runoff,Commissioner of Insurance,,Democrat,DeAndre Mathis,157666,381791,False,False,2026-06-16,statewide,statewide-commissioner-of-insurance-dem,Democrat,decided,False,certified
-2026-primary-runoff,State School Superintendent,,Republican,Richard Woods,344958,669997,True,True,2026-06-16,statewide,statewide-state-school-superintendent-rep,Republican,decided,False,certified
-2026-primary-runoff,State School Superintendent,,Republican,"Fred ""Bubba"" Longgrear",325039,669997,False,False,2026-06-16,statewide,statewide-state-school-superintendent-rep,Republican,decided,False,certified
-2026-primary-runoff,Commissioner of Labor,,Democrat,Nikki Porcher,232518,376640,False,True,2026-06-16,statewide,statewide-commissioner-of-labor-dem,Democrat,decided,False,certified
-2026-primary-runoff,Commissioner of Labor,,Democrat,Michelle Michi Sanchez,144122,376640,False,False,2026-06-16,statewide,statewide-commissioner-of-labor-dem,Democrat,decided,False,certified
-2026-primary-runoff,PSC - District 5,5,Republican,Josh Tolbert,371567,621796,False,True,2026-06-16,statewide,statewide-psc-district-5-rep,Republican,decided,False,certified
-2026-primary-runoff,PSC - District 5,5,Republican,Bobby Mehan,250229,621796,False,False,2026-06-16,statewide,statewide-psc-district-5-rep,Republican,decided,False,certified
-2026-primary-runoff,U.S. House,1,Democrat,Amanda Hollowell,12618,23824,False,True,2026-06-16,us-house,us-house-district-1-dem,Democrat,decided,False,certified
-2026-primary-runoff,U.S. House,1,Democrat,Joyce Marie Griggs,11206,23824,False,False,2026-06-16,us-house,us-house-district-1-dem,Democrat,decided,False,certified
-2026-primary-runoff,U.S. House,7,Democrat,Tony Kozycki,11667,17228,False,True,2026-06-16,us-house,us-house-district-7-dem,Democrat,decided,False,certified
-2026-primary-runoff,U.S. House,7,Democrat,Case Norton,5561,17228,False,False,2026-06-16,us-house,us-house-district-7-dem,Democrat,decided,False,certified
-2026-primary-runoff,U.S. House,11,Republican,John Cowan,44799,68939,False,True,2026-06-16,us-house,us-house-district-11-rep,Republican,decided,False,certified
-2026-primary-runoff,U.S. House,11,Republican,Rob Adkerson,24140,68939,False,False,2026-06-16,us-house,us-house-district-11-rep,Republican,decided,False,certified
-2026-primary-runoff,U.S. House,12,Democrat,Ceretta Smith,16823,30154,False,True,2026-06-16,us-house,us-house-district-12-dem,Democrat,decided,False,certified
-2026-primary-runoff,U.S. House,12,Democrat,"Traci ""Acree"" George",13331,30154,False,False,2026-06-16,us-house,us-house-district-12-dem,Democrat,decided,False,certified
-2026-primary-runoff,Georgia State Senate,7,Democrat,Ruwa Romman,4638,7714,False,True,2026-06-16,state-senate,state-senate-district-7-dem,Democrat,decided,False,certified
-2026-primary-runoff,Georgia State Senate,7,Democrat,Rahul Garabadu,3076,7714,False,False,2026-06-16,state-senate,state-senate-district-7-dem,Democrat,decided,False,certified
-2026-primary-runoff,Georgia State Senate,10,Democrat,Larry Johnson,12624,19356,False,True,2026-06-16,state-senate,state-senate-district-10-dem,Democrat,decided,False,certified
-2026-primary-runoff,Georgia State Senate,10,Democrat,Gabrielle Rogers,6732,19356,False,False,2026-06-16,state-senate,state-senate-district-10-dem,Democrat,decided,False,certified
-2026-primary-runoff,Georgia State Senate,14,Democrat,Kevin Abel,4317,8489,False,True,2026-06-16,state-senate,state-senate-district-14-dem,Democrat,decided,False,certified
-2026-primary-runoff,Georgia State Senate,14,Democrat,Nathalie J. Kanani,4172,8489,False,False,2026-06-16,state-senate,state-senate-district-14-dem,Democrat,decided,False,certified
-2026-primary-runoff,Georgia State Senate,46,Republican,Marc McMain,12084,18721,False,True,2026-06-16,state-senate,state-senate-district-46-rep,Republican,decided,False,certified
-2026-primary-runoff,Georgia State Senate,46,Republican,Doug McKillip,6637,18721,False,False,2026-06-16,state-senate,state-senate-district-46-rep,Republican,decided,False,certified
-2026-primary-runoff,Georgia State Senate,51,Republican,Will Wade,18265,29844,False,True,2026-06-16,state-senate,state-senate-district-51-rep,Republican,decided,False,certified
-2026-primary-runoff,Georgia State Senate,51,Republican,Philip Milam,11579,29844,False,False,2026-06-16,state-senate,state-senate-district-51-rep,Republican,decided,False,certified
-2026-primary-runoff,Georgia State Senate (special election),7,Democrat,Adrienne White,8510,16641,False,True,2026-06-16,state-senate,state-senate-special-state-senate-district-7,,decided,False,certified
-2026-primary-runoff,Georgia State Senate (special election),7,Republican,Aizaz Shahbaz Shaikh,8131,16641,False,False,2026-06-16,state-senate,state-senate-special-state-senate-district-7,,decided,False,certified
-2026-primary-runoff,Georgia House of Representatives,47,Republican,Jack Miller,2935,4660,False,True,2026-06-16,state-house,state-house-district-47-rep,Republican,decided,False,certified
-2026-primary-runoff,Georgia House of Representatives,47,Republican,Brian Cochran,1725,4660,False,False,2026-06-16,state-house,state-house-district-47-rep,Republican,decided,False,certified
-2026-primary-runoff,Georgia House of Representatives,58,Democrat,Mathewos Samson,3539,5341,False,True,2026-06-16,state-house,state-house-district-58-dem,Democrat,decided,False,certified
-2026-primary-runoff,Georgia House of Representatives,58,Democrat,Demetria Henderson,1802,5341,False,False,2026-06-16,state-house,state-house-district-58-dem,Democrat,decided,False,certified
-2026-primary-runoff,Georgia House of Representatives,62,Democrat,Kenn Collier,3359,5405,False,True,2026-06-16,state-house,state-house-district-62-dem,Democrat,decided,False,certified
-2026-primary-runoff,Georgia House of Representatives,62,Democrat,Kavon Arnold,2046,5405,False,False,2026-06-16,state-house,state-house-district-62-dem,Democrat,decided,False,certified
-2026-primary-runoff,Georgia House of Representatives,68,Democrat,Timoria McQueen Saba,2286,4386,False,True,2026-06-16,state-house,state-house-district-68-dem,Democrat,decided,False,certified
-2026-primary-runoff,Georgia House of Representatives,68,Democrat,Mark Baker,2100,4386,False,False,2026-06-16,state-house,state-house-district-68-dem,Democrat,decided,False,certified
-2026-primary-runoff,Georgia House of Representatives,94,Democrat,Venola Mason,3048,3940,True,True,2026-06-16,state-house,state-house-district-94-dem,Democrat,decided,False,certified
-2026-primary-runoff,Georgia House of Representatives,94,Democrat,Kelly Kautz,892,3940,False,False,2026-06-16,state-house,state-house-district-94-dem,Democrat,decided,False,certified
-2026-primary-runoff,Georgia House of Representatives,117,Democrat,Kim Thomas Smith,3832,4363,False,True,2026-06-16,state-house,state-house-district-117-dem,Democrat,decided,False,certified
-2026-primary-runoff,Georgia House of Representatives,117,Democrat,Mary Ann Santos,531,4363,True,False,2026-06-16,state-house,state-house-district-117-dem,Democrat,decided,False,certified
-2026-primary-runoff,Georgia House of Representatives,177,Democrat,Elsie Cason Napier,858,1469,False,True,2026-06-16,state-house,state-house-district-177-dem,Democrat,decided,False,certified
-2026-primary-runoff,Georgia House of Representatives,177,Democrat,"Alvin Payton, Jr.",611,1469,False,False,2026-06-16,state-house,state-house-district-177-dem,Democrat,decided,False,certified
+election,office,district,party,candidate,votes,totalVotes,incumbent,winner,electionDate,section,contestId,contestParty,outcome,advancedToRunoff,status,electionDay,advanceVoting,absenteeByMail,provisional
+2026-primary-runoff,US Senate,,Republican,Mike Collins,390174,702513,False,True,2026-06-16,statewide,statewide-us-senate-rep,Republican,decided,False,certified,233881,148354,7830,109
+2026-primary-runoff,US Senate,,Republican,Derek Dooley,312339,702513,False,False,2026-06-16,statewide,statewide-us-senate-rep,Republican,decided,False,certified,165151,139447,7674,67
+2026-primary-runoff,Governor,,Republican,Rick Jackson,373543,709554,False,True,2026-06-16,statewide,statewide-governor-rep,Republican,decided,False,certified,192246,171816,9396,85
+2026-primary-runoff,Governor,,Republican,Burt Jones,336011,709554,False,False,2026-06-16,statewide,statewide-governor-rep,Republican,decided,False,certified,211365,118455,6102,89
+2026-primary-runoff,Lieutenant Governor,,Republican,Greg Dolezal,375012,691912,False,True,2026-06-16,statewide,statewide-lieutenant-governor-rep,Republican,decided,False,certified,208652,158003,8279,78
+2026-primary-runoff,Lieutenant Governor,,Republican,John F. Kennedy,316900,691912,False,False,2026-06-16,statewide,statewide-lieutenant-governor-rep,Republican,decided,False,certified,183276,126595,6943,86
+2026-primary-runoff,Lieutenant Governor,,Democrat,Josh McLaurin,210842,384212,False,True,2026-06-16,statewide,statewide-lieutenant-governor-dem,Democrat,decided,False,certified,111018,90155,9572,97
+2026-primary-runoff,Lieutenant Governor,,Democrat,Nabilah Parkes,173370,384212,False,False,2026-06-16,statewide,statewide-lieutenant-governor-dem,Democrat,decided,False,certified,92516,73864,6872,118
+2026-primary-runoff,Secretary of State,,Republican,Tim Fleming,430455,667375,False,True,2026-06-16,statewide,statewide-secretary-of-state-rep,Republican,decided,False,certified,238122,181930,10304,99
+2026-primary-runoff,Secretary of State,,Republican,Vernon Jones,236920,667375,False,False,2026-06-16,statewide,statewide-secretary-of-state-rep,Republican,decided,False,certified,138584,93706,4566,64
+2026-primary-runoff,Secretary of State,,Democrat,Penny Brown Reynolds,242439,384198,False,True,2026-06-16,statewide,statewide-secretary-of-state-dem,Democrat,decided,False,certified,125631,105667,11002,139
+2026-primary-runoff,Secretary of State,,Democrat,Dana Barrett,141759,384198,False,False,2026-06-16,statewide,statewide-secretary-of-state-dem,Democrat,decided,False,certified,77822,58444,5416,77
+2026-primary-runoff,Commissioner of Insurance,,Democrat,Keisha Sean Waites,224125,381791,False,True,2026-06-16,statewide,statewide-commissioner-of-insurance-dem,Democrat,decided,False,certified,116628,98273,9091,133
+2026-primary-runoff,Commissioner of Insurance,,Democrat,DeAndre Mathis,157666,381791,False,False,2026-06-16,statewide,statewide-commissioner-of-insurance-dem,Democrat,decided,False,certified,85475,64986,7123,82
+2026-primary-runoff,State School Superintendent,,Republican,Richard Woods,344958,669997,True,True,2026-06-16,statewide,statewide-state-school-superintendent-rep,Republican,decided,False,certified,194115,143207,7559,77
+2026-primary-runoff,State School Superintendent,,Republican,"Fred ""Bubba"" Longgrear",325039,669997,False,False,2026-06-16,statewide,statewide-state-school-superintendent-rep,Republican,decided,False,certified,184652,133042,7257,88
+2026-primary-runoff,Commissioner of Labor,,Democrat,Nikki Porcher,232518,376640,False,True,2026-06-16,statewide,statewide-commissioner-of-labor-dem,Democrat,decided,False,certified,121725,100484,10196,113
+2026-primary-runoff,Commissioner of Labor,,Democrat,Michelle Michi Sanchez,144122,376640,False,False,2026-06-16,statewide,statewide-commissioner-of-labor-dem,Democrat,decided,False,certified,77610,60534,5878,100
+2026-primary-runoff,PSC - District 5,5,Republican,Josh Tolbert,371567,621796,False,True,2026-06-16,statewide,statewide-psc-district-5-rep,Republican,decided,False,certified,209781,153080,8612,94
+2026-primary-runoff,PSC - District 5,5,Republican,Bobby Mehan,250229,621796,False,False,2026-06-16,statewide,statewide-psc-district-5-rep,Republican,decided,False,certified,140783,104294,5092,60
+2026-primary-runoff,U.S. House,1,Democrat,Amanda Hollowell,12618,23824,False,True,2026-06-16,us-house,us-house-district-1-dem,Democrat,decided,False,certified,7371,4674,564,9
+2026-primary-runoff,U.S. House,1,Democrat,Joyce Marie Griggs,11206,23824,False,False,2026-06-16,us-house,us-house-district-1-dem,Democrat,decided,False,certified,6277,4083,844,2
+2026-primary-runoff,U.S. House,7,Democrat,Tony Kozycki,11667,17228,False,True,2026-06-16,us-house,us-house-district-7-dem,Democrat,decided,False,certified,5126,6072,466,3
+2026-primary-runoff,U.S. House,7,Democrat,Case Norton,5561,17228,False,False,2026-06-16,us-house,us-house-district-7-dem,Democrat,decided,False,certified,2846,2564,148,3
+2026-primary-runoff,U.S. House,11,Republican,John Cowan,44799,68939,False,True,2026-06-16,us-house,us-house-district-11-rep,Republican,decided,False,certified,24702,18889,1190,18
+2026-primary-runoff,U.S. House,11,Republican,Rob Adkerson,24140,68939,False,False,2026-06-16,us-house,us-house-district-11-rep,Republican,decided,False,certified,13480,10131,524,5
+2026-primary-runoff,U.S. House,12,Democrat,Ceretta Smith,16823,30154,False,True,2026-06-16,us-house,us-house-district-12-dem,Democrat,decided,False,certified,8703,7089,1029,2
+2026-primary-runoff,U.S. House,12,Democrat,"Traci ""Acree"" George",13331,30154,False,False,2026-06-16,us-house,us-house-district-12-dem,Democrat,decided,False,certified,7268,5355,703,5
+2026-primary-runoff,Georgia State Senate,7,Democrat,Ruwa Romman,4638,7714,False,True,2026-06-16,state-senate,state-senate-district-7-dem,Democrat,decided,False,certified,2419,2121,96,2
+2026-primary-runoff,Georgia State Senate,7,Democrat,Rahul Garabadu,3076,7714,False,False,2026-06-16,state-senate,state-senate-district-7-dem,Democrat,decided,False,certified,1659,1339,75,3
+2026-primary-runoff,Georgia State Senate,10,Democrat,Larry Johnson,12624,19356,False,True,2026-06-16,state-senate,state-senate-district-10-dem,Democrat,decided,False,certified,6413,5837,370,4
+2026-primary-runoff,Georgia State Senate,10,Democrat,Gabrielle Rogers,6732,19356,False,False,2026-06-16,state-senate,state-senate-district-10-dem,Democrat,decided,False,certified,3717,2852,160,3
+2026-primary-runoff,Georgia State Senate,14,Democrat,Kevin Abel,4317,8489,False,True,2026-06-16,state-senate,state-senate-district-14-dem,Democrat,decided,False,certified,1722,2469,126,0
+2026-primary-runoff,Georgia State Senate,14,Democrat,Nathalie J. Kanani,4172,8489,False,False,2026-06-16,state-senate,state-senate-district-14-dem,Democrat,decided,False,certified,2066,2043,61,2
+2026-primary-runoff,Georgia State Senate,46,Republican,Marc McMain,12084,18721,False,True,2026-06-16,state-senate,state-senate-district-46-rep,Republican,decided,False,certified,6178,5674,228,4
+2026-primary-runoff,Georgia State Senate,46,Republican,Doug McKillip,6637,18721,False,False,2026-06-16,state-senate,state-senate-district-46-rep,Republican,decided,False,certified,3329,3114,194,0
+2026-primary-runoff,Georgia State Senate,51,Republican,Will Wade,18265,29844,False,True,2026-06-16,state-senate,state-senate-district-51-rep,Republican,decided,False,certified,9415,8404,441,5
+2026-primary-runoff,Georgia State Senate,51,Republican,Philip Milam,11579,29844,False,False,2026-06-16,state-senate,state-senate-district-51-rep,Republican,decided,False,certified,6206,5063,310,0
+2026-primary-runoff,Georgia State Senate (special election),7,Democrat,Adrienne White,8510,16641,False,True,2026-06-16,state-senate,state-senate-special-state-senate-district-7,,decided,False,certified,4526,3771,207,6
+2026-primary-runoff,Georgia State Senate (special election),7,Republican,Aizaz Shahbaz Shaikh,8131,16641,False,False,2026-06-16,state-senate,state-senate-special-state-senate-district-7,,decided,False,certified,4634,3327,169,1
+2026-primary-runoff,Georgia House of Representatives,47,Republican,Jack Miller,2935,4660,False,True,2026-06-16,state-house,state-house-district-47-rep,Republican,decided,False,certified,1389,1497,49,0
+2026-primary-runoff,Georgia House of Representatives,47,Republican,Brian Cochran,1725,4660,False,False,2026-06-16,state-house,state-house-district-47-rep,Republican,decided,False,certified,960,747,18,0
+2026-primary-runoff,Georgia House of Representatives,58,Democrat,Mathewos Samson,3539,5341,False,True,2026-06-16,state-house,state-house-district-58-dem,Democrat,decided,False,certified,1927,1582,29,1
+2026-primary-runoff,Georgia House of Representatives,58,Democrat,Demetria Henderson,1802,5341,False,False,2026-06-16,state-house,state-house-district-58-dem,Democrat,decided,False,certified,852,920,30,0
+2026-primary-runoff,Georgia House of Representatives,62,Democrat,Kenn Collier,3359,5405,False,True,2026-06-16,state-house,state-house-district-62-dem,Democrat,decided,False,certified,1926,1384,49,0
+2026-primary-runoff,Georgia House of Representatives,62,Democrat,Kavon Arnold,2046,5405,False,False,2026-06-16,state-house,state-house-district-62-dem,Democrat,decided,False,certified,1158,867,21,0
+2026-primary-runoff,Georgia House of Representatives,68,Democrat,Timoria McQueen Saba,2286,4386,False,True,2026-06-16,state-house,state-house-district-68-dem,Democrat,decided,False,certified,1066,1177,43,0
+2026-primary-runoff,Georgia House of Representatives,68,Democrat,Mark Baker,2100,4386,False,False,2026-06-16,state-house,state-house-district-68-dem,Democrat,decided,False,certified,1088,989,23,0
+2026-primary-runoff,Georgia House of Representatives,94,Democrat,Venola Mason,3048,3940,True,True,2026-06-16,state-house,state-house-district-94-dem,Democrat,decided,False,certified,1618,1362,68,0
+2026-primary-runoff,Georgia House of Representatives,94,Democrat,Kelly Kautz,892,3940,False,False,2026-06-16,state-house,state-house-district-94-dem,Democrat,decided,False,certified,493,374,25,0
+2026-primary-runoff,Georgia House of Representatives,117,Democrat,Kim Thomas Smith,3832,4363,False,True,2026-06-16,state-house,state-house-district-117-dem,Democrat,decided,False,certified,1685,2088,57,2
+2026-primary-runoff,Georgia House of Representatives,117,Democrat,Mary Ann Santos,531,4363,True,False,2026-06-16,state-house,state-house-district-117-dem,Democrat,decided,False,certified,275,251,5,0
+2026-primary-runoff,Georgia House of Representatives,177,Democrat,Elsie Cason Napier,858,1469,False,True,2026-06-16,state-house,state-house-district-177-dem,Democrat,decided,False,certified,357,475,20,6
+2026-primary-runoff,Georgia House of Representatives,177,Democrat,"Alvin Payton, Jr.",611,1469,False,False,2026-06-16,state-house,state-house-district-177-dem,Democrat,decided,False,certified,286,295,27,3

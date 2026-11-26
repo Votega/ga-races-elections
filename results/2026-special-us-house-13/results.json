@@ -7,8 +7,9 @@
   "source": "Georgia Secretary of State",
   "resultsPage": "https://www.votega.org/ga-special-2026-results/",
   "generatedAt": "2026-08-10T02:21:18+00:00",
-  "schemaVersion": "1.0.0",
-  "contestCount": 1
+  "schemaVersion": "1.1.0",
+  "contestCount": 1,
+  "countyResults": false
  },
  "contests": [
   {
@@ -26,7 +27,11 @@
      "votes": 9441,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": true
+     "advancedToRunoff": true,
+     "electionDay": null,
+     "advanceVoting": null,
+     "absenteeByMail": null,
+     "provisional": null
     },
     {
      "candidate": "Everton \"EJ\" Blair",
@@ -34,7 +39,11 @@
      "votes": 7680,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": true
+     "advancedToRunoff": true,
+     "electionDay": null,
+     "advanceVoting": null,
+     "absenteeByMail": null,
+     "provisional": null
     },
     {
      "candidate": "Caesar Gonzales",
@@ -42,7 +51,11 @@
      "votes": 1778,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": null,
+     "advanceVoting": null,
+     "absenteeByMail": null,
+     "provisional": null
     },
     {
      "candidate": "Fayth Park",
@@ -50,7 +63,11 @@
      "votes": 972,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": null,
+     "advanceVoting": null,
+     "absenteeByMail": null,
+     "provisional": null
     },
     {
      "candidate": "Carlos Moore",
@@ -58,7 +75,11 @@
      "votes": 639,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": null,
+     "advanceVoting": null,
+     "absenteeByMail": null,
+     "provisional": null
     }
    ]
   }

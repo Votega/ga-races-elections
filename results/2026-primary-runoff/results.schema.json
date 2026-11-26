@@ -1,7 +1,7 @@
 {
  "$schema": "https://json-schema.org/draft/2020-12/schema",
  "$id": "https://raw.githubusercontent.com/Votega/ga-races-elections/main/results/2026-primary-runoff/results.schema.json",
- "schemaVersion": "1.0.0",
+ "schemaVersion": "1.1.0",
  "schemaStability": "Fields and CSV columns are only ever added (CSV columns at the end). Every file here describes one certified election.",
  "title": "Georgia certified election results",
  "type": "object",
@@ -45,6 +45,10 @@
     },
     "contestCount": {
      "type": "integer"
+    },
+    "countyResults": {
+     "type": "boolean",
+     "description": "county-results.csv is published and the vote-method fields are filled."
     }
    }
   },
@@ -158,6 +162,34 @@
         "advancedToRunoff": {
          "type": "boolean",
          "description": "Went on to a runoff from this contest."
+        },
+        "electionDay": {
+         "type": [
+          "integer",
+          "null"
+         ],
+         "description": "Votes cast by election-day voting; null where no split is available."
+        },
+        "advanceVoting": {
+         "type": [
+          "integer",
+          "null"
+         ],
+         "description": "Votes cast by advance (early in-person) voting; null where no split is available."
+        },
+        "absenteeByMail": {
+         "type": [
+          "integer",
+          "null"
+         ],
+         "description": "Votes cast by absentee ballot by mail; null where no split is available."
+        },
+        "provisional": {
+         "type": [
+          "integer",
+          "null"
+         ],
+         "description": "Votes cast by provisional ballot; null where no split is available."
         }
        }
       }

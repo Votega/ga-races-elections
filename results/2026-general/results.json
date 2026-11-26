@@ -7,8 +7,9 @@
   "source": "Georgia Secretary of State",
   "resultsPage": "https://www.votega.org/ga-general-2026-results/",
   "generatedAt": "2026-11-20T15:51:29+00:00",
-  "schemaVersion": "1.0.0",
-  "contestCount": 274
+  "schemaVersion": "1.1.0",
+  "contestCount": 274,
+  "countyResults": true
  },
  "contests": [
   {
@@ -26,7 +27,11 @@
      "votes": 2469059,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 694420,
+     "advanceVoting": 1677739,
+     "absenteeByMail": 95304,
+     "provisional": 1596
     },
     {
      "candidate": "Mike Collins",
@@ -34,7 +39,11 @@
      "votes": 1713673,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 662896,
+     "advanceVoting": 1007167,
+     "absenteeByMail": 43014,
+     "provisional": 596
     }
    ]
   },
@@ -53,7 +62,11 @@
      "votes": 2273918,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 617187,
+     "advanceVoting": 1568765,
+     "absenteeByMail": 86485,
+     "provisional": 1481
     },
     {
      "candidate": "Rick Jackson",
@@ -61,7 +74,11 @@
      "votes": 1910926,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 742219,
+     "advanceVoting": 1117917,
+     "absenteeByMail": 50110,
+     "provisional": 680
     }
    ]
   },
@@ -80,7 +97,11 @@
      "votes": 2332730,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 640374,
+     "advanceVoting": 1601707,
+     "absenteeByMail": 89166,
+     "provisional": 1483
     },
     {
      "candidate": "Greg Dolezal",
@@ -88,7 +109,11 @@
      "votes": 1835227,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 712526,
+     "advanceVoting": 1074713,
+     "absenteeByMail": 47337,
+     "provisional": 651
     }
    ]
   },
@@ -107,7 +132,11 @@
      "votes": 2323906,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 636999,
+     "advanceVoting": 1596632,
+     "absenteeByMail": 88789,
+     "provisional": 1486
     },
     {
      "candidate": "Tim Fleming",
@@ -115,7 +144,11 @@
      "votes": 1849034,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 717443,
+     "advanceVoting": 1083474,
+     "absenteeByMail": 47463,
+     "provisional": 654
     }
    ]
   },
@@ -134,7 +167,11 @@
      "votes": 2322364,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 636012,
+     "advanceVoting": 1596300,
+     "absenteeByMail": 88566,
+     "provisional": 1486
     },
     {
      "candidate": "Brian Strickland",
@@ -142,7 +179,11 @@
      "votes": 1858115,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 720769,
+     "advanceVoting": 1088979,
+     "absenteeByMail": 47714,
+     "provisional": 653
     }
    ]
   },
@@ -161,7 +202,11 @@
      "votes": 2244295,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 610245,
+     "advanceVoting": 1548044,
+     "absenteeByMail": 84551,
+     "provisional": 1455
     },
     {
      "candidate": "Tyler Harper",
@@ -169,7 +214,11 @@
      "votes": 1923456,
      "incumbent": true,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 742227,
+     "advanceVoting": 1129883,
+     "absenteeByMail": 50675,
+     "provisional": 671
     }
    ]
   },
@@ -188,7 +237,11 @@
      "votes": 2260907,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 618720,
+     "advanceVoting": 1555545,
+     "absenteeByMail": 85160,
+     "provisional": 1482
     },
     {
      "candidate": "John King",
@@ -196,7 +249,11 @@
      "votes": 1902249,
      "incumbent": true,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 732105,
+     "advanceVoting": 1119746,
+     "absenteeByMail": 49744,
+     "provisional": 654
     }
    ]
   },
@@ -215,7 +272,11 @@
      "votes": 2278023,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 623579,
+     "advanceVoting": 1566815,
+     "absenteeByMail": 86165,
+     "provisional": 1464
     },
     {
      "candidate": "Richard Woods",
@@ -223,7 +284,11 @@
      "votes": 1891982,
      "incumbent": true,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 730058,
+     "advanceVoting": 1112227,
+     "absenteeByMail": 49029,
+     "provisional": 668
     }
    ]
   },
@@ -242,7 +307,11 @@
      "votes": 2271896,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 619928,
+     "advanceVoting": 1564946,
+     "absenteeByMail": 85563,
+     "provisional": 1459
     },
     {
      "candidate": "Bárbara Rivera Holmes",
@@ -250,7 +319,11 @@
      "votes": 1885766,
      "incumbent": true,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 728394,
+     "advanceVoting": 1107617,
+     "absenteeByMail": 49093,
+     "provisional": 662
     }
    ]
   },
@@ -269,7 +342,11 @@
      "votes": 2340871,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 645513,
+     "advanceVoting": 1604846,
+     "absenteeByMail": 89024,
+     "provisional": 1488
     },
     {
      "candidate": "Fitz Johnson",
@@ -277,7 +354,11 @@
      "votes": 1809600,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 701087,
+     "advanceVoting": 1062542,
+     "absenteeByMail": 45341,
+     "provisional": 630
     }
    ]
   },
@@ -296,7 +377,11 @@
      "votes": 2299962,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 628914,
+     "advanceVoting": 1583298,
+     "absenteeByMail": 86275,
+     "provisional": 1475
     },
     {
      "candidate": "Josh Tolbert",
@@ -304,7 +389,11 @@
      "votes": 1856574,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 719341,
+     "advanceVoting": 1088773,
+     "absenteeByMail": 47816,
+     "provisional": 644
     }
    ]
   },
@@ -323,7 +412,11 @@
      "votes": 140266,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 56549,
+     "advanceVoting": 80544,
+     "absenteeByMail": 3142,
+     "provisional": 31
     },
     {
      "candidate": "Amanda Hollowell",
@@ -331,7 +424,11 @@
      "votes": 132611,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 43750,
+     "advanceVoting": 81970,
+     "absenteeByMail": 6815,
+     "provisional": 76
     }
    ]
   },
@@ -350,7 +447,11 @@
      "votes": 148422,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 47489,
+     "advanceVoting": 93033,
+     "absenteeByMail": 7800,
+     "provisional": 100
     },
     {
      "candidate": "Matt Day",
@@ -358,7 +459,11 @@
      "votes": 95638,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 41385,
+     "advanceVoting": 51827,
+     "absenteeByMail": 2408,
+     "provisional": 18
     }
    ]
   },
@@ -377,7 +482,11 @@
      "votes": 188624,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 81149,
+     "advanceVoting": 102887,
+     "absenteeByMail": 4548,
+     "provisional": 40
     },
     {
      "candidate": "Maura Keller",
@@ -385,7 +494,11 @@
      "votes": 133240,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 39899,
+     "advanceVoting": 87423,
+     "absenteeByMail": 5873,
+     "provisional": 45
     }
    ]
   },
@@ -404,7 +517,11 @@
      "votes": 217340,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 54960,
+     "advanceVoting": 155863,
+     "absenteeByMail": 6416,
+     "provisional": 101
     },
     {
      "candidate": "Jim Duffie",
@@ -412,7 +529,11 @@
      "votes": 45644,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 16704,
+     "advanceVoting": 27559,
+     "absenteeByMail": 1365,
+     "provisional": 16
     }
    ]
   },
@@ -431,7 +552,11 @@
      "votes": 274922,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 70563,
+     "advanceVoting": 195756,
+     "absenteeByMail": 8469,
+     "provisional": 134
     },
     {
      "candidate": "John \"Bongo\" Salvesen",
@@ -439,7 +564,11 @@
      "votes": 29862,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 12570,
+     "advanceVoting": 16367,
+     "absenteeByMail": 916,
+     "provisional": 9
     }
    ]
   },
@@ -458,7 +587,11 @@
      "votes": 264024,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 61471,
+     "advanceVoting": 195101,
+     "absenteeByMail": 7309,
+     "provisional": 143
     },
     {
      "candidate": "Kevin E. Martin",
@@ -466,7 +599,11 @@
      "votes": 62379,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 21342,
+     "advanceVoting": 39107,
+     "absenteeByMail": 1897,
+     "provisional": 33
     }
    ]
   },
@@ -485,7 +622,11 @@
      "votes": 191625,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 59017,
+     "advanceVoting": 127759,
+     "absenteeByMail": 4776,
+     "provisional": 73
     },
     {
      "candidate": "Tony Kozycki",
@@ -493,7 +634,11 @@
      "votes": 149457,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 34856,
+     "advanceVoting": 108162,
+     "absenteeByMail": 6357,
+     "provisional": 82
     }
    ]
   },
@@ -512,7 +657,11 @@
      "votes": 160171,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 65011,
+     "advanceVoting": 91743,
+     "absenteeByMail": 3366,
+     "provisional": 51
     },
     {
      "candidate": "Kelly Esti",
@@ -520,7 +669,11 @@
      "votes": 105008,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 32477,
+     "advanceVoting": 67582,
+     "absenteeByMail": 4870,
+     "provisional": 79
     }
    ]
   },
@@ -539,7 +692,11 @@
      "votes": 182986,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 63222,
+     "advanceVoting": 114568,
+     "absenteeByMail": 5127,
+     "provisional": 69
     },
     {
      "candidate": "Caitlyn Gegen",
@@ -547,7 +704,11 @@
      "votes": 125653,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 34505,
+     "advanceVoting": 85753,
+     "absenteeByMail": 5350,
+     "provisional": 45
     }
    ]
   },
@@ -566,7 +727,11 @@
      "votes": 174845,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 66512,
+     "advanceVoting": 104021,
+     "absenteeByMail": 4285,
+     "provisional": 27
     },
     {
      "candidate": "Pamela \"Pam\" Delancy",
@@ -574,7 +739,11 @@
      "votes": 151125,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 42328,
+     "advanceVoting": 102703,
+     "absenteeByMail": 6054,
+     "provisional": 40
     }
    ]
   },
@@ -593,7 +762,11 @@
      "votes": 182230,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 71967,
+     "advanceVoting": 104929,
+     "absenteeByMail": 5271,
+     "provisional": 63
     },
     {
      "candidate": "Chris Harden",
@@ -601,7 +774,11 @@
      "votes": 146967,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 42111,
+     "advanceVoting": 97958,
+     "absenteeByMail": 6802,
+     "provisional": 96
     }
    ]
   },
@@ -620,7 +797,11 @@
      "votes": 140905,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 62536,
+     "advanceVoting": 74785,
+     "absenteeByMail": 3537,
+     "provisional": 47
     },
     {
      "candidate": "Ceretta Smith",
@@ -628,7 +809,11 @@
      "votes": 129637,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 44007,
+     "advanceVoting": 78701,
+     "absenteeByMail": 6829,
+     "provisional": 100
     }
    ]
   },
@@ -647,7 +832,11 @@
      "votes": 248094,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 61311,
+     "advanceVoting": 179539,
+     "absenteeByMail": 7143,
+     "provisional": 101
     },
     {
      "candidate": "Jonathan Chavez",
@@ -655,7 +844,11 @@
      "votes": 62680,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 22312,
+     "advanceVoting": 38149,
+     "absenteeByMail": 2196,
+     "provisional": 23
     }
    ]
   },
@@ -674,7 +867,11 @@
      "votes": 168830,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 68483,
+     "advanceVoting": 96529,
+     "absenteeByMail": 3758,
+     "provisional": 60
     },
     {
      "candidate": "Shawn Harris",
@@ -682,7 +879,11 @@
      "votes": 118446,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 34931,
+     "advanceVoting": 79112,
+     "absenteeByMail": 4347,
+     "provisional": 56
     }
    ]
   },
@@ -701,7 +902,11 @@
      "votes": 38705,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 15919,
+     "advanceVoting": 21891,
+     "absenteeByMail": 885,
+     "provisional": 10
     },
     {
      "candidate": "Corey Foreman",
@@ -709,7 +914,11 @@
      "votes": 35396,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 10155,
+     "advanceVoting": 23398,
+     "absenteeByMail": 1832,
+     "provisional": 11
     }
    ]
   },
@@ -728,7 +937,11 @@
      "votes": 54214,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 22354,
+     "advanceVoting": 29623,
+     "absenteeByMail": 2219,
+     "provisional": 18
     }
    ]
   },
@@ -747,7 +960,11 @@
      "votes": 53530,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 18365,
+     "advanceVoting": 33657,
+     "absenteeByMail": 1492,
+     "provisional": 16
     }
    ]
   },
@@ -766,7 +983,11 @@
      "votes": 50551,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 22652,
+     "advanceVoting": 26871,
+     "absenteeByMail": 1001,
+     "provisional": 27
     }
    ]
   },
@@ -785,7 +1006,11 @@
      "votes": 35109,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 12001,
+     "advanceVoting": 22280,
+     "absenteeByMail": 822,
+     "provisional": 6
     }
    ]
   },
@@ -804,7 +1029,11 @@
      "votes": 55673,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 25790,
+     "advanceVoting": 28450,
+     "absenteeByMail": 1423,
+     "provisional": 10
     },
     {
      "candidate": "Jermarkus A. Jacobs",
@@ -812,7 +1041,11 @@
      "votes": 28563,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 9008,
+     "advanceVoting": 18207,
+     "absenteeByMail": 1338,
+     "provisional": 10
     }
    ]
   },
@@ -831,7 +1064,11 @@
      "votes": 45729,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 12489,
+     "advanceVoting": 31589,
+     "absenteeByMail": 1638,
+     "provisional": 13
     },
     {
      "candidate": "Aizaz Shahbaz Shaikh",
@@ -839,7 +1076,11 @@
      "votes": 23556,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 8751,
+     "advanceVoting": 14087,
+     "absenteeByMail": 714,
+     "provisional": 4
     }
    ]
   },
@@ -858,7 +1099,11 @@
      "votes": 44698,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 17394,
+     "advanceVoting": 26363,
+     "absenteeByMail": 907,
+     "provisional": 34
     }
    ]
   },
@@ -877,7 +1122,11 @@
      "votes": 52989,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 14649,
+     "advanceVoting": 36754,
+     "absenteeByMail": 1568,
+     "provisional": 18
     },
     {
      "candidate": "Michael Johnson",
@@ -885,7 +1134,11 @@
      "votes": 21570,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 8239,
+     "advanceVoting": 12576,
+     "absenteeByMail": 750,
+     "provisional": 5
     }
    ]
   },
@@ -904,7 +1157,11 @@
      "votes": 80838,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 17595,
+     "advanceVoting": 60787,
+     "absenteeByMail": 2440,
+     "provisional": 16
     },
     {
      "candidate": "Furquan Stafford",
@@ -912,7 +1169,11 @@
      "votes": 9200,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3094,
+     "advanceVoting": 5769,
+     "absenteeByMail": 332,
+     "provisional": 5
     }
    ]
   },
@@ -931,7 +1192,11 @@
      "votes": 46220,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 20199,
+     "advanceVoting": 25055,
+     "absenteeByMail": 950,
+     "provisional": 16
     }
    ]
   },
@@ -950,7 +1215,11 @@
      "votes": 46632,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 18491,
+     "advanceVoting": 25840,
+     "absenteeByMail": 2271,
+     "provisional": 30
     }
    ]
   },
@@ -969,7 +1238,11 @@
      "votes": 50370,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 20477,
+     "advanceVoting": 28886,
+     "absenteeByMail": 986,
+     "provisional": 21
     }
    ]
   },
@@ -988,7 +1261,11 @@
      "votes": 50505,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 11347,
+     "advanceVoting": 37349,
+     "absenteeByMail": 1776,
+     "provisional": 33
     },
     {
      "candidate": "Mike Dvorscak",
@@ -996,7 +1273,11 @@
      "votes": 29971,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 9068,
+     "advanceVoting": 20099,
+     "absenteeByMail": 792,
+     "provisional": 12
     }
    ]
   },
@@ -1015,7 +1296,11 @@
      "votes": 36680,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 10240,
+     "advanceVoting": 24286,
+     "absenteeByMail": 2141,
+     "provisional": 13
     },
     {
      "candidate": "Chuck Hand",
@@ -1023,7 +1308,11 @@
      "votes": 14804,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5928,
+     "advanceVoting": 8433,
+     "absenteeByMail": 441,
+     "provisional": 2
     }
    ]
   },
@@ -1042,7 +1331,11 @@
      "votes": 51365,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 18275,
+     "advanceVoting": 31888,
+     "absenteeByMail": 1200,
+     "provisional": 2
     },
     {
      "candidate": "Sonya Wimberly Hawkins",
@@ -1050,7 +1343,11 @@
      "votes": 36569,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 8855,
+     "advanceVoting": 25984,
+     "absenteeByMail": 1723,
+     "provisional": 7
     }
    ]
   },
@@ -1069,7 +1366,11 @@
      "votes": 73397,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 18049,
+     "advanceVoting": 53497,
+     "absenteeByMail": 1831,
+     "provisional": 20
     }
    ]
   },
@@ -1088,7 +1389,11 @@
      "votes": 58730,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 22740,
+     "advanceVoting": 34615,
+     "absenteeByMail": 1360,
+     "provisional": 15
     }
    ]
   },
@@ -1107,7 +1412,11 @@
      "votes": 39582,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 16386,
+     "advanceVoting": 22438,
+     "absenteeByMail": 753,
+     "provisional": 5
     },
     {
      "candidate": "Joshua C. Wilkerson",
@@ -1115,7 +1424,11 @@
      "votes": 16423,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5597,
+     "advanceVoting": 10131,
+     "absenteeByMail": 690,
+     "provisional": 5
     }
    ]
   },
@@ -1134,7 +1447,11 @@
      "votes": 58829,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 22756,
+     "advanceVoting": 34542,
+     "absenteeByMail": 1521,
+     "provisional": 10
     }
    ]
   },
@@ -1153,7 +1470,11 @@
      "votes": 60092,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 19254,
+     "advanceVoting": 39236,
+     "absenteeByMail": 1587,
+     "provisional": 15
     },
     {
      "candidate": "Kori Simmons",
@@ -1161,7 +1482,11 @@
      "votes": 33377,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 7453,
+     "advanceVoting": 24336,
+     "absenteeByMail": 1572,
+     "provisional": 16
     }
    ]
   },
@@ -1180,7 +1505,11 @@
      "votes": 53405,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 19621,
+     "advanceVoting": 31549,
+     "absenteeByMail": 2179,
+     "provisional": 56
     }
    ]
   },
@@ -1199,7 +1528,11 @@
      "votes": 37458,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 17419,
+     "advanceVoting": 19227,
+     "absenteeByMail": 802,
+     "provisional": 10
     },
     {
      "candidate": "Shayna Boston",
@@ -1207,7 +1540,11 @@
      "votes": 32562,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 11602,
+     "advanceVoting": 19138,
+     "absenteeByMail": 1808,
+     "provisional": 14
     }
    ]
   },
@@ -1226,7 +1563,11 @@
      "votes": 57104,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 21555,
+     "advanceVoting": 33987,
+     "absenteeByMail": 1556,
+     "provisional": 6
     },
     {
      "candidate": "Lorraine V. Thomas",
@@ -1234,7 +1575,11 @@
      "votes": 30753,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 9111,
+     "advanceVoting": 19768,
+     "absenteeByMail": 1861,
+     "provisional": 13
     }
    ]
   },
@@ -1253,7 +1598,11 @@
      "votes": 57824,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 19976,
+     "advanceVoting": 36397,
+     "absenteeByMail": 1433,
+     "provisional": 18
     }
    ]
   },
@@ -1272,7 +1621,11 @@
      "votes": 40504,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 13220,
+     "advanceVoting": 24884,
+     "absenteeByMail": 2366,
+     "provisional": 34
     },
     {
      "candidate": "Tracy Wheeler",
@@ -1280,7 +1633,11 @@
      "votes": 18705,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 8145,
+     "advanceVoting": 10002,
+     "absenteeByMail": 553,
+     "provisional": 5
     }
    ]
   },
@@ -1299,7 +1656,11 @@
      "votes": 52049,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 16196,
+     "advanceVoting": 34549,
+     "absenteeByMail": 1270,
+     "provisional": 34
     },
     {
      "candidate": "Jessica Roper",
@@ -1307,7 +1668,11 @@
      "votes": 30206,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 8018,
+     "advanceVoting": 20833,
+     "absenteeByMail": 1332,
+     "provisional": 23
     }
    ]
   },
@@ -1326,7 +1691,11 @@
      "votes": 72664,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 17267,
+     "advanceVoting": 53619,
+     "absenteeByMail": 1755,
+     "provisional": 23
     }
    ]
   },
@@ -1345,7 +1714,11 @@
      "votes": 43108,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 20447,
+     "advanceVoting": 21382,
+     "absenteeByMail": 1269,
+     "provisional": 10
     },
     {
      "candidate": "Jeff Lowe",
@@ -1353,7 +1726,11 @@
      "votes": 31539,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 11077,
+     "advanceVoting": 18848,
+     "absenteeByMail": 1597,
+     "provisional": 17
     }
    ]
   },
@@ -1372,7 +1749,11 @@
      "votes": 41640,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 18440,
+     "advanceVoting": 22337,
+     "absenteeByMail": 854,
+     "provisional": 9
     },
     {
      "candidate": "Wanda Cooper",
@@ -1380,7 +1761,11 @@
      "votes": 33037,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 10303,
+     "advanceVoting": 21701,
+     "absenteeByMail": 1024,
+     "provisional": 9
     }
    ]
   },
@@ -1399,7 +1784,11 @@
      "votes": 44597,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 14945,
+     "advanceVoting": 28519,
+     "absenteeByMail": 1116,
+     "provisional": 17
     },
     {
      "candidate": "Alec Miller",
@@ -1407,7 +1796,11 @@
      "votes": 34795,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 9241,
+     "advanceVoting": 24109,
+     "absenteeByMail": 1429,
+     "provisional": 16
     }
    ]
   },
@@ -1426,7 +1819,11 @@
      "votes": 42424,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 16279,
+     "advanceVoting": 24797,
+     "absenteeByMail": 1336,
+     "provisional": 12
     },
     {
      "candidate": "Michael Hettig",
@@ -1434,7 +1831,11 @@
      "votes": 40763,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 11880,
+     "advanceVoting": 27196,
+     "absenteeByMail": 1668,
+     "provisional": 19
     }
    ]
   },
@@ -1453,7 +1854,11 @@
      "votes": 57651,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 16125,
+     "advanceVoting": 39674,
+     "absenteeByMail": 1809,
+     "provisional": 43
     }
    ]
   },
@@ -1472,7 +1877,11 @@
      "votes": 54864,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 14704,
+     "advanceVoting": 38739,
+     "absenteeByMail": 1413,
+     "provisional": 8
     }
    ]
   },
@@ -1491,7 +1900,11 @@
      "votes": 74072,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 18572,
+     "advanceVoting": 53737,
+     "absenteeByMail": 1722,
+     "provisional": 41
     }
    ]
   },
@@ -1510,7 +1923,11 @@
      "votes": 72091,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 19662,
+     "advanceVoting": 50659,
+     "absenteeByMail": 1720,
+     "provisional": 50
     },
     {
      "candidate": "Katie Corkren",
@@ -1518,7 +1935,11 @@
      "votes": 6293,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2770,
+     "advanceVoting": 3397,
+     "absenteeByMail": 124,
+     "provisional": 2
     }
    ]
   },
@@ -1537,7 +1958,11 @@
      "votes": 47653,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 11525,
+     "advanceVoting": 34582,
+     "absenteeByMail": 1521,
+     "provisional": 25
     },
     {
      "candidate": "Ed Setzler",
@@ -1545,7 +1970,11 @@
      "votes": 46232,
      "incumbent": true,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 15779,
+     "advanceVoting": 29385,
+     "absenteeByMail": 1055,
+     "provisional": 13
     }
    ]
   },
@@ -1564,7 +1993,11 @@
      "votes": 68348,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 15561,
+     "advanceVoting": 50997,
+     "absenteeByMail": 1781,
+     "provisional": 9
     },
     {
      "candidate": "Eric Helvy",
@@ -1572,7 +2005,11 @@
      "votes": 15969,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5384,
+     "advanceVoting": 10175,
+     "absenteeByMail": 405,
+     "provisional": 5
     }
    ]
   },
@@ -1591,7 +2028,11 @@
      "votes": 64855,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 16940,
+     "advanceVoting": 46016,
+     "absenteeByMail": 1878,
+     "provisional": 21
     },
     {
      "candidate": "John F. Guest, Jr.",
@@ -1599,7 +2040,11 @@
      "votes": 8407,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3294,
+     "advanceVoting": 4847,
+     "absenteeByMail": 266,
+     "provisional": 0
     }
    ]
   },
@@ -1618,7 +2063,11 @@
      "votes": 48578,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 12789,
+     "advanceVoting": 34262,
+     "absenteeByMail": 1517,
+     "provisional": 10
     },
     {
      "candidate": "Melina R. Mast",
@@ -1626,7 +2075,11 @@
      "votes": 21178,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 8284,
+     "advanceVoting": 12403,
+     "absenteeByMail": 487,
+     "provisional": 4
     }
    ]
   },
@@ -1645,7 +2098,11 @@
      "votes": 58974,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 14917,
+     "advanceVoting": 42281,
+     "absenteeByMail": 1753,
+     "provisional": 23
     },
     {
      "candidate": "Jeff Newlin",
@@ -1653,7 +2110,11 @@
      "votes": 8526,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3673,
+     "advanceVoting": 4559,
+     "absenteeByMail": 291,
+     "provisional": 3
     }
    ]
   },
@@ -1672,7 +2133,11 @@
      "votes": 45573,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 11802,
+     "advanceVoting": 32130,
+     "absenteeByMail": 1627,
+     "provisional": 14
     },
     {
      "candidate": "Bret A. Dunn",
@@ -1680,7 +2145,11 @@
      "votes": 41985,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 17253,
+     "advanceVoting": 23766,
+     "absenteeByMail": 961,
+     "provisional": 5
     }
    ]
   },
@@ -1699,7 +2168,11 @@
      "votes": 72217,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 17703,
+     "advanceVoting": 52407,
+     "absenteeByMail": 2085,
+     "provisional": 22
     }
    ]
   },
@@ -1718,7 +2191,11 @@
      "votes": 81092,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 18477,
+     "advanceVoting": 59983,
+     "absenteeByMail": 2622,
+     "provisional": 10
     },
     {
      "candidate": "Ngozi Orabueze",
@@ -1726,7 +2203,11 @@
      "votes": 6601,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2509,
+     "advanceVoting": 3903,
+     "absenteeByMail": 187,
+     "provisional": 2
     }
    ]
   },
@@ -1745,7 +2226,11 @@
      "votes": 39546,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 11315,
+     "advanceVoting": 26896,
+     "absenteeByMail": 1331,
+     "provisional": 4
     },
     {
      "candidate": "Clint Dixon",
@@ -1753,7 +2238,11 @@
      "votes": 35924,
      "incumbent": true,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 13475,
+     "advanceVoting": 21501,
+     "absenteeByMail": 938,
+     "provisional": 10
     }
    ]
   },
@@ -1772,7 +2261,11 @@
      "votes": 44682,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 15949,
+     "advanceVoting": 27642,
+     "absenteeByMail": 1088,
+     "provisional": 3
     },
     {
      "candidate": "Ray Smith",
@@ -1780,7 +2273,11 @@
      "votes": 37063,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 9783,
+     "advanceVoting": 25783,
+     "absenteeByMail": 1493,
+     "provisional": 4
     }
    ]
   },
@@ -1799,7 +2296,11 @@
      "votes": 42644,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 15942,
+     "advanceVoting": 25668,
+     "absenteeByMail": 1026,
+     "provisional": 8
     }
    ]
   },
@@ -1818,7 +2319,11 @@
      "votes": 41049,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 9964,
+     "advanceVoting": 29390,
+     "absenteeByMail": 1687,
+     "provisional": 8
     },
     {
      "candidate": "Shawn Still",
@@ -1826,7 +2331,11 @@
      "votes": 36580,
      "incumbent": true,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 12388,
+     "advanceVoting": 23264,
+     "absenteeByMail": 918,
+     "provisional": 10
     }
    ]
   },
@@ -1845,7 +2354,11 @@
      "votes": 50090,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 16198,
+     "advanceVoting": 32388,
+     "absenteeByMail": 1494,
+     "provisional": 10
     },
     {
      "candidate": "William Wallace",
@@ -1853,7 +2366,11 @@
      "votes": 25161,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 7289,
+     "advanceVoting": 16591,
+     "absenteeByMail": 1271,
+     "provisional": 10
     }
    ]
   },
@@ -1872,7 +2389,11 @@
      "votes": 57897,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 17290,
+     "advanceVoting": 38848,
+     "absenteeByMail": 1739,
+     "provisional": 20
     },
     {
      "candidate": "Dave Cooper",
@@ -1880,7 +2401,11 @@
      "votes": 16033,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4170,
+     "advanceVoting": 11001,
+     "absenteeByMail": 859,
+     "provisional": 3
     }
    ]
   },
@@ -1899,7 +2424,11 @@
      "votes": 70190,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 26055,
+     "advanceVoting": 42141,
+     "absenteeByMail": 1973,
+     "provisional": 21
     },
     {
      "candidate": "Gary St. Lawrence",
@@ -1907,7 +2436,11 @@
      "votes": 18573,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4783,
+     "advanceVoting": 12529,
+     "absenteeByMail": 1256,
+     "provisional": 5
     }
    ]
   },
@@ -1926,7 +2459,11 @@
      "votes": 55687,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 24670,
+     "advanceVoting": 29711,
+     "absenteeByMail": 1291,
+     "provisional": 15
     }
    ]
   },
@@ -1945,7 +2482,11 @@
      "votes": 45648,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 19911,
+     "advanceVoting": 24723,
+     "absenteeByMail": 1002,
+     "provisional": 12
     },
     {
      "candidate": "John Bentley \"Jack\" Zibluk",
@@ -1953,7 +2494,11 @@
      "votes": 16101,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5379,
+     "advanceVoting": 10028,
+     "absenteeByMail": 690,
+     "provisional": 4
     }
    ]
   },
@@ -1972,7 +2517,11 @@
      "votes": 45754,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 23680,
+     "advanceVoting": 21192,
+     "absenteeByMail": 862,
+     "provisional": 20
     }
    ]
   },
@@ -1991,7 +2540,11 @@
      "votes": 66267,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 15593,
+     "advanceVoting": 48736,
+     "absenteeByMail": 1928,
+     "provisional": 10
     },
     {
      "candidate": "Mary Williams Benefield",
@@ -1999,7 +2552,11 @@
      "votes": 13152,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4363,
+     "advanceVoting": 8291,
+     "absenteeByMail": 496,
+     "provisional": 2
     }
    ]
   },
@@ -2018,7 +2575,11 @@
      "votes": 52410,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 19179,
+     "advanceVoting": 31508,
+     "absenteeByMail": 1706,
+     "provisional": 17
     },
     {
      "candidate": "Patrick Thompson",
@@ -2026,7 +2587,11 @@
      "votes": 44704,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 11307,
+     "advanceVoting": 31076,
+     "absenteeByMail": 2306,
+     "provisional": 15
     }
    ]
   },
@@ -2045,7 +2610,11 @@
      "votes": 13265,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 6238,
+     "advanceVoting": 6692,
+     "absenteeByMail": 331,
+     "provisional": 4
     },
     {
      "candidate": "Steven \"Diz\" Disbrow",
@@ -2053,7 +2622,11 @@
      "votes": 4883,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 1875,
+     "advanceVoting": 2788,
+     "absenteeByMail": 220,
+     "provisional": 0
     }
    ]
   },
@@ -2072,7 +2645,11 @@
      "votes": 16077,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 8094,
+     "advanceVoting": 7654,
+     "absenteeByMail": 329,
+     "provisional": 0
     },
     {
      "candidate": "Whitney Echenique",
@@ -2080,7 +2657,11 @@
      "votes": 5197,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2025,
+     "advanceVoting": 2972,
+     "absenteeByMail": 200,
+     "provisional": 0
     }
    ]
   },
@@ -2099,7 +2680,11 @@
      "votes": 14007,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5108,
+     "advanceVoting": 8590,
+     "absenteeByMail": 302,
+     "provisional": 7
     },
     {
      "candidate": "Margaret Spear",
@@ -2107,7 +2692,11 @@
      "votes": 6226,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 1851,
+     "advanceVoting": 4133,
+     "absenteeByMail": 239,
+     "provisional": 3
     }
    ]
   },
@@ -2126,7 +2715,11 @@
      "votes": 7225,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4030,
+     "advanceVoting": 3029,
+     "absenteeByMail": 165,
+     "provisional": 1
     },
     {
      "candidate": "Quentin Postell",
@@ -2134,7 +2727,11 @@
      "votes": 6722,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2853,
+     "advanceVoting": 3707,
+     "absenteeByMail": 157,
+     "provisional": 5
     }
    ]
   },
@@ -2153,7 +2750,11 @@
      "votes": 14240,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 7334,
+     "advanceVoting": 6580,
+     "absenteeByMail": 318,
+     "provisional": 8
     },
     {
      "candidate": "Rasmus Jensen",
@@ -2161,7 +2762,11 @@
      "votes": 4962,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 1913,
+     "advanceVoting": 2881,
+     "absenteeByMail": 164,
+     "provisional": 4
     }
    ]
   },
@@ -2180,7 +2785,11 @@
      "votes": 14311,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 7412,
+     "advanceVoting": 6686,
+     "absenteeByMail": 211,
+     "provisional": 2
     },
     {
      "candidate": "Cathy Kott",
@@ -2188,7 +2797,11 @@
      "votes": 4133,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 1743,
+     "advanceVoting": 2244,
+     "absenteeByMail": 146,
+     "provisional": 0
     }
    ]
   },
@@ -2207,7 +2820,11 @@
      "votes": 23768,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 10044,
+     "advanceVoting": 12845,
+     "absenteeByMail": 867,
+     "provisional": 12
     }
    ]
   },
@@ -2226,7 +2843,11 @@
      "votes": 25560,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 8361,
+     "advanceVoting": 16422,
+     "absenteeByMail": 774,
+     "provisional": 3
     },
     {
      "candidate": "Nick Mitchell",
@@ -2234,7 +2855,11 @@
      "votes": 5912,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 1296,
+     "advanceVoting": 4173,
+     "absenteeByMail": 443,
+     "provisional": 0
     }
    ]
   },
@@ -2253,7 +2878,11 @@
      "votes": 20483,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 6347,
+     "advanceVoting": 13612,
+     "absenteeByMail": 517,
+     "provisional": 7
     },
     {
      "candidate": "Roger L. Smith",
@@ -2261,7 +2890,11 @@
      "votes": 5805,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 1441,
+     "advanceVoting": 4037,
+     "absenteeByMail": 325,
+     "provisional": 2
     }
    ]
   },
@@ -2280,7 +2913,11 @@
      "votes": 18514,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4481,
+     "advanceVoting": 13435,
+     "absenteeByMail": 594,
+     "provisional": 4
     },
     {
      "candidate": "John Brown",
@@ -2288,7 +2925,11 @@
      "votes": 5411,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 1207,
+     "advanceVoting": 3911,
+     "absenteeByMail": 292,
+     "provisional": 1
     }
    ]
   },
@@ -2307,7 +2948,11 @@
      "votes": 21684,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 8215,
+     "advanceVoting": 12995,
+     "absenteeByMail": 470,
+     "provisional": 4
     },
     {
      "candidate": "Ryan Fountain",
@@ -2315,7 +2960,11 @@
      "votes": 6391,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 1768,
+     "advanceVoting": 4276,
+     "absenteeByMail": 346,
+     "provisional": 1
     }
    ]
   },
@@ -2334,7 +2983,11 @@
      "votes": 13733,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 6918,
+     "advanceVoting": 6516,
+     "absenteeByMail": 296,
+     "provisional": 3
     },
     {
      "candidate": "Holly Chaney",
@@ -2342,7 +2995,11 @@
      "votes": 4801,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 1658,
+     "advanceVoting": 2962,
+     "absenteeByMail": 179,
+     "provisional": 2
     }
    ]
   },
@@ -2361,7 +3018,11 @@
      "votes": 11112,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4765,
+     "advanceVoting": 6072,
+     "absenteeByMail": 274,
+     "provisional": 1
     },
     {
      "candidate": "Vincent Mendes",
@@ -2369,7 +3030,11 @@
      "votes": 7614,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2447,
+     "advanceVoting": 4848,
+     "absenteeByMail": 315,
+     "provisional": 4
     }
    ]
   },
@@ -2388,7 +3053,11 @@
      "votes": 18938,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 8833,
+     "advanceVoting": 9661,
+     "absenteeByMail": 441,
+     "provisional": 3
     },
     {
      "candidate": "Bella Bautista",
@@ -2396,7 +3065,11 @@
      "votes": 6076,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 1972,
+     "advanceVoting": 3808,
+     "absenteeByMail": 296,
+     "provisional": 0
     }
    ]
   },
@@ -2415,7 +3088,11 @@
      "votes": 14725,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5792,
+     "advanceVoting": 8544,
+     "absenteeByMail": 384,
+     "provisional": 5
     },
     {
      "candidate": "Lauren Jones",
@@ -2423,7 +3100,11 @@
      "votes": 7690,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2555,
+     "advanceVoting": 4832,
+     "absenteeByMail": 299,
+     "provisional": 4
     }
    ]
   },
@@ -2442,7 +3123,11 @@
      "votes": 15438,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5424,
+     "advanceVoting": 9689,
+     "absenteeByMail": 319,
+     "provisional": 6
     },
     {
      "candidate": "Diana Spangler",
@@ -2450,7 +3135,11 @@
      "votes": 6163,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 1719,
+     "advanceVoting": 4175,
+     "absenteeByMail": 266,
+     "provisional": 3
     }
    ]
   },
@@ -2469,7 +3158,11 @@
      "votes": 13468,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4632,
+     "advanceVoting": 8485,
+     "absenteeByMail": 348,
+     "provisional": 3
     },
     {
      "candidate": "Ke'Andra Foggie",
@@ -2477,7 +3170,11 @@
      "votes": 12236,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3257,
+     "advanceVoting": 8441,
+     "absenteeByMail": 532,
+     "provisional": 6
     }
    ]
   },
@@ -2496,7 +3193,11 @@
      "votes": 19256,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 10170,
+     "advanceVoting": 8692,
+     "absenteeByMail": 391,
+     "provisional": 3
     },
     {
      "candidate": "Pat Rhudy",
@@ -2504,7 +3205,11 @@
      "votes": 4743,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 1741,
+     "advanceVoting": 2824,
+     "absenteeByMail": 178,
+     "provisional": 0
     }
    ]
   },
@@ -2523,7 +3228,11 @@
      "votes": 14904,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3487,
+     "advanceVoting": 10879,
+     "absenteeByMail": 536,
+     "provisional": 2
     },
     {
      "candidate": "Joseph Gullett",
@@ -2531,7 +3240,11 @@
      "votes": 13786,
      "incumbent": true,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3955,
+     "advanceVoting": 9411,
+     "absenteeByMail": 420,
+     "provisional": 0
     }
    ]
   },
@@ -2550,7 +3263,11 @@
      "votes": 16030,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5895,
+     "advanceVoting": 9635,
+     "absenteeByMail": 498,
+     "provisional": 2
     },
     {
      "candidate": "Jason D. Tanner",
@@ -2558,7 +3275,11 @@
      "votes": 10644,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3125,
+     "advanceVoting": 6995,
+     "absenteeByMail": 521,
+     "provisional": 3
     }
    ]
   },
@@ -2577,7 +3298,11 @@
      "votes": 21111,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 7327,
+     "advanceVoting": 13228,
+     "absenteeByMail": 550,
+     "provisional": 6
     },
     {
      "candidate": "Anthony Aragues",
@@ -2585,7 +3310,11 @@
      "votes": 9918,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2598,
+     "advanceVoting": 6759,
+     "absenteeByMail": 557,
+     "provisional": 4
     }
    ]
   },
@@ -2604,7 +3333,11 @@
      "votes": 13166,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5233,
+     "advanceVoting": 7574,
+     "absenteeByMail": 356,
+     "provisional": 3
     },
     {
      "candidate": "James Shade",
@@ -2612,7 +3345,11 @@
      "votes": 12896,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3820,
+     "advanceVoting": 8615,
+     "absenteeByMail": 456,
+     "provisional": 5
     }
    ]
   },
@@ -2631,7 +3368,11 @@
      "votes": 19002,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5766,
+     "advanceVoting": 12590,
+     "absenteeByMail": 641,
+     "provisional": 5
     },
     {
      "candidate": "Rob Epstein",
@@ -2639,7 +3380,11 @@
      "votes": 8108,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2036,
+     "advanceVoting": 5618,
+     "absenteeByMail": 444,
+     "provisional": 10
     }
    ]
   },
@@ -2658,7 +3403,11 @@
      "votes": 14222,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4309,
+     "advanceVoting": 9623,
+     "absenteeByMail": 287,
+     "provisional": 3
     },
     {
      "candidate": "Maureen Gault",
@@ -2666,7 +3415,11 @@
      "votes": 10412,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2773,
+     "advanceVoting": 7177,
+     "absenteeByMail": 459,
+     "provisional": 3
     }
    ]
   },
@@ -2685,7 +3438,11 @@
      "votes": 12750,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3822,
+     "advanceVoting": 8538,
+     "absenteeByMail": 387,
+     "provisional": 3
     },
     {
      "candidate": "Elaine Padgett",
@@ -2693,7 +3450,11 @@
      "votes": 11966,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2874,
+     "advanceVoting": 8534,
+     "absenteeByMail": 554,
+     "provisional": 4
     }
    ]
   },
@@ -2712,7 +3473,11 @@
      "votes": 15368,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5259,
+     "advanceVoting": 9609,
+     "absenteeByMail": 496,
+     "provisional": 4
     },
     {
      "candidate": "Meredith Greene",
@@ -2720,7 +3485,11 @@
      "votes": 9551,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2787,
+     "advanceVoting": 6278,
+     "absenteeByMail": 483,
+     "provisional": 3
     }
    ]
   },
@@ -2739,7 +3508,11 @@
      "votes": 19741,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 6511,
+     "advanceVoting": 12717,
+     "absenteeByMail": 509,
+     "provisional": 4
     },
     {
      "candidate": "Jay Kirkland",
@@ -2747,7 +3520,11 @@
      "votes": 5448,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 1490,
+     "advanceVoting": 3663,
+     "absenteeByMail": 294,
+     "provisional": 1
     }
    ]
   },
@@ -2766,7 +3543,11 @@
      "votes": 18944,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5730,
+     "advanceVoting": 12710,
+     "absenteeByMail": 492,
+     "provisional": 12
     },
     {
      "candidate": "Mateo Sanabria",
@@ -2774,7 +3555,11 @@
      "votes": 7320,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 1849,
+     "advanceVoting": 5140,
+     "absenteeByMail": 324,
+     "provisional": 7
     }
    ]
   },
@@ -2793,7 +3578,11 @@
      "votes": 7915,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2705,
+     "advanceVoting": 4839,
+     "absenteeByMail": 366,
+     "provisional": 5
     },
     {
      "candidate": "Matt Dubnik",
@@ -2801,7 +3590,11 @@
      "votes": 7780,
      "incumbent": true,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2686,
+     "advanceVoting": 4776,
+     "absenteeByMail": 315,
+     "provisional": 3
     }
    ]
   },
@@ -2820,7 +3613,11 @@
      "votes": 17635,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5404,
+     "advanceVoting": 11757,
+     "absenteeByMail": 472,
+     "provisional": 2
     },
     {
      "candidate": "Braden Michael Doxey",
@@ -2828,7 +3625,11 @@
      "votes": 9628,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2622,
+     "advanceVoting": 6528,
+     "absenteeByMail": 475,
+     "provisional": 3
     }
    ]
   },
@@ -2847,7 +3648,11 @@
      "votes": 22376,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 6902,
+     "advanceVoting": 14963,
+     "absenteeByMail": 506,
+     "provisional": 5
     }
    ]
   },
@@ -2866,7 +3671,11 @@
      "votes": 16803,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4921,
+     "advanceVoting": 11370,
+     "absenteeByMail": 504,
+     "provisional": 8
     },
     {
      "candidate": "Rebecca Sims",
@@ -2874,7 +3683,11 @@
      "votes": 4473,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 1183,
+     "advanceVoting": 3042,
+     "absenteeByMail": 248,
+     "provisional": 0
     }
    ]
   },
@@ -2893,7 +3706,11 @@
      "votes": 20814,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 8797,
+     "advanceVoting": 11511,
+     "absenteeByMail": 504,
+     "provisional": 2
     }
    ]
   },
@@ -2912,7 +3729,11 @@
      "votes": 16395,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5501,
+     "advanceVoting": 10476,
+     "absenteeByMail": 416,
+     "provisional": 2
     },
     {
      "candidate": "Titus Nichols",
@@ -2920,7 +3741,11 @@
      "votes": 15568,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3572,
+     "advanceVoting": 11418,
+     "absenteeByMail": 570,
+     "provisional": 8
     }
    ]
   },
@@ -2939,7 +3764,11 @@
      "votes": 15416,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4462,
+     "advanceVoting": 10575,
+     "absenteeByMail": 376,
+     "provisional": 3
     },
     {
      "candidate": "Elvis Casely",
@@ -2947,7 +3776,11 @@
      "votes": 6252,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2335,
+     "advanceVoting": 3751,
+     "absenteeByMail": 165,
+     "provisional": 1
     }
    ]
   },
@@ -2966,7 +3799,11 @@
      "votes": 16353,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5332,
+     "advanceVoting": 10672,
+     "absenteeByMail": 347,
+     "provisional": 2
     },
     {
      "candidate": "Luc \"Luke\" Noiset",
@@ -2974,7 +3811,11 @@
      "votes": 13271,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3090,
+     "advanceVoting": 9718,
+     "absenteeByMail": 460,
+     "provisional": 3
     }
    ]
   },
@@ -2993,7 +3834,11 @@
      "votes": 15784,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5139,
+     "advanceVoting": 10161,
+     "absenteeByMail": 478,
+     "provisional": 6
     }
    ]
   },
@@ -3012,7 +3857,11 @@
      "votes": 22678,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5315,
+     "advanceVoting": 16807,
+     "absenteeByMail": 541,
+     "provisional": 15
     }
    ]
   },
@@ -3031,7 +3880,11 @@
      "votes": 19717,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4954,
+     "advanceVoting": 14276,
+     "absenteeByMail": 479,
+     "provisional": 8
     }
    ]
   },
@@ -3050,7 +3903,11 @@
      "votes": 12985,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3562,
+     "advanceVoting": 8974,
+     "absenteeByMail": 448,
+     "provisional": 1
     },
     {
      "candidate": "Kimberly R. New",
@@ -3058,7 +3915,11 @@
      "votes": 12476,
      "incumbent": true,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4159,
+     "advanceVoting": 8023,
+     "absenteeByMail": 293,
+     "provisional": 1
     }
    ]
   },
@@ -3077,7 +3938,11 @@
      "votes": 16571,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4406,
+     "advanceVoting": 11648,
+     "absenteeByMail": 504,
+     "provisional": 13
     }
    ]
   },
@@ -3096,7 +3961,11 @@
      "votes": 16612,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4677,
+     "advanceVoting": 11497,
+     "absenteeByMail": 429,
+     "provisional": 9
     },
     {
      "candidate": "André Stafford",
@@ -3104,7 +3973,11 @@
      "votes": 5772,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2295,
+     "advanceVoting": 3312,
+     "absenteeByMail": 164,
+     "provisional": 1
     }
    ]
   },
@@ -3123,7 +3996,11 @@
      "votes": 17282,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5524,
+     "advanceVoting": 11116,
+     "absenteeByMail": 635,
+     "provisional": 7
     }
    ]
   },
@@ -3142,7 +4019,11 @@
      "votes": 14543,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3936,
+     "advanceVoting": 9984,
+     "absenteeByMail": 614,
+     "provisional": 9
     },
     {
      "candidate": "Don L. Parsons",
@@ -3150,7 +4031,11 @@
      "votes": 13415,
      "incumbent": true,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4822,
+     "advanceVoting": 8128,
+     "absenteeByMail": 455,
+     "provisional": 10
     }
    ]
   },
@@ -3169,7 +4054,11 @@
      "votes": 16417,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 6484,
+     "advanceVoting": 9392,
+     "absenteeByMail": 541,
+     "provisional": 0
     },
     {
      "candidate": "Michelle Schreiner",
@@ -3177,7 +4066,11 @@
      "votes": 15294,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3881,
+     "advanceVoting": 10444,
+     "absenteeByMail": 962,
+     "provisional": 7
     }
    ]
   },
@@ -3196,7 +4089,11 @@
      "votes": 16022,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5910,
+     "advanceVoting": 9500,
+     "absenteeByMail": 609,
+     "provisional": 3
     },
     {
      "candidate": "Dumont J. Walker",
@@ -3204,7 +4101,11 @@
      "votes": 14976,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3923,
+     "advanceVoting": 10272,
+     "absenteeByMail": 777,
+     "provisional": 4
     }
    ]
   },
@@ -3223,7 +4124,11 @@
      "votes": 13678,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4557,
+     "advanceVoting": 8820,
+     "absenteeByMail": 298,
+     "provisional": 3
     },
     {
      "candidate": "Lindsay Defranco",
@@ -3231,7 +4136,11 @@
      "votes": 11723,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2692,
+     "advanceVoting": 8581,
+     "absenteeByMail": 450,
+     "provisional": 0
     }
    ]
   },
@@ -3250,7 +4159,11 @@
      "votes": 14086,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3074,
+     "advanceVoting": 10499,
+     "absenteeByMail": 510,
+     "provisional": 3
     },
     {
      "candidate": "Scott Hilton",
@@ -3258,7 +4171,11 @@
      "votes": 13636,
      "incumbent": true,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4065,
+     "advanceVoting": 9254,
+     "absenteeByMail": 315,
+     "provisional": 2
     }
    ]
   },
@@ -3277,7 +4194,11 @@
      "votes": 15876,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4642,
+     "advanceVoting": 10835,
+     "absenteeByMail": 397,
+     "provisional": 2
     },
     {
      "candidate": "Sara Fuchs",
@@ -3285,7 +4206,11 @@
      "votes": 14534,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2828,
+     "advanceVoting": 11103,
+     "absenteeByMail": 601,
+     "provisional": 2
     }
    ]
   },
@@ -3304,7 +4229,11 @@
      "votes": 15058,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3333,
+     "advanceVoting": 11142,
+     "absenteeByMail": 580,
+     "provisional": 3
     },
     {
      "candidate": "Azure Duan",
@@ -3312,7 +4241,11 @@
      "votes": 8472,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2590,
+     "advanceVoting": 5711,
+     "absenteeByMail": 171,
+     "provisional": 0
     }
    ]
   },
@@ -3331,7 +4264,11 @@
      "votes": 15513,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3470,
+     "advanceVoting": 11597,
+     "absenteeByMail": 441,
+     "provisional": 5
     },
     {
      "candidate": "Keith Gettmann",
@@ -3339,7 +4276,11 @@
      "votes": 8579,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2529,
+     "advanceVoting": 5834,
+     "absenteeByMail": 214,
+     "provisional": 2
     }
    ]
   },
@@ -3358,7 +4299,11 @@
      "votes": 20825,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5374,
+     "advanceVoting": 14837,
+     "absenteeByMail": 609,
+     "provisional": 5
     }
    ]
   },
@@ -3377,7 +4322,11 @@
      "votes": 15121,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3132,
+     "advanceVoting": 11366,
+     "absenteeByMail": 619,
+     "provisional": 4
     },
     {
      "candidate": "Deborah Silcox",
@@ -3385,7 +4334,11 @@
      "votes": 14403,
      "incumbent": true,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4409,
+     "advanceVoting": 9650,
+     "absenteeByMail": 341,
+     "provisional": 3
     }
    ]
   },
@@ -3404,7 +4357,11 @@
      "votes": 16714,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4162,
+     "advanceVoting": 11844,
+     "absenteeByMail": 699,
+     "provisional": 9
     },
     {
      "candidate": "Greg Miller",
@@ -3412,7 +4369,11 @@
      "votes": 8569,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3017,
+     "advanceVoting": 5283,
+     "absenteeByMail": 267,
+     "provisional": 2
     }
    ]
   },
@@ -3431,7 +4392,11 @@
      "votes": 20188,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5133,
+     "advanceVoting": 14447,
+     "absenteeByMail": 606,
+     "provisional": 2
     },
     {
      "candidate": "Samuel S. Lenaeus",
@@ -3439,7 +4404,11 @@
      "votes": 4050,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 1576,
+     "advanceVoting": 2376,
+     "absenteeByMail": 98,
+     "provisional": 0
     }
    ]
   },
@@ -3458,7 +4427,11 @@
      "votes": 18485,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 6018,
+     "advanceVoting": 12057,
+     "absenteeByMail": 397,
+     "provisional": 13
     }
    ]
   },
@@ -3477,7 +4450,11 @@
      "votes": 23706,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 6120,
+     "advanceVoting": 16638,
+     "absenteeByMail": 945,
+     "provisional": 3
     },
     {
      "candidate": "Helmut Lucero Love",
@@ -3485,7 +4462,11 @@
      "votes": 4438,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 1883,
+     "advanceVoting": 2403,
+     "absenteeByMail": 152,
+     "provisional": 0
     }
    ]
   },
@@ -3504,7 +4485,11 @@
      "votes": 22038,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5755,
+     "advanceVoting": 15735,
+     "absenteeByMail": 537,
+     "provisional": 11
     },
     {
      "candidate": "Torrey Balam",
@@ -3512,7 +4497,11 @@
      "votes": 1890,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 811,
+     "advanceVoting": 1045,
+     "absenteeByMail": 33,
+     "provisional": 1
     }
    ]
   },
@@ -3531,7 +4520,11 @@
      "votes": 21607,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5758,
+     "advanceVoting": 15331,
+     "absenteeByMail": 515,
+     "provisional": 3
     },
     {
      "candidate": "Devanta \"Sully\" Sullivan",
@@ -3539,7 +4532,11 @@
      "votes": 1131,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 509,
+     "advanceVoting": 605,
+     "absenteeByMail": 16,
+     "provisional": 1
     }
    ]
   },
@@ -3558,7 +4555,11 @@
      "votes": 22740,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 6113,
+     "advanceVoting": 16022,
+     "absenteeByMail": 599,
+     "provisional": 6
     }
    ]
   },
@@ -3577,7 +4578,11 @@
      "votes": 24732,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4657,
+     "advanceVoting": 19359,
+     "absenteeByMail": 712,
+     "provisional": 4
     },
     {
      "candidate": "Damita Bishop",
@@ -3585,7 +4590,11 @@
      "votes": 5053,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 1633,
+     "advanceVoting": 3208,
+     "absenteeByMail": 210,
+     "provisional": 2
     }
    ]
   },
@@ -3604,7 +4613,11 @@
      "votes": 23019,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5605,
+     "advanceVoting": 16950,
+     "absenteeByMail": 459,
+     "provisional": 5
     }
    ]
   },
@@ -3623,7 +4636,11 @@
      "votes": 20609,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5969,
+     "advanceVoting": 14213,
+     "absenteeByMail": 418,
+     "provisional": 9
     }
    ]
   },
@@ -3642,7 +4659,11 @@
      "votes": 20953,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5094,
+     "advanceVoting": 15297,
+     "absenteeByMail": 561,
+     "provisional": 1
     },
     {
      "candidate": "Lydia Parchue",
@@ -3650,7 +4671,11 @@
      "votes": 5713,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 1804,
+     "advanceVoting": 3753,
+     "absenteeByMail": 156,
+     "provisional": 0
     }
    ]
   },
@@ -3669,7 +4694,11 @@
      "votes": 26379,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4778,
+     "advanceVoting": 21036,
+     "absenteeByMail": 558,
+     "provisional": 7
     },
     {
      "candidate": "Gordon W. Rolle, Jr.",
@@ -3677,7 +4706,11 @@
      "votes": 6076,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2161,
+     "advanceVoting": 3757,
+     "absenteeByMail": 157,
+     "provisional": 1
     }
    ]
   },
@@ -3696,7 +4729,11 @@
      "votes": 18602,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5139,
+     "advanceVoting": 12974,
+     "absenteeByMail": 483,
+     "provisional": 6
     }
    ]
   },
@@ -3715,7 +4752,11 @@
      "votes": 19396,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4425,
+     "advanceVoting": 14557,
+     "absenteeByMail": 410,
+     "provisional": 4
     },
     {
      "candidate": "Daniel Cook",
@@ -3723,7 +4764,11 @@
      "votes": 6645,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2432,
+     "advanceVoting": 4041,
+     "absenteeByMail": 172,
+     "provisional": 0
     }
    ]
   },
@@ -3742,7 +4787,11 @@
      "votes": 21358,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5157,
+     "advanceVoting": 15724,
+     "absenteeByMail": 477,
+     "provisional": 0
     }
    ]
   },
@@ -3761,7 +4810,11 @@
      "votes": 24665,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5481,
+     "advanceVoting": 18407,
+     "absenteeByMail": 774,
+     "provisional": 3
     }
    ]
   },
@@ -3780,7 +4833,11 @@
      "votes": 11615,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5971,
+     "advanceVoting": 5337,
+     "absenteeByMail": 306,
+     "provisional": 1
     },
     {
      "candidate": "Pierre Whatley",
@@ -3788,7 +4845,11 @@
      "votes": 10315,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3584,
+     "advanceVoting": 6309,
+     "absenteeByMail": 418,
+     "provisional": 4
     }
    ]
   },
@@ -3807,7 +4868,11 @@
      "votes": 13097,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 6165,
+     "advanceVoting": 6708,
+     "absenteeByMail": 223,
+     "provisional": 1
     },
     {
      "candidate": "Brandolynn Yarbrough",
@@ -3815,7 +4880,11 @@
      "votes": 9748,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3345,
+     "advanceVoting": 6095,
+     "absenteeByMail": 302,
+     "provisional": 6
     }
    ]
   },
@@ -3834,7 +4903,11 @@
      "votes": 17727,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 8506,
+     "advanceVoting": 8775,
+     "absenteeByMail": 443,
+     "provisional": 3
     }
    ]
   },
@@ -3853,7 +4926,11 @@
      "votes": 18136,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5583,
+     "advanceVoting": 12114,
+     "absenteeByMail": 438,
+     "provisional": 1
     },
     {
      "candidate": "Tim Wilkinson",
@@ -3861,7 +4938,11 @@
      "votes": 12260,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2739,
+     "advanceVoting": 8963,
+     "absenteeByMail": 555,
+     "provisional": 3
     }
    ]
   },
@@ -3880,7 +4961,11 @@
      "votes": 22750,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5395,
+     "advanceVoting": 16823,
+     "absenteeByMail": 525,
+     "provisional": 7
     }
    ]
   },
@@ -3899,7 +4984,11 @@
      "votes": 18564,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4871,
+     "advanceVoting": 13229,
+     "absenteeByMail": 463,
+     "provisional": 1
     }
    ]
   },
@@ -3918,7 +5007,11 @@
      "votes": 18253,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4399,
+     "advanceVoting": 13462,
+     "absenteeByMail": 389,
+     "provisional": 3
     }
    ]
   },
@@ -3937,7 +5030,11 @@
      "votes": 16142,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4492,
+     "advanceVoting": 11285,
+     "absenteeByMail": 364,
+     "provisional": 1
     }
    ]
   },
@@ -3956,7 +5053,11 @@
      "votes": 23150,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5723,
+     "advanceVoting": 16843,
+     "absenteeByMail": 579,
+     "provisional": 5
     }
    ]
   },
@@ -3975,7 +5076,11 @@
      "votes": 13251,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3862,
+     "advanceVoting": 9110,
+     "absenteeByMail": 276,
+     "provisional": 3
     },
     {
      "candidate": "David Hamrick",
@@ -3983,7 +5088,11 @@
      "votes": 1313,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 419,
+     "advanceVoting": 846,
+     "absenteeByMail": 48,
+     "provisional": 0
     }
    ]
   },
@@ -4002,7 +5111,11 @@
      "votes": 15042,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3883,
+     "advanceVoting": 10731,
+     "absenteeByMail": 425,
+     "provisional": 3
     },
     {
      "candidate": "Brian Anderson",
@@ -4010,7 +5123,11 @@
      "votes": 7695,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2837,
+     "advanceVoting": 4695,
+     "absenteeByMail": 163,
+     "provisional": 0
     }
    ]
   },
@@ -4029,7 +5146,11 @@
      "votes": 14771,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3731,
+     "advanceVoting": 10622,
+     "absenteeByMail": 416,
+     "provisional": 2
     },
     {
      "candidate": "Noelle Kahaian",
@@ -4037,7 +5158,11 @@
      "votes": 12693,
      "incumbent": true,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5153,
+     "advanceVoting": 7318,
+     "absenteeByMail": 218,
+     "provisional": 4
     }
    ]
   },
@@ -4056,7 +5181,11 @@
      "votes": 15294,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5903,
+     "advanceVoting": 8969,
+     "absenteeByMail": 422,
+     "provisional": 0
     },
     {
      "candidate": "Anthony Dickson",
@@ -4064,7 +5193,11 @@
      "votes": 12023,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3078,
+     "advanceVoting": 8325,
+     "absenteeByMail": 619,
+     "provisional": 1
     }
    ]
   },
@@ -4083,7 +5216,11 @@
      "votes": 14200,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3596,
+     "advanceVoting": 10183,
+     "absenteeByMail": 417,
+     "provisional": 4
     },
     {
      "candidate": "James \"Trip\" Smith",
@@ -4091,7 +5228,11 @@
      "votes": 5575,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2329,
+     "advanceVoting": 3156,
+     "absenteeByMail": 90,
+     "provisional": 0
     }
    ]
   },
@@ -4110,7 +5251,11 @@
      "votes": 26622,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 6477,
+     "advanceVoting": 19163,
+     "absenteeByMail": 981,
+     "provisional": 1
     }
    ]
   },
@@ -4129,7 +5274,11 @@
      "votes": 20216,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4918,
+     "advanceVoting": 14668,
+     "absenteeByMail": 625,
+     "provisional": 5
     },
     {
      "candidate": "Tyion Fields",
@@ -4137,7 +5286,11 @@
      "votes": 2139,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 886,
+     "advanceVoting": 1171,
+     "absenteeByMail": 81,
+     "provisional": 1
     }
    ]
   },
@@ -4156,7 +5309,11 @@
      "votes": 20155,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5006,
+     "advanceVoting": 14407,
+     "absenteeByMail": 742,
+     "provisional": 0
     }
    ]
   },
@@ -4175,7 +5332,11 @@
      "votes": 19322,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4941,
+     "advanceVoting": 13801,
+     "absenteeByMail": 579,
+     "provisional": 1
     },
     {
      "candidate": "Timothy J. Burson",
@@ -4183,7 +5344,11 @@
      "votes": 3910,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 1394,
+     "advanceVoting": 2369,
+     "absenteeByMail": 147,
+     "provisional": 0
     }
    ]
   },
@@ -4202,7 +5367,11 @@
      "votes": 19488,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4257,
+     "advanceVoting": 14533,
+     "absenteeByMail": 695,
+     "provisional": 3
     },
     {
      "candidate": "William Park Freeman",
@@ -4210,7 +5379,11 @@
      "votes": 3080,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 931,
+     "advanceVoting": 1992,
+     "absenteeByMail": 157,
+     "provisional": 0
     }
    ]
   },
@@ -4229,7 +5402,11 @@
      "votes": 27601,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 6634,
+     "advanceVoting": 20023,
+     "absenteeByMail": 939,
+     "provisional": 5
     }
    ]
   },
@@ -4248,7 +5425,11 @@
      "votes": 27942,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5949,
+     "advanceVoting": 20999,
+     "absenteeByMail": 992,
+     "provisional": 2
     },
     {
      "candidate": "Samantha Boston",
@@ -4256,7 +5437,11 @@
      "votes": 2280,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 914,
+     "advanceVoting": 1315,
+     "absenteeByMail": 51,
+     "provisional": 0
     }
    ]
   },
@@ -4275,7 +5460,11 @@
      "votes": 22765,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5589,
+     "advanceVoting": 16539,
+     "absenteeByMail": 634,
+     "provisional": 3
     }
    ]
   },
@@ -4294,7 +5483,11 @@
      "votes": 22549,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4915,
+     "advanceVoting": 16919,
+     "absenteeByMail": 713,
+     "provisional": 2
     }
    ]
   },
@@ -4313,7 +5506,11 @@
      "votes": 20584,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5149,
+     "advanceVoting": 14911,
+     "absenteeByMail": 522,
+     "provisional": 2
     }
    ]
   },
@@ -4332,7 +5529,11 @@
      "votes": 23274,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5919,
+     "advanceVoting": 16738,
+     "absenteeByMail": 612,
+     "provisional": 5
     }
    ]
   },
@@ -4351,7 +5552,11 @@
      "votes": 20748,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5239,
+     "advanceVoting": 15013,
+     "absenteeByMail": 492,
+     "provisional": 4
     },
     {
      "candidate": "Reggie Hall",
@@ -4359,7 +5564,11 @@
      "votes": 3079,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 1181,
+     "advanceVoting": 1794,
+     "absenteeByMail": 103,
+     "provisional": 1
     }
    ]
   },
@@ -4378,7 +5587,11 @@
      "votes": 12167,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4119,
+     "advanceVoting": 7713,
+     "absenteeByMail": 333,
+     "provisional": 2
     }
    ]
   },
@@ -4397,7 +5610,11 @@
      "votes": 13828,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3618,
+     "advanceVoting": 9783,
+     "absenteeByMail": 423,
+     "provisional": 4
     },
     {
      "candidate": "Yassin Moghazy",
@@ -4405,7 +5622,11 @@
      "votes": 6512,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2271,
+     "advanceVoting": 4045,
+     "absenteeByMail": 195,
+     "provisional": 1
     }
    ]
   },
@@ -4424,7 +5645,11 @@
      "votes": 8176,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2802,
+     "advanceVoting": 5212,
+     "absenteeByMail": 159,
+     "provisional": 3
     }
    ]
   },
@@ -4443,7 +5668,11 @@
      "votes": 13703,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3464,
+     "advanceVoting": 9657,
+     "absenteeByMail": 578,
+     "provisional": 4
     },
     {
      "candidate": "Matt Reeves",
@@ -4451,7 +5680,11 @@
      "votes": 9739,
      "incumbent": true,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3328,
+     "advanceVoting": 6132,
+     "absenteeByMail": 276,
+     "provisional": 3
     }
    ]
   },
@@ -4470,7 +5703,11 @@
      "votes": 12990,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5128,
+     "advanceVoting": 7522,
+     "absenteeByMail": 338,
+     "provisional": 2
     },
     {
      "candidate": "Jennifer Ambler",
@@ -4478,7 +5715,11 @@
      "votes": 11774,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3296,
+     "advanceVoting": 8008,
+     "absenteeByMail": 469,
+     "provisional": 1
     }
    ]
   },
@@ -4497,7 +5738,11 @@
      "votes": 18022,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4895,
+     "advanceVoting": 12445,
+     "absenteeByMail": 681,
+     "provisional": 1
     },
     {
      "candidate": "Jennifer Hutchison",
@@ -4505,7 +5750,11 @@
      "votes": 4920,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2244,
+     "advanceVoting": 2497,
+     "absenteeByMail": 179,
+     "provisional": 0
     }
    ]
   },
@@ -4524,7 +5773,11 @@
      "votes": 16649,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4391,
+     "advanceVoting": 11754,
+     "absenteeByMail": 502,
+     "provisional": 2
     }
    ]
   },
@@ -4543,7 +5796,11 @@
      "votes": 12016,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3024,
+     "advanceVoting": 8597,
+     "absenteeByMail": 390,
+     "provisional": 5
     },
     {
      "candidate": "Soo Hong",
@@ -4551,7 +5808,11 @@
      "votes": 11981,
      "incumbent": true,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4046,
+     "advanceVoting": 7646,
+     "absenteeByMail": 288,
+     "provisional": 1
     }
    ]
   },
@@ -4570,7 +5831,11 @@
      "votes": 17893,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 7562,
+     "advanceVoting": 9923,
+     "absenteeByMail": 404,
+     "provisional": 4
     }
    ]
   },
@@ -4589,7 +5854,11 @@
      "votes": 15250,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4299,
+     "advanceVoting": 10500,
+     "absenteeByMail": 451,
+     "provisional": 0
     },
     {
      "candidate": "Sandy Donatucci",
@@ -4597,7 +5866,11 @@
      "votes": 9854,
      "incumbent": true,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3561,
+     "advanceVoting": 6021,
+     "absenteeByMail": 271,
+     "provisional": 1
     }
    ]
   },
@@ -4616,7 +5889,11 @@
      "votes": 16635,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5397,
+     "advanceVoting": 10717,
+     "absenteeByMail": 520,
+     "provisional": 1
     }
    ]
   },
@@ -4635,7 +5912,11 @@
      "votes": 14794,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4679,
+     "advanceVoting": 9641,
+     "absenteeByMail": 472,
+     "provisional": 2
     },
     {
      "candidate": "Murray R. Berkowitz",
@@ -4643,7 +5924,11 @@
      "votes": 6059,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2652,
+     "advanceVoting": 3188,
+     "absenteeByMail": 217,
+     "provisional": 2
     }
    ]
   },
@@ -4662,7 +5947,11 @@
      "votes": 15147,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4160,
+     "advanceVoting": 10577,
+     "absenteeByMail": 406,
+     "provisional": 4
     },
     {
      "candidate": "Elvia Davila",
@@ -4670,7 +5959,11 @@
      "votes": 8989,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3145,
+     "advanceVoting": 5560,
+     "absenteeByMail": 282,
+     "provisional": 2
     }
    ]
   },
@@ -4689,7 +5982,11 @@
      "votes": 10666,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4071,
+     "advanceVoting": 6339,
+     "absenteeByMail": 256,
+     "provisional": 0
     }
    ]
   },
@@ -4708,7 +6005,11 @@
      "votes": 21703,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5477,
+     "advanceVoting": 15583,
+     "absenteeByMail": 637,
+     "provisional": 6
     },
     {
      "candidate": "Charles Lollar",
@@ -4716,7 +6017,11 @@
      "votes": 6993,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2663,
+     "advanceVoting": 4091,
+     "absenteeByMail": 238,
+     "provisional": 1
     }
    ]
   },
@@ -4735,7 +6040,11 @@
      "votes": 14175,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4926,
+     "advanceVoting": 8931,
+     "absenteeByMail": 317,
+     "provisional": 1
     },
     {
      "candidate": "Scott T. Jackson",
@@ -4743,7 +6052,11 @@
      "votes": 13642,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3450,
+     "advanceVoting": 9801,
+     "absenteeByMail": 390,
+     "provisional": 1
     }
    ]
   },
@@ -4762,7 +6075,11 @@
      "votes": 16883,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 6604,
+     "advanceVoting": 9915,
+     "absenteeByMail": 364,
+     "provisional": 0
     },
     {
      "candidate": "Lisa Maria",
@@ -4770,7 +6087,11 @@
      "votes": 9559,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2619,
+     "advanceVoting": 6604,
+     "absenteeByMail": 335,
+     "provisional": 1
     }
    ]
   },
@@ -4789,7 +6110,11 @@
      "votes": 19455,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5005,
+     "advanceVoting": 13761,
+     "absenteeByMail": 682,
+     "provisional": 7
     },
     {
      "candidate": "Don Scarbrough",
@@ -4797,7 +6122,11 @@
      "votes": 4719,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 1634,
+     "advanceVoting": 2947,
+     "absenteeByMail": 138,
+     "provisional": 0
     }
    ]
   },
@@ -4816,7 +6145,11 @@
      "votes": 18695,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 8088,
+     "advanceVoting": 10163,
+     "absenteeByMail": 442,
+     "provisional": 2
     },
     {
      "candidate": "Michael Caw",
@@ -4824,7 +6157,11 @@
      "votes": 10201,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2735,
+     "advanceVoting": 7006,
+     "absenteeByMail": 459,
+     "provisional": 1
     }
    ]
   },
@@ -4843,7 +6180,11 @@
      "votes": 27112,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5116,
+     "advanceVoting": 21313,
+     "absenteeByMail": 682,
+     "provisional": 1
     },
     {
      "candidate": "Darius L. Francis",
@@ -4851,7 +6192,11 @@
      "votes": 3631,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 951,
+     "advanceVoting": 2565,
+     "absenteeByMail": 113,
+     "provisional": 2
     }
    ]
   },
@@ -4870,7 +6215,11 @@
      "votes": 22692,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5118,
+     "advanceVoting": 16994,
+     "absenteeByMail": 577,
+     "provisional": 3
     },
     {
      "candidate": "Samie Lee Conyers",
@@ -4878,7 +6227,11 @@
      "votes": 3255,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 996,
+     "advanceVoting": 2150,
+     "absenteeByMail": 109,
+     "provisional": 0
     }
    ]
   },
@@ -4897,7 +6250,11 @@
      "votes": 22822,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5763,
+     "advanceVoting": 16503,
+     "absenteeByMail": 547,
+     "provisional": 9
     }
    ]
   },
@@ -4916,7 +6273,11 @@
      "votes": 14676,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5383,
+     "advanceVoting": 9019,
+     "absenteeByMail": 272,
+     "provisional": 2
     },
     {
      "candidate": "Sharonda Bell",
@@ -4924,7 +6285,11 @@
      "votes": 10229,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2696,
+     "advanceVoting": 7163,
+     "absenteeByMail": 368,
+     "provisional": 2
     }
    ]
   },
@@ -4943,7 +6308,11 @@
      "votes": 14890,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5885,
+     "advanceVoting": 8632,
+     "absenteeByMail": 373,
+     "provisional": 0
     },
     {
      "candidate": "Catherine Morris",
@@ -4951,7 +6320,11 @@
      "votes": 8861,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3002,
+     "advanceVoting": 5518,
+     "absenteeByMail": 341,
+     "provisional": 0
     }
    ]
   },
@@ -4970,7 +6343,11 @@
      "votes": 13067,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4660,
+     "advanceVoting": 8004,
+     "absenteeByMail": 401,
+     "provisional": 2
     },
     {
      "candidate": "Suzanna Karatassos",
@@ -4978,7 +6355,11 @@
      "votes": 12111,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3196,
+     "advanceVoting": 8308,
+     "absenteeByMail": 601,
+     "provisional": 6
     }
    ]
   },
@@ -4997,7 +6378,11 @@
      "votes": 14125,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4494,
+     "advanceVoting": 9312,
+     "absenteeByMail": 319,
+     "provisional": 0
     },
     {
      "candidate": "Eric Gisler",
@@ -5005,7 +6390,11 @@
      "votes": 12805,
      "incumbent": true,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3109,
+     "advanceVoting": 9121,
+     "absenteeByMail": 575,
+     "provisional": 0
     }
    ]
   },
@@ -5024,7 +6413,11 @@
      "votes": 13571,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4243,
+     "advanceVoting": 8812,
+     "absenteeByMail": 511,
+     "provisional": 5
     },
     {
      "candidate": "Carol Hubbard",
@@ -5032,7 +6425,11 @@
      "votes": 2523,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 1088,
+     "advanceVoting": 1338,
+     "absenteeByMail": 96,
+     "provisional": 1
     }
    ]
   },
@@ -5051,7 +6448,11 @@
      "votes": 16198,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 7047,
+     "advanceVoting": 8790,
+     "absenteeByMail": 359,
+     "provisional": 2
     },
     {
      "candidate": "Hope S. Beard",
@@ -5059,7 +6460,11 @@
      "votes": 8250,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2771,
+     "advanceVoting": 4878,
+     "absenteeByMail": 591,
+     "provisional": 10
     }
    ]
   },
@@ -5078,7 +6483,11 @@
      "votes": 17780,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5572,
+     "advanceVoting": 11606,
+     "absenteeByMail": 601,
+     "provisional": 1
     },
     {
      "candidate": "Melanie Michele Miller",
@@ -5086,7 +6495,11 @@
      "votes": 11811,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3294,
+     "advanceVoting": 7878,
+     "absenteeByMail": 636,
+     "provisional": 3
     }
    ]
   },
@@ -5105,7 +6518,11 @@
      "votes": 14166,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 6177,
+     "advanceVoting": 7735,
+     "absenteeByMail": 245,
+     "provisional": 9
     },
     {
      "candidate": "Leonard Hennessy",
@@ -5113,7 +6530,11 @@
      "votes": 11347,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3755,
+     "advanceVoting": 7089,
+     "absenteeByMail": 501,
+     "provisional": 2
     }
    ]
   },
@@ -5132,7 +6553,11 @@
      "votes": 14502,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4430,
+     "advanceVoting": 9294,
+     "absenteeByMail": 774,
+     "provisional": 4
     },
     {
      "candidate": "William C. Harris",
@@ -5140,7 +6565,11 @@
      "votes": 7474,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3792,
+     "advanceVoting": 3509,
+     "absenteeByMail": 170,
+     "provisional": 3
     }
    ]
   },
@@ -5159,7 +6588,11 @@
      "votes": 14780,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 6165,
+     "advanceVoting": 8161,
+     "absenteeByMail": 452,
+     "provisional": 2
     },
     {
      "candidate": "Channing Von-T Taylor",
@@ -5167,7 +6600,11 @@
      "votes": 9516,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3030,
+     "advanceVoting": 5969,
+     "absenteeByMail": 513,
+     "provisional": 4
     }
    ]
   },
@@ -5186,7 +6623,11 @@
      "votes": 11789,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3924,
+     "advanceVoting": 7511,
+     "absenteeByMail": 353,
+     "provisional": 1
     },
     {
      "candidate": "Tyrone A. Evans",
@@ -5194,7 +6635,11 @@
      "votes": 11432,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3498,
+     "advanceVoting": 6947,
+     "absenteeByMail": 984,
+     "provisional": 3
     }
    ]
   },
@@ -5213,7 +6658,11 @@
      "votes": 13730,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5657,
+     "advanceVoting": 7504,
+     "absenteeByMail": 565,
+     "provisional": 4
     }
    ]
   },
@@ -5232,7 +6681,11 @@
      "votes": 13407,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5102,
+     "advanceVoting": 7697,
+     "absenteeByMail": 606,
+     "provisional": 2
     },
     {
      "candidate": "David Carson",
@@ -5240,7 +6693,11 @@
      "votes": 4528,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2777,
+     "advanceVoting": 1612,
+     "absenteeByMail": 139,
+     "provisional": 0
     }
    ]
   },
@@ -5259,7 +6716,11 @@
      "votes": 15148,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5514,
+     "advanceVoting": 9160,
+     "absenteeByMail": 472,
+     "provisional": 2
     },
     {
      "candidate": "Jenny E. Eppard",
@@ -5267,7 +6728,11 @@
      "votes": 10941,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3099,
+     "advanceVoting": 7275,
+     "absenteeByMail": 563,
+     "provisional": 4
     }
    ]
   },
@@ -5286,7 +6751,11 @@
      "votes": 16657,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 6652,
+     "advanceVoting": 9238,
+     "absenteeByMail": 754,
+     "provisional": 13
     }
    ]
   },
@@ -5305,7 +6774,11 @@
      "votes": 16066,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 7062,
+     "advanceVoting": 8574,
+     "absenteeByMail": 428,
+     "provisional": 2
     }
    ]
   },
@@ -5324,7 +6797,11 @@
      "votes": 17630,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5687,
+     "advanceVoting": 11522,
+     "absenteeByMail": 416,
+     "provisional": 5
     }
    ]
   },
@@ -5343,7 +6820,11 @@
      "votes": 20487,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 7964,
+     "advanceVoting": 12020,
+     "absenteeByMail": 502,
+     "provisional": 1
     }
    ]
   },
@@ -5362,7 +6843,11 @@
      "votes": 20300,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 10282,
+     "advanceVoting": 9538,
+     "absenteeByMail": 480,
+     "provisional": 0
     }
    ]
   },
@@ -5381,7 +6866,11 @@
      "votes": 17292,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5794,
+     "advanceVoting": 10638,
+     "absenteeByMail": 854,
+     "provisional": 6
     }
    ]
   },
@@ -5400,7 +6889,11 @@
      "votes": 17205,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 8249,
+     "advanceVoting": 8474,
+     "absenteeByMail": 477,
+     "provisional": 5
     },
     {
      "candidate": "Cyndie Hutchings",
@@ -5408,7 +6901,11 @@
      "votes": 8259,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2977,
+     "advanceVoting": 4826,
+     "absenteeByMail": 450,
+     "provisional": 6
     }
    ]
   },
@@ -5427,7 +6924,11 @@
      "votes": 12734,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5680,
+     "advanceVoting": 6608,
+     "absenteeByMail": 446,
+     "provisional": 0
     },
     {
      "candidate": "Elliot Valdez",
@@ -5435,7 +6936,11 @@
      "votes": 10105,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3059,
+     "advanceVoting": 6543,
+     "absenteeByMail": 502,
+     "provisional": 1
     }
    ]
   },
@@ -5454,7 +6959,11 @@
      "votes": 9088,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2734,
+     "advanceVoting": 5787,
+     "absenteeByMail": 566,
+     "provisional": 1
     },
     {
      "candidate": "Edward Kvietkus",
@@ -5462,7 +6971,11 @@
      "votes": 2157,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 973,
+     "advanceVoting": 1110,
+     "absenteeByMail": 73,
+     "provisional": 1
     }
    ]
   },
@@ -5481,7 +6994,11 @@
      "votes": 13486,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3138,
+     "advanceVoting": 9637,
+     "absenteeByMail": 710,
+     "provisional": 1
     },
     {
      "candidate": "Reggie Liparoto",
@@ -5489,7 +7006,11 @@
      "votes": 3624,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 1234,
+     "advanceVoting": 2223,
+     "absenteeByMail": 166,
+     "provisional": 1
     }
    ]
   },
@@ -5508,7 +7029,11 @@
      "votes": 14266,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4640,
+     "advanceVoting": 8991,
+     "absenteeByMail": 619,
+     "provisional": 16
     },
     {
      "candidate": "Calvin Palmer",
@@ -5516,7 +7041,11 @@
      "votes": 7491,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3348,
+     "advanceVoting": 3929,
+     "absenteeByMail": 212,
+     "provisional": 2
     }
    ]
   },
@@ -5535,7 +7064,11 @@
      "votes": 14150,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4951,
+     "advanceVoting": 8639,
+     "absenteeByMail": 556,
+     "provisional": 4
     }
    ]
   },
@@ -5554,7 +7087,11 @@
      "votes": 22159,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 8746,
+     "advanceVoting": 12808,
+     "absenteeByMail": 597,
+     "provisional": 8
     }
    ]
   },
@@ -5573,7 +7110,11 @@
      "votes": 12721,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4082,
+     "advanceVoting": 8047,
+     "absenteeByMail": 587,
+     "provisional": 5
     },
     {
      "candidate": "Eric S. Wilson",
@@ -5581,7 +7122,11 @@
      "votes": 9464,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4472,
+     "advanceVoting": 4831,
+     "absenteeByMail": 160,
+     "provisional": 1
     }
    ]
   },
@@ -5600,7 +7145,11 @@
      "votes": 20523,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 6575,
+     "advanceVoting": 13444,
+     "absenteeByMail": 497,
+     "provisional": 7
     }
    ]
   },
@@ -5619,7 +7168,11 @@
      "votes": 12094,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3297,
+     "advanceVoting": 8300,
+     "absenteeByMail": 487,
+     "provisional": 10
     },
     {
      "candidate": "Bethany Ballard",
@@ -5627,7 +7180,11 @@
      "votes": 10996,
      "incumbent": true,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3300,
+     "advanceVoting": 7298,
+     "absenteeByMail": 396,
+     "provisional": 2
     }
    ]
   },
@@ -5646,7 +7203,11 @@
      "votes": 13877,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4994,
+     "advanceVoting": 8537,
+     "absenteeByMail": 345,
+     "provisional": 1
     },
     {
      "candidate": "Cynthia Johnson",
@@ -5654,7 +7215,11 @@
      "votes": 7194,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2264,
+     "advanceVoting": 4589,
+     "absenteeByMail": 339,
+     "provisional": 2
     }
    ]
   },
@@ -5673,7 +7238,11 @@
      "votes": 11547,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3640,
+     "advanceVoting": 7153,
+     "absenteeByMail": 752,
+     "provisional": 2
     },
     {
      "candidate": "Randy Peters",
@@ -5681,7 +7250,11 @@
      "votes": 7553,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2729,
+     "advanceVoting": 4609,
+     "absenteeByMail": 214,
+     "provisional": 1
     }
    ]
   },
@@ -5700,7 +7273,11 @@
      "votes": 10578,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3628,
+     "advanceVoting": 6306,
+     "absenteeByMail": 642,
+     "provisional": 2
     },
     {
      "candidate": "Cary Moore",
@@ -5708,7 +7285,11 @@
      "votes": 7674,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2849,
+     "advanceVoting": 4660,
+     "absenteeByMail": 164,
+     "provisional": 1
     }
    ]
   },
@@ -5727,7 +7308,11 @@
      "votes": 9403,
      "incumbent": true,
      "winner": false,
-     "advancedToRunoff": true
+     "advancedToRunoff": true,
+     "electionDay": 4409,
+     "advanceVoting": 4767,
+     "absenteeByMail": 227,
+     "provisional": 0
     },
     {
      "candidate": "Ethan Wolfe",
@@ -5735,7 +7320,11 @@
      "votes": 8022,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": true
+     "advancedToRunoff": true,
+     "electionDay": 2514,
+     "advanceVoting": 4874,
+     "absenteeByMail": 633,
+     "provisional": 1
     },
     {
      "candidate": "Travis Lockhart",
@@ -5743,7 +7332,11 @@
      "votes": 2212,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 814,
+     "advanceVoting": 1281,
+     "absenteeByMail": 117,
+     "provisional": 0
     }
    ]
   },
@@ -5762,7 +7355,11 @@
      "votes": 14528,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 7246,
+     "advanceVoting": 7002,
+     "absenteeByMail": 279,
+     "provisional": 1
     },
     {
      "candidate": "Mitchell Rosa",
@@ -5770,7 +7367,11 @@
      "votes": 7649,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2914,
+     "advanceVoting": 4412,
+     "absenteeByMail": 320,
+     "provisional": 3
     }
    ]
   },
@@ -5789,7 +7390,11 @@
      "votes": 14616,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 6006,
+     "advanceVoting": 8077,
+     "absenteeByMail": 518,
+     "provisional": 15
     }
    ]
   },
@@ -5808,7 +7413,11 @@
      "votes": 10195,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4699,
+     "advanceVoting": 5191,
+     "absenteeByMail": 301,
+     "provisional": 4
     },
     {
      "candidate": "Harry James",
@@ -5816,7 +7425,11 @@
      "votes": 9944,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4037,
+     "advanceVoting": 5338,
+     "absenteeByMail": 567,
+     "provisional": 2
     }
    ]
   },
@@ -5835,7 +7448,11 @@
      "votes": 13824,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 6810,
+     "advanceVoting": 6608,
+     "absenteeByMail": 405,
+     "provisional": 1
     },
     {
      "candidate": "Joe Powers",
@@ -5843,7 +7460,11 @@
      "votes": 7267,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2770,
+     "advanceVoting": 4056,
+     "absenteeByMail": 441,
+     "provisional": 0
     }
    ]
   },
@@ -5862,7 +7483,11 @@
      "votes": 14110,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5755,
+     "advanceVoting": 8031,
+     "absenteeByMail": 322,
+     "provisional": 2
     }
    ]
   },
@@ -5881,7 +7506,11 @@
      "votes": 12640,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5229,
+     "advanceVoting": 7118,
+     "absenteeByMail": 291,
+     "provisional": 2
     },
     {
      "candidate": "Micah King",
@@ -5889,7 +7518,11 @@
      "votes": 4513,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 1445,
+     "advanceVoting": 2792,
+     "absenteeByMail": 275,
+     "provisional": 1
     }
    ]
   },
@@ -5908,7 +7541,11 @@
      "votes": 15706,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 6826,
+     "advanceVoting": 8517,
+     "absenteeByMail": 359,
+     "provisional": 4
     }
    ]
   },
@@ -5927,7 +7564,11 @@
      "votes": 17561,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 7774,
+     "advanceVoting": 9499,
+     "absenteeByMail": 278,
+     "provisional": 10
     }
    ]
   },
@@ -5946,7 +7587,11 @@
      "votes": 13487,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 6417,
+     "advanceVoting": 6827,
+     "absenteeByMail": 236,
+     "provisional": 7
     }
    ]
   },
@@ -5965,7 +7610,11 @@
      "votes": 11488,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4595,
+     "advanceVoting": 6463,
+     "absenteeByMail": 427,
+     "provisional": 3
     },
     {
      "candidate": "Bill Hitchens",
@@ -5973,7 +7622,11 @@
      "votes": 10670,
      "incumbent": true,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5431,
+     "advanceVoting": 5068,
+     "absenteeByMail": 170,
+     "provisional": 1
     }
    ]
   },
@@ -5992,7 +7645,11 @@
      "votes": 16231,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5675,
+     "advanceVoting": 9871,
+     "absenteeByMail": 684,
+     "provisional": 1
     }
    ]
   },
@@ -6011,7 +7668,11 @@
      "votes": 17297,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 7591,
+     "advanceVoting": 8898,
+     "absenteeByMail": 806,
+     "provisional": 2
     }
    ]
   },
@@ -6030,7 +7691,11 @@
      "votes": 12461,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3633,
+     "advanceVoting": 8288,
+     "absenteeByMail": 540,
+     "provisional": 0
     },
     {
      "candidate": "Ron Stephens",
@@ -6038,7 +7703,11 @@
      "votes": 11243,
      "incumbent": true,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4067,
+     "advanceVoting": 6920,
+     "absenteeByMail": 252,
+     "provisional": 4
     }
    ]
   },
@@ -6057,7 +7726,11 @@
      "votes": 17610,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 7446,
+     "advanceVoting": 9451,
+     "absenteeByMail": 709,
+     "provisional": 4
     }
    ]
   },
@@ -6076,7 +7749,11 @@
      "votes": 20998,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 9272,
+     "advanceVoting": 11242,
+     "absenteeByMail": 479,
+     "provisional": 5
     },
     {
      "candidate": "Pat Daley",
@@ -6084,7 +7761,11 @@
      "votes": 11559,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3291,
+     "advanceVoting": 7583,
+     "absenteeByMail": 682,
+     "provisional": 3
     }
    ]
   },
@@ -6103,7 +7784,11 @@
      "votes": 13265,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4974,
+     "advanceVoting": 7970,
+     "absenteeByMail": 319,
+     "provisional": 2
     },
     {
      "candidate": "Nathaniel Hicks, Jr.",
@@ -6111,7 +7796,11 @@
      "votes": 8131,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2451,
+     "advanceVoting": 5275,
+     "absenteeByMail": 403,
+     "provisional": 2
     }
    ]
   },
@@ -6130,7 +7819,11 @@
      "votes": 11452,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3023,
+     "advanceVoting": 7782,
+     "absenteeByMail": 640,
+     "provisional": 7
     },
     {
      "candidate": "Kevin Remillard",
@@ -6138,7 +7831,11 @@
      "votes": 5283,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 1966,
+     "advanceVoting": 3205,
+     "absenteeByMail": 111,
+     "provisional": 1
     }
    ]
   },
@@ -6157,7 +7854,11 @@
      "votes": 14909,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5870,
+     "advanceVoting": 8810,
+     "absenteeByMail": 211,
+     "provisional": 18
     }
    ]
   },
@@ -6176,7 +7877,11 @@
      "votes": 15191,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 6207,
+     "advanceVoting": 8681,
+     "absenteeByMail": 298,
+     "provisional": 5
     }
    ]
   },
@@ -6195,7 +7900,11 @@
      "votes": 13513,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 6416,
+     "advanceVoting": 6718,
+     "absenteeByMail": 370,
+     "provisional": 9
     }
    ]
   },
@@ -6214,7 +7923,11 @@
      "votes": 13917,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 6751,
+     "advanceVoting": 6906,
+     "absenteeByMail": 253,
+     "provisional": 7
     }
    ]
   },
@@ -6233,7 +7946,11 @@
      "votes": 11820,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4057,
+     "advanceVoting": 7497,
+     "absenteeByMail": 264,
+     "provisional": 2
     },
     {
      "candidate": "Adam Chitwood",
@@ -6241,7 +7958,11 @@
      "votes": 8594,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2474,
+     "advanceVoting": 5699,
+     "absenteeByMail": 417,
+     "provisional": 4
     }
    ]
   },
@@ -6260,7 +7981,11 @@
      "votes": 13641,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 6414,
+     "advanceVoting": 7024,
+     "absenteeByMail": 198,
+     "provisional": 5
     },
     {
      "candidate": "David Hall",
@@ -6268,7 +7993,11 @@
      "votes": 3950,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 1415,
+     "advanceVoting": 2358,
+     "absenteeByMail": 176,
+     "provisional": 1
     }
    ]
   },
@@ -6287,7 +8016,11 @@
      "votes": 14274,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5972,
+     "advanceVoting": 8043,
+     "absenteeByMail": 251,
+     "provisional": 8
     },
     {
      "candidate": "Anissa Knight Wiseman",
@@ -6295,7 +8028,11 @@
      "votes": 7713,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 2294,
+     "advanceVoting": 5011,
+     "absenteeByMail": 406,
+     "provisional": 2
     }
    ]
   },
@@ -6314,7 +8051,11 @@
      "votes": 11617,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5079,
+     "advanceVoting": 6287,
+     "absenteeByMail": 247,
+     "provisional": 4
     },
     {
      "candidate": "Marcus T. Ryan",
@@ -6322,7 +8063,11 @@
      "votes": 4849,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 1586,
+     "advanceVoting": 3033,
+     "absenteeByMail": 230,
+     "provisional": 0
     }
    ]
   },
@@ -6341,7 +8086,11 @@
      "votes": 11540,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 3360,
+     "advanceVoting": 7818,
+     "absenteeByMail": 344,
+     "provisional": 18
     }
    ]
   },
@@ -6360,7 +8109,11 @@
      "votes": 16602,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5842,
+     "advanceVoting": 10484,
+     "absenteeByMail": 275,
+     "provisional": 1
     },
     {
      "candidate": "Barry Dunham",
@@ -6368,7 +8121,11 @@
      "votes": 3653,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 1072,
+     "advanceVoting": 2421,
+     "absenteeByMail": 159,
+     "provisional": 1
     }
    ]
   },
@@ -6387,7 +8144,11 @@
      "votes": 16231,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4091,
+     "advanceVoting": 11590,
+     "absenteeByMail": 544,
+     "provisional": 6
     }
    ]
   },
@@ -6406,7 +8167,11 @@
      "votes": 16287,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5906,
+     "advanceVoting": 9951,
+     "absenteeByMail": 429,
+     "provisional": 1
     }
    ]
   },
@@ -6425,7 +8190,11 @@
      "votes": 16140,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 6038,
+     "advanceVoting": 9855,
+     "absenteeByMail": 243,
+     "provisional": 4
     },
     {
      "candidate": "Laurie E. Baio",
@@ -6433,7 +8202,11 @@
      "votes": 10993,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4033,
+     "advanceVoting": 6850,
+     "absenteeByMail": 108,
+     "provisional": 2
     }
    ]
   },
@@ -6452,7 +8225,11 @@
      "votes": 51650,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 20522,
+     "advanceVoting": 29608,
+     "absenteeByMail": 1505,
+     "provisional": 15
     }
    ]
   },
@@ -6471,7 +8248,11 @@
      "votes": 12891,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 4699,
+     "advanceVoting": 7834,
+     "absenteeByMail": 357,
+     "provisional": 1
     }
    ]
   },
@@ -6490,7 +8271,11 @@
      "votes": 41217,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 13286,
+     "advanceVoting": 26697,
+     "absenteeByMail": 1227,
+     "provisional": 7
     }
    ]
   },
@@ -6509,7 +8294,11 @@
      "votes": 75836,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 24454,
+     "advanceVoting": 49166,
+     "absenteeByMail": 2196,
+     "provisional": 20
     }
    ]
   },
@@ -6528,7 +8317,11 @@
      "votes": 11936,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 5479,
+     "advanceVoting": 6104,
+     "absenteeByMail": 351,
+     "provisional": 2
     }
    ]
   },
@@ -6547,7 +8340,11 @@
      "votes": 52727,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 17241,
+     "advanceVoting": 34079,
+     "absenteeByMail": 1381,
+     "provisional": 26
     }
    ]
   },
@@ -6566,7 +8363,11 @@
      "votes": 33650,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 8039,
+     "advanceVoting": 24498,
+     "absenteeByMail": 1101,
+     "provisional": 12
     }
    ]
   },
@@ -6585,7 +8386,11 @@
      "votes": null,
      "incumbent": true,
      "winner": null,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": null,
+     "advanceVoting": null,
+     "absenteeByMail": null,
+     "provisional": null
     }
    ]
   },
@@ -6604,7 +8409,11 @@
      "votes": 39491,
      "incumbent": true,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 19567,
+     "advanceVoting": 19141,
+     "absenteeByMail": 770,
+     "provisional": 13
     }
    ]
   },
@@ -6623,7 +8432,11 @@
      "votes": 2163712,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 738118,
+     "advanceVoting": 1350789,
+     "absenteeByMail": 73764,
+     "provisional": 1041
     },
     {
      "candidate": "No",
@@ -6631,7 +8444,11 @@
      "votes": 1854433,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 563808,
+     "advanceVoting": 1235857,
+     "absenteeByMail": 53875,
+     "provisional": 893
     }
    ]
   },
@@ -6650,7 +8467,11 @@
      "votes": 2752872,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 927132,
+     "advanceVoting": 1733826,
+     "absenteeByMail": 90604,
+     "provisional": 1310
     },
     {
      "candidate": "No",
@@ -6658,7 +8479,11 @@
      "votes": 1274297,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 374627,
+     "advanceVoting": 859790,
+     "absenteeByMail": 39262,
+     "provisional": 618
     }
    ]
   },
@@ -6677,7 +8502,11 @@
      "votes": 3135317,
      "incumbent": false,
      "winner": true,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 1005329,
+     "advanceVoting": 2021089,
+     "absenteeByMail": 107462,
+     "provisional": 1437
     },
     {
      "candidate": "No",
@@ -6685,7 +8514,11 @@
      "votes": 898237,
      "incumbent": false,
      "winner": false,
-     "advancedToRunoff": false
+     "advancedToRunoff": false,
+     "electionDay": 299810,
+     "advanceVoting": 575129,
+     "absenteeByMail": 22787,
+     "provisional": 511
     }
    ]
   }
