@@ -1,5 +1,5 @@
 # ga-races-elections
-Georgia election data for the 2026 cycle, maintained by [VoteGA.org](https://votega.org): **races and candidates** (updated daily) and **early-voting turnout by county** (refreshed by hand when the Secretary of State posts a new file; see [Early voting](#early-voting)).
+Georgia election data, one folder per election cycle, maintained by [VoteGA.org](https://votega.org): **races and candidates** (updated daily) and **early-voting turnout by county** (refreshed by hand when the Secretary of State posts a new file; see [Early voting](#early-voting)).
 
 ## Files
 
@@ -39,7 +39,7 @@ ga-races-elections/
 | [`source-data-dictionary.md`](early-vote/2026-general/source-data-dictionary.md) | Markdown | **Reading** — what each field in the Secretary of State's source files means |
 
 ## races.json
-363 races across federal, state executive, state legislative, judicial, and district attorney offices — updated daily via GitHub Actions from [VoteGA.org](https://votega.org). Live counts by level and phase are in [`races/2026/RACES.md`](races/2026/RACES.md).
+Each cycle's `races/<cycle>/races.json` holds its federal, state executive, state legislative, judicial, and district attorney races, updated daily via GitHub Actions from [VoteGA.org](https://votega.org). A finished cycle's folder stays where it is when the next one starts. Live counts by level and phase are in each cycle's `RACES.md`, e.g. [`races/2026/RACES.md`](races/2026/RACES.md). The examples below are from 2026.
 
 ### Counts
 | Level | Races |
