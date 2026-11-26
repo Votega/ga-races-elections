@@ -1,0 +1,66 @@
+{
+ "metadata": {
+  "election": "2026-special-us-house-13",
+  "title": "Georgia 2026 Special Election Results",
+  "electionDate": "2026-07-28",
+  "status": "certified",
+  "source": "Georgia Secretary of State",
+  "resultsPage": "https://www.votega.org/ga-special-2026-results/",
+  "generatedAt": "2026-08-10T02:21:18+00:00",
+  "schemaVersion": "1.0.0",
+  "contestCount": 1
+ },
+ "contests": [
+  {
+   "contestId": "us-house-district-13",
+   "section": "us-house",
+   "office": "U.S. House",
+   "district": 13,
+   "contestParty": null,
+   "outcome": "runoff",
+   "totalVotes": 20510,
+   "candidates": [
+    {
+     "candidate": "Marcye Scott",
+     "party": "Democrat",
+     "votes": 9441,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": true
+    },
+    {
+     "candidate": "Everton \"EJ\" Blair",
+     "party": "Democrat",
+     "votes": 7680,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": true
+    },
+    {
+     "candidate": "Caesar Gonzales",
+     "party": "Republican",
+     "votes": 1778,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Fayth Park",
+     "party": "Republican",
+     "votes": 972,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Carlos Moore",
+     "party": "Democrat",
+     "votes": 639,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  }
+ ]
+}

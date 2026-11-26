@@ -1,0 +1,6693 @@
+{
+ "metadata": {
+  "election": "2026-general",
+  "title": "Georgia 2026 General Election Results",
+  "electionDate": "2026-11-03",
+  "status": "certified",
+  "source": "Georgia Secretary of State",
+  "resultsPage": "https://www.votega.org/ga-general-2026-results/",
+  "generatedAt": "2026-11-20T15:51:29+00:00",
+  "schemaVersion": "1.0.0",
+  "contestCount": 274
+ },
+ "contests": [
+  {
+   "contestId": "statewide-us-senate",
+   "section": "statewide",
+   "office": "US Senate",
+   "district": null,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 4182732,
+   "candidates": [
+    {
+     "candidate": "Jon Ossoff",
+     "party": "Democrat",
+     "votes": 2469059,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Mike Collins",
+     "party": "Republican",
+     "votes": 1713673,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "statewide-governor",
+   "section": "statewide",
+   "office": "Governor",
+   "district": null,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 4184844,
+   "candidates": [
+    {
+     "candidate": "Keisha Lance Bottoms",
+     "party": "Democrat",
+     "votes": 2273918,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Rick Jackson",
+     "party": "Republican",
+     "votes": 1910926,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "statewide-lieutenant-governor",
+   "section": "statewide",
+   "office": "Lieutenant Governor",
+   "district": null,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 4167957,
+   "candidates": [
+    {
+     "candidate": "Josh McLaurin",
+     "party": "Democrat",
+     "votes": 2332730,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Greg Dolezal",
+     "party": "Republican",
+     "votes": 1835227,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "statewide-secretary-of-state",
+   "section": "statewide",
+   "office": "Secretary of State",
+   "district": null,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 4172940,
+   "candidates": [
+    {
+     "candidate": "Penny Brown Reynolds",
+     "party": "Democrat",
+     "votes": 2323906,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Tim Fleming",
+     "party": "Republican",
+     "votes": 1849034,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "statewide-attorney-general",
+   "section": "statewide",
+   "office": "Attorney General",
+   "district": null,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 4180479,
+   "candidates": [
+    {
+     "candidate": "Tanya Miller",
+     "party": "Democrat",
+     "votes": 2322364,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Brian Strickland",
+     "party": "Republican",
+     "votes": 1858115,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "statewide-commissioner-of-agriculture",
+   "section": "statewide",
+   "office": "Commissioner of Agriculture",
+   "district": null,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 4167751,
+   "candidates": [
+    {
+     "candidate": "Katherine E. Juhan-Arnold",
+     "party": "Democrat",
+     "votes": 2244295,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Tyler Harper",
+     "party": "Republican",
+     "votes": 1923456,
+     "incumbent": true,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "statewide-commissioner-of-insurance",
+   "section": "statewide",
+   "office": "Commissioner of Insurance",
+   "district": null,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 4163156,
+   "candidates": [
+    {
+     "candidate": "Keisha Sean Waites",
+     "party": "Democrat",
+     "votes": 2260907,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "John King",
+     "party": "Republican",
+     "votes": 1902249,
+     "incumbent": true,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "statewide-state-school-superintendent",
+   "section": "statewide",
+   "office": "State School Superintendent",
+   "district": null,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 4170005,
+   "candidates": [
+    {
+     "candidate": "Lydia Powell",
+     "party": "Democrat",
+     "votes": 2278023,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Richard Woods",
+     "party": "Republican",
+     "votes": 1891982,
+     "incumbent": true,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "statewide-commissioner-of-labor",
+   "section": "statewide",
+   "office": "Commissioner of Labor",
+   "district": null,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 4157662,
+   "candidates": [
+    {
+     "candidate": "Nikki Porcher",
+     "party": "Democrat",
+     "votes": 2271896,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Bárbara Rivera Holmes",
+     "party": "Republican",
+     "votes": 1885766,
+     "incumbent": true,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "statewide-psc-district-3",
+   "section": "statewide",
+   "office": "PSC - District 3",
+   "district": 3,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 4150471,
+   "candidates": [
+    {
+     "candidate": "Peter Hubbard",
+     "party": "Democrat",
+     "votes": 2340871,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Fitz Johnson",
+     "party": "Republican",
+     "votes": 1809600,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "statewide-psc-district-5",
+   "section": "statewide",
+   "office": "PSC - District 5",
+   "district": 5,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 4156536,
+   "candidates": [
+    {
+     "candidate": "Shelia Edwards",
+     "party": "Democrat",
+     "votes": 2299962,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Josh Tolbert",
+     "party": "Republican",
+     "votes": 1856574,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "us-house-district-1",
+   "section": "us-house",
+   "office": "U.S. House",
+   "district": 1,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 272877,
+   "candidates": [
+    {
+     "candidate": "James \"Jim\" Kingston",
+     "party": "Republican",
+     "votes": 140266,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Amanda Hollowell",
+     "party": "Democrat",
+     "votes": 132611,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "us-house-district-2",
+   "section": "us-house",
+   "office": "U.S. House",
+   "district": 2,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 244060,
+   "candidates": [
+    {
+     "candidate": "Sanford Bishop",
+     "party": "Democrat",
+     "votes": 148422,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Matt Day",
+     "party": "Republican",
+     "votes": 95638,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "us-house-district-3",
+   "section": "us-house",
+   "office": "U.S. House",
+   "district": 3,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 321864,
+   "candidates": [
+    {
+     "candidate": "Brian Jack",
+     "party": "Republican",
+     "votes": 188624,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Maura Keller",
+     "party": "Democrat",
+     "votes": 133240,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "us-house-district-4",
+   "section": "us-house",
+   "office": "U.S. House",
+   "district": 4,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 262984,
+   "candidates": [
+    {
+     "candidate": "Henry \"Hank\" Johnson Jr.",
+     "party": "Democrat",
+     "votes": 217340,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Jim Duffie",
+     "party": "Republican",
+     "votes": 45644,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "us-house-district-5",
+   "section": "us-house",
+   "office": "U.S. House",
+   "district": 5,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 304784,
+   "candidates": [
+    {
+     "candidate": "Nikema Williams",
+     "party": "Democrat",
+     "votes": 274922,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "John \"Bongo\" Salvesen",
+     "party": "Republican",
+     "votes": 29862,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "us-house-district-6",
+   "section": "us-house",
+   "office": "U.S. House",
+   "district": 6,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 326403,
+   "candidates": [
+    {
+     "candidate": "Lucy McBath",
+     "party": "Democrat",
+     "votes": 264024,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Kevin E. Martin",
+     "party": "Republican",
+     "votes": 62379,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "us-house-district-7",
+   "section": "us-house",
+   "office": "U.S. House",
+   "district": 7,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 341082,
+   "candidates": [
+    {
+     "candidate": "Rich McCormick",
+     "party": "Republican",
+     "votes": 191625,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Tony Kozycki",
+     "party": "Democrat",
+     "votes": 149457,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "us-house-district-8",
+   "section": "us-house",
+   "office": "U.S. House",
+   "district": 8,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 265179,
+   "candidates": [
+    {
+     "candidate": "Austin Scott",
+     "party": "Republican",
+     "votes": 160171,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Kelly Esti",
+     "party": "Democrat",
+     "votes": 105008,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "us-house-district-9",
+   "section": "us-house",
+   "office": "U.S. House",
+   "district": 9,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 308639,
+   "candidates": [
+    {
+     "candidate": "Andrew Clyde",
+     "party": "Republican",
+     "votes": 182986,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Caitlyn Gegen",
+     "party": "Democrat",
+     "votes": 125653,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "us-house-district-10",
+   "section": "us-house",
+   "office": "U.S. House",
+   "district": 10,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 325970,
+   "candidates": [
+    {
+     "candidate": "Houston Gaines",
+     "party": "Republican",
+     "votes": 174845,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Pamela \"Pam\" Delancy",
+     "party": "Democrat",
+     "votes": 151125,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "us-house-district-11",
+   "section": "us-house",
+   "office": "U.S. House",
+   "district": 11,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 329197,
+   "candidates": [
+    {
+     "candidate": "John Cowan",
+     "party": "Republican",
+     "votes": 182230,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Chris Harden",
+     "party": "Democrat",
+     "votes": 146967,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "us-house-district-12",
+   "section": "us-house",
+   "office": "U.S. House",
+   "district": 12,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 270542,
+   "candidates": [
+    {
+     "candidate": "Rick W. Allen",
+     "party": "Republican",
+     "votes": 140905,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Ceretta Smith",
+     "party": "Democrat",
+     "votes": 129637,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "us-house-district-13",
+   "section": "us-house",
+   "office": "U.S. House",
+   "district": 13,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 310774,
+   "candidates": [
+    {
+     "candidate": "Jasmine Clark",
+     "party": "Democrat",
+     "votes": 248094,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Jonathan Chavez",
+     "party": "Republican",
+     "votes": 62680,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "us-house-district-14",
+   "section": "us-house",
+   "office": "U.S. House",
+   "district": 14,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 287276,
+   "candidates": [
+    {
+     "candidate": "Clay Fuller",
+     "party": "Republican",
+     "votes": 168830,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Shawn Harris",
+     "party": "Democrat",
+     "votes": 118446,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-1",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 1,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 74101,
+   "candidates": [
+    {
+     "candidate": "Ben Watson",
+     "party": "Republican",
+     "votes": 38705,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Corey Foreman",
+     "party": "Democrat",
+     "votes": 35396,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-2-dem",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 2,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 54214,
+   "candidates": [
+    {
+     "candidate": "Derek J. Mallow",
+     "party": "Democrat",
+     "votes": 54214,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-3-rep",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 3,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 53530,
+   "candidates": [
+    {
+     "candidate": "Mike Hodges",
+     "party": "Republican",
+     "votes": 53530,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-4-rep",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 4,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 50551,
+   "candidates": [
+    {
+     "candidate": "Billy Hickman",
+     "party": "Republican",
+     "votes": 50551,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-5-dem",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 5,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 35109,
+   "candidates": [
+    {
+     "candidate": "Sheikh Rahman",
+     "party": "Democrat",
+     "votes": 35109,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-6",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 6,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 84236,
+   "candidates": [
+    {
+     "candidate": "Matt Brass",
+     "party": "Republican",
+     "votes": 55673,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Jermarkus A. Jacobs",
+     "party": "Democrat",
+     "votes": 28563,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-7",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 7,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 69285,
+   "candidates": [
+    {
+     "candidate": "Ruwa Romman",
+     "party": "Democrat",
+     "votes": 45729,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Aizaz Shahbaz Shaikh",
+     "party": "Republican",
+     "votes": 23556,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-8-rep",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 8,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 44698,
+   "candidates": [
+    {
+     "candidate": "Russ Goodman",
+     "party": "Republican",
+     "votes": 44698,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-9",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 9,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 74559,
+   "candidates": [
+    {
+     "candidate": "Nikki Merritt",
+     "party": "Democrat",
+     "votes": 52989,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Michael Johnson",
+     "party": "Republican",
+     "votes": 21570,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-10",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 10,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 90038,
+   "candidates": [
+    {
+     "candidate": "Larry Johnson",
+     "party": "Democrat",
+     "votes": 80838,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Furquan Stafford",
+     "party": "Republican",
+     "votes": 9200,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-11-rep",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 11,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 46220,
+   "candidates": [
+    {
+     "candidate": "Sam Watson",
+     "party": "Republican",
+     "votes": 46220,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-12-dem",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 12,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 46632,
+   "candidates": [
+    {
+     "candidate": "Edward Brown",
+     "party": "Democrat",
+     "votes": 46632,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-13-rep",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 13,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 50370,
+   "candidates": [
+    {
+     "candidate": "Carden H. Summers",
+     "party": "Republican",
+     "votes": 50370,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-14",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 14,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 80476,
+   "candidates": [
+    {
+     "candidate": "Kevin Abel",
+     "party": "Democrat",
+     "votes": 50505,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Mike Dvorscak",
+     "party": "Republican",
+     "votes": 29971,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-15",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 15,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 51484,
+   "candidates": [
+    {
+     "candidate": "Tremaine \"Teddy\" Reese",
+     "party": "Democrat",
+     "votes": 36680,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Chuck Hand",
+     "party": "Republican",
+     "votes": 14804,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-16",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 16,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 87934,
+   "candidates": [
+    {
+     "candidate": "Marty Harbin",
+     "party": "Republican",
+     "votes": 51365,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Sonya Wimberly Hawkins",
+     "party": "Democrat",
+     "votes": 36569,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-17-dem",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 17,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 73397,
+   "candidates": [
+    {
+     "candidate": "Gail Davenport",
+     "party": "Democrat",
+     "votes": 73397,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-18-rep",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 18,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 58730,
+   "candidates": [
+    {
+     "candidate": "Steven McNeel",
+     "party": "Republican",
+     "votes": 58730,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-19",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 19,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 56005,
+   "candidates": [
+    {
+     "candidate": "David Sikes",
+     "party": "Republican",
+     "votes": 39582,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Joshua C. Wilkerson",
+     "party": "Democrat",
+     "votes": 16423,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-20-rep",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 20,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 58829,
+   "candidates": [
+    {
+     "candidate": "Larry Walker",
+     "party": "Republican",
+     "votes": 58829,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-21",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 21,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 93469,
+   "candidates": [
+    {
+     "candidate": "Jason T. Dickerson",
+     "party": "Republican",
+     "votes": 60092,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Kori Simmons",
+     "party": "Democrat",
+     "votes": 33377,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-22-dem",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 22,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 53405,
+   "candidates": [
+    {
+     "candidate": "Harold V. Jones II",
+     "party": "Democrat",
+     "votes": 53405,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-23",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 23,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 70020,
+   "candidates": [
+    {
+     "candidate": "Max Burns",
+     "party": "Republican",
+     "votes": 37458,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Shayna Boston",
+     "party": "Democrat",
+     "votes": 32562,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-24",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 24,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 87857,
+   "candidates": [
+    {
+     "candidate": "Lee Anderson",
+     "party": "Republican",
+     "votes": 57104,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Lorraine V. Thomas",
+     "party": "Democrat",
+     "votes": 30753,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-25-rep",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 25,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 57824,
+   "candidates": [
+    {
+     "candidate": "Rick A. Williams",
+     "party": "Republican",
+     "votes": 57824,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-26",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 26,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 59209,
+   "candidates": [
+    {
+     "candidate": "David E. Lucas",
+     "party": "Democrat",
+     "votes": 40504,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Tracy Wheeler",
+     "party": "Republican",
+     "votes": 18705,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-27",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 27,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 82255,
+   "candidates": [
+    {
+     "candidate": "Mike Dudgeon",
+     "party": "Republican",
+     "votes": 52049,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Jessica Roper",
+     "party": "Democrat",
+     "votes": 30206,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-28-dem",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 28,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 72664,
+   "candidates": [
+    {
+     "candidate": "Donzella James",
+     "party": "Democrat",
+     "votes": 72664,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-29",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 29,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 74647,
+   "candidates": [
+    {
+     "candidate": "Randy Robertson",
+     "party": "Republican",
+     "votes": 43108,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Jeff Lowe",
+     "party": "Democrat",
+     "votes": 31539,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-30",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 30,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 74677,
+   "candidates": [
+    {
+     "candidate": "Timothy J. Bearden",
+     "party": "Republican",
+     "votes": 41640,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Wanda Cooper",
+     "party": "Democrat",
+     "votes": 33037,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-31",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 31,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 79392,
+   "candidates": [
+    {
+     "candidate": "Jason R. Anavitarte",
+     "party": "Republican",
+     "votes": 44597,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Alec Miller",
+     "party": "Democrat",
+     "votes": 34795,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-32",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 32,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 83187,
+   "candidates": [
+    {
+     "candidate": "Kay Kirkpatrick",
+     "party": "Republican",
+     "votes": 42424,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Michael Hettig",
+     "party": "Democrat",
+     "votes": 40763,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-33-dem",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 33,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 57651,
+   "candidates": [
+    {
+     "candidate": "Michael Doc Rhett",
+     "party": "Democrat",
+     "votes": 57651,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-34-dem",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 34,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 54864,
+   "candidates": [
+    {
+     "candidate": "Kenya Wicks",
+     "party": "Democrat",
+     "votes": 54864,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-35-dem",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 35,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 74072,
+   "candidates": [
+    {
+     "candidate": "Jaha V. Howard",
+     "party": "Democrat",
+     "votes": 74072,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-36",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 36,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 78384,
+   "candidates": [
+    {
+     "candidate": "Nan Grogan Orrock",
+     "party": "Democrat",
+     "votes": 72091,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Katie Corkren",
+     "party": "Republican",
+     "votes": 6293,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-37",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 37,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 93885,
+   "candidates": [
+    {
+     "candidate": "Darcy Castro",
+     "party": "Democrat",
+     "votes": 47653,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Ed Setzler",
+     "party": "Republican",
+     "votes": 46232,
+     "incumbent": true,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-38",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 38,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 84317,
+   "candidates": [
+    {
+     "candidate": "Rashaun Kemp",
+     "party": "Democrat",
+     "votes": 68348,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Eric Helvy",
+     "party": "Republican",
+     "votes": 15969,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-39",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 39,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 73262,
+   "candidates": [
+    {
+     "candidate": "Sonya Halpern",
+     "party": "Democrat",
+     "votes": 64855,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "John F. Guest, Jr.",
+     "party": "Republican",
+     "votes": 8407,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-40",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 40,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 69756,
+   "candidates": [
+    {
+     "candidate": "Sally Harrell",
+     "party": "Democrat",
+     "votes": 48578,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Melina R. Mast",
+     "party": "Republican",
+     "votes": 21178,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-41",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 41,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 67500,
+   "candidates": [
+    {
+     "candidate": "Kim Jackson",
+     "party": "Democrat",
+     "votes": 58974,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Jeff Newlin",
+     "party": "Republican",
+     "votes": 8526,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-42",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 42,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 87558,
+   "candidates": [
+    {
+     "candidate": "Eric W. Lee, Sr.",
+     "party": "Democrat",
+     "votes": 45573,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Bret A. Dunn",
+     "party": "Republican",
+     "votes": 41985,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-43-dem",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 43,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 72217,
+   "candidates": [
+    {
+     "candidate": "Tonya P. Anderson",
+     "party": "Democrat",
+     "votes": 72217,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-44",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 44,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 87693,
+   "candidates": [
+    {
+     "candidate": "Saira Draper",
+     "party": "Democrat",
+     "votes": 81092,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Ngozi Orabueze",
+     "party": "Republican",
+     "votes": 6601,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-45",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 45,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 75470,
+   "candidates": [
+    {
+     "candidate": "Scott Tippetts",
+     "party": "Democrat",
+     "votes": 39546,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Clint Dixon",
+     "party": "Republican",
+     "votes": 35924,
+     "incumbent": true,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-46",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 46,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 81745,
+   "candidates": [
+    {
+     "candidate": "Marc McMain",
+     "party": "Republican",
+     "votes": 44682,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Ray Smith",
+     "party": "Democrat",
+     "votes": 37063,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-47-rep",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 47,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 42644,
+   "candidates": [
+    {
+     "candidate": "Frank Ginn",
+     "party": "Republican",
+     "votes": 42644,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-48",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 48,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 77629,
+   "candidates": [
+    {
+     "candidate": "Laura Murvartian",
+     "party": "Democrat",
+     "votes": 41049,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Shawn Still",
+     "party": "Republican",
+     "votes": 36580,
+     "incumbent": true,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-49",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 49,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 75251,
+   "candidates": [
+    {
+     "candidate": "Drew Echols",
+     "party": "Republican",
+     "votes": 50090,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "William Wallace",
+     "party": "Democrat",
+     "votes": 25161,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-50",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 50,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 73930,
+   "candidates": [
+    {
+     "candidate": "Bo Hatchett",
+     "party": "Republican",
+     "votes": 57897,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Dave Cooper",
+     "party": "Democrat",
+     "votes": 16033,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-51",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 51,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 88763,
+   "candidates": [
+    {
+     "candidate": "Will Wade",
+     "party": "Republican",
+     "votes": 70190,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Gary St. Lawrence",
+     "party": "Democrat",
+     "votes": 18573,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-52-rep",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 52,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 55687,
+   "candidates": [
+    {
+     "candidate": "Chuck Hufstetler",
+     "party": "Republican",
+     "votes": 55687,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-53",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 53,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 61749,
+   "candidates": [
+    {
+     "candidate": "Lanny Thomas",
+     "party": "Republican",
+     "votes": 45648,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "John Bentley \"Jack\" Zibluk",
+     "party": "Democrat",
+     "votes": 16101,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-54-rep",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 54,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 45754,
+   "candidates": [
+    {
+     "candidate": "Chuck Payne",
+     "party": "Republican",
+     "votes": 45754,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-55",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 55,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 79419,
+   "candidates": [
+    {
+     "candidate": "Randal Mangham",
+     "party": "Democrat",
+     "votes": 66267,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Mary Williams Benefield",
+     "party": "Republican",
+     "votes": 13152,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-senate-district-56",
+   "section": "state-senate",
+   "office": "Georgia State Senate",
+   "district": 56,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 97114,
+   "candidates": [
+    {
+     "candidate": "John Albers",
+     "party": "Republican",
+     "votes": 52410,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Patrick Thompson",
+     "party": "Democrat",
+     "votes": 44704,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-1",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 1,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 18148,
+   "candidates": [
+    {
+     "candidate": "Mike Cameron",
+     "party": "Republican",
+     "votes": 13265,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Steven \"Diz\" Disbrow",
+     "party": "Democrat",
+     "votes": 4883,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-2",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 2,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 21274,
+   "candidates": [
+    {
+     "candidate": "Steve Tarvin",
+     "party": "Republican",
+     "votes": 16077,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Whitney Echenique",
+     "party": "Democrat",
+     "votes": 5197,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-3",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 3,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 20233,
+   "candidates": [
+    {
+     "candidate": "Mitchell Horner",
+     "party": "Republican",
+     "votes": 14007,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Margaret Spear",
+     "party": "Democrat",
+     "votes": 6226,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-4",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 4,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 13947,
+   "candidates": [
+    {
+     "candidate": "Kasey Carpenter",
+     "party": "Republican",
+     "votes": 7225,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Quentin Postell",
+     "party": "Democrat",
+     "votes": 6722,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-5",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 5,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 19202,
+   "candidates": [
+    {
+     "candidate": "Matt Barton",
+     "party": "Republican",
+     "votes": 14240,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Rasmus Jensen",
+     "party": "Democrat",
+     "votes": 4962,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-6",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 6,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 18444,
+   "candidates": [
+    {
+     "candidate": "Jason T. Ridley",
+     "party": "Republican",
+     "votes": 14311,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Cathy Kott",
+     "party": "Democrat",
+     "votes": 4133,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-7-rep",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 7,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 23768,
+   "candidates": [
+    {
+     "candidate": "Johnny Chastain",
+     "party": "Republican",
+     "votes": 23768,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-8",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 8,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 31472,
+   "candidates": [
+    {
+     "candidate": "Stan Gunter",
+     "party": "Republican",
+     "votes": 25560,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Nick Mitchell",
+     "party": "Democrat",
+     "votes": 5912,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-9",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 9,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 26288,
+   "candidates": [
+    {
+     "candidate": "Chris Dockery",
+     "party": "Republican",
+     "votes": 20483,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Roger L. Smith",
+     "party": "Democrat",
+     "votes": 5805,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-10",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 10,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 23925,
+   "candidates": [
+    {
+     "candidate": "Victor Anderson",
+     "party": "Republican",
+     "votes": 18514,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "John Brown",
+     "party": "Democrat",
+     "votes": 5411,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-11",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 11,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 28075,
+   "candidates": [
+    {
+     "candidate": "Rick Jasperse",
+     "party": "Republican",
+     "votes": 21684,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Ryan Fountain",
+     "party": "Democrat",
+     "votes": 6391,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-12",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 12,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 18534,
+   "candidates": [
+    {
+     "candidate": "Eddie Lumsden",
+     "party": "Republican",
+     "votes": 13733,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Holly Chaney",
+     "party": "Democrat",
+     "votes": 4801,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-13",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 13,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 18726,
+   "candidates": [
+    {
+     "candidate": "Katie Dempsey",
+     "party": "Republican",
+     "votes": 11112,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Vincent Mendes",
+     "party": "Democrat",
+     "votes": 7614,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-14",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 14,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 25014,
+   "candidates": [
+    {
+     "candidate": "Mitchell Scoggins",
+     "party": "Republican",
+     "votes": 18938,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Bella Bautista",
+     "party": "Democrat",
+     "votes": 6076,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-15",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 15,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 22415,
+   "candidates": [
+    {
+     "candidate": "Matthew Gambill",
+     "party": "Republican",
+     "votes": 14725,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Lauren Jones",
+     "party": "Democrat",
+     "votes": 7690,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-16",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 16,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 21601,
+   "candidates": [
+    {
+     "candidate": "Trey Kelley",
+     "party": "Republican",
+     "votes": 15438,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Diana Spangler",
+     "party": "Democrat",
+     "votes": 6163,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-17",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 17,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 25704,
+   "candidates": [
+    {
+     "candidate": "Martin Momtahan",
+     "party": "Republican",
+     "votes": 13468,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Ke'Andra Foggie",
+     "party": "Democrat",
+     "votes": 12236,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-18",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 18,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 23999,
+   "candidates": [
+    {
+     "candidate": "Tyler Paul Smith",
+     "party": "Republican",
+     "votes": 19256,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Pat Rhudy",
+     "party": "Democrat",
+     "votes": 4743,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-19",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 19,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 28690,
+   "candidates": [
+    {
+     "candidate": "Cynthia Starke-Jones",
+     "party": "Democrat",
+     "votes": 14904,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Joseph Gullett",
+     "party": "Republican",
+     "votes": 13786,
+     "incumbent": true,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-20",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 20,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 26674,
+   "candidates": [
+    {
+     "candidate": "Charlice Byrd",
+     "party": "Republican",
+     "votes": 16030,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Jason D. Tanner",
+     "party": "Democrat",
+     "votes": 10644,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-21",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 21,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 31029,
+   "candidates": [
+    {
+     "candidate": "Brad Thomas",
+     "party": "Republican",
+     "votes": 21111,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Anthony Aragues",
+     "party": "Democrat",
+     "votes": 9918,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-22",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 22,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 26062,
+   "candidates": [
+    {
+     "candidate": "Jordan Ridley",
+     "party": "Republican",
+     "votes": 13166,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "James Shade",
+     "party": "Democrat",
+     "votes": 12896,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-23",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 23,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 27110,
+   "candidates": [
+    {
+     "candidate": "Bill Fincher",
+     "party": "Republican",
+     "votes": 19002,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Rob Epstein",
+     "party": "Democrat",
+     "votes": 8108,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-24",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 24,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 24634,
+   "candidates": [
+    {
+     "candidate": "Carter Barrett",
+     "party": "Republican",
+     "votes": 14222,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Maureen Gault",
+     "party": "Democrat",
+     "votes": 10412,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-25",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 25,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 24716,
+   "candidates": [
+    {
+     "candidate": "Todd Jones",
+     "party": "Republican",
+     "votes": 12750,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Elaine Padgett",
+     "party": "Democrat",
+     "votes": 11966,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-26",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 26,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 24919,
+   "candidates": [
+    {
+     "candidate": "Lauren W. McDonald III",
+     "party": "Republican",
+     "votes": 15368,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Meredith Greene",
+     "party": "Democrat",
+     "votes": 9551,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-27",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 27,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 25189,
+   "candidates": [
+    {
+     "candidate": "Lee Hawkins",
+     "party": "Republican",
+     "votes": 19741,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Jay Kirkland",
+     "party": "Democrat",
+     "votes": 5448,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-28",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 28,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 26264,
+   "candidates": [
+    {
+     "candidate": "Brent Cox",
+     "party": "Republican",
+     "votes": 18944,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Mateo Sanabria",
+     "party": "Democrat",
+     "votes": 7320,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-29",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 29,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 15695,
+   "candidates": [
+    {
+     "candidate": "Scott Soracco",
+     "party": "Democrat",
+     "votes": 7915,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Matt Dubnik",
+     "party": "Republican",
+     "votes": 7780,
+     "incumbent": true,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-30",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 30,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 27263,
+   "candidates": [
+    {
+     "candidate": "Derrick McCollum",
+     "party": "Republican",
+     "votes": 17635,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Braden Michael Doxey",
+     "party": "Democrat",
+     "votes": 9628,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-31-rep",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 31,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 22376,
+   "candidates": [
+    {
+     "candidate": "Chad Bingham",
+     "party": "Republican",
+     "votes": 22376,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-32",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 32,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 21276,
+   "candidates": [
+    {
+     "candidate": "Chris Erwin",
+     "party": "Republican",
+     "votes": 16803,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Rebecca Sims",
+     "party": "Democrat",
+     "votes": 4473,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-33-rep",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 33,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 20814,
+   "candidates": [
+    {
+     "candidate": "Alan Powell",
+     "party": "Republican",
+     "votes": 20814,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-34",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 34,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 31963,
+   "candidates": [
+    {
+     "candidate": "Devan Seabaugh",
+     "party": "Republican",
+     "votes": 16395,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Titus Nichols",
+     "party": "Democrat",
+     "votes": 15568,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-35",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 35,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 21668,
+   "candidates": [
+    {
+     "candidate": "Lisa Gayle Campbell",
+     "party": "Democrat",
+     "votes": 15416,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Elvis Casely",
+     "party": "Republican",
+     "votes": 6252,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-36",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 36,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 29624,
+   "candidates": [
+    {
+     "candidate": "Ginny Ehrhart",
+     "party": "Republican",
+     "votes": 16353,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Luc \"Luke\" Noiset",
+     "party": "Democrat",
+     "votes": 13271,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-37-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 37,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 15784,
+   "candidates": [
+    {
+     "candidate": "Mary Frances Williams",
+     "party": "Democrat",
+     "votes": 15784,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-38-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 38,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 22678,
+   "candidates": [
+    {
+     "candidate": "David Wilkerson",
+     "party": "Democrat",
+     "votes": 22678,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-39-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 39,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 19717,
+   "candidates": [
+    {
+     "candidate": "Terry Cummings",
+     "party": "Democrat",
+     "votes": 19717,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-40",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 40,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 25461,
+   "candidates": [
+    {
+     "candidate": "Elisa Lassiter",
+     "party": "Democrat",
+     "votes": 12985,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Kimberly R. New",
+     "party": "Republican",
+     "votes": 12476,
+     "incumbent": true,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-41-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 41,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 16571,
+   "candidates": [
+    {
+     "candidate": "Michael Smith",
+     "party": "Democrat",
+     "votes": 16571,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-42",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 42,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 22384,
+   "candidates": [
+    {
+     "candidate": "Gabriel Sanchez",
+     "party": "Democrat",
+     "votes": 16612,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "André Stafford",
+     "party": "Republican",
+     "votes": 5772,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-43-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 43,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 17282,
+   "candidates": [
+    {
+     "candidate": "Solomon Adesanya",
+     "party": "Democrat",
+     "votes": 17282,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-44",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 44,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 27958,
+   "candidates": [
+    {
+     "candidate": "Danielle Bell",
+     "party": "Democrat",
+     "votes": 14543,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Don L. Parsons",
+     "party": "Republican",
+     "votes": 13415,
+     "incumbent": true,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-45",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 45,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 31711,
+   "candidates": [
+    {
+     "candidate": "Sharon Cooper",
+     "party": "Republican",
+     "votes": 16417,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Michelle Schreiner",
+     "party": "Democrat",
+     "votes": 15294,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-46",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 46,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 30998,
+   "candidates": [
+    {
+     "candidate": "John Carson",
+     "party": "Republican",
+     "votes": 16022,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Dumont J. Walker",
+     "party": "Democrat",
+     "votes": 14976,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-47",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 47,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 25401,
+   "candidates": [
+    {
+     "candidate": "Jack Miller",
+     "party": "Republican",
+     "votes": 13678,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Lindsay Defranco",
+     "party": "Democrat",
+     "votes": 11723,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-48",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 48,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 27722,
+   "candidates": [
+    {
+     "candidate": "Adam Cleveland",
+     "party": "Democrat",
+     "votes": 14086,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Scott Hilton",
+     "party": "Republican",
+     "votes": 13636,
+     "incumbent": true,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-49",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 49,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 30410,
+   "candidates": [
+    {
+     "candidate": "Charles E. \"Chuck\" Martin",
+     "party": "Republican",
+     "votes": 15876,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Sara Fuchs",
+     "party": "Democrat",
+     "votes": 14534,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-50",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 50,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 23530,
+   "candidates": [
+    {
+     "candidate": "Michelle Au",
+     "party": "Democrat",
+     "votes": 15058,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Azure Duan",
+     "party": "Republican",
+     "votes": 8472,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-51",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 51,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 24092,
+   "candidates": [
+    {
+     "candidate": "Esther Panitch",
+     "party": "Democrat",
+     "votes": 15513,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Keith Gettmann",
+     "party": "Republican",
+     "votes": 8579,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-52-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 52,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 20825,
+   "candidates": [
+    {
+     "candidate": "Shea Roberts",
+     "party": "Democrat",
+     "votes": 20825,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-53",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 53,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 29524,
+   "candidates": [
+    {
+     "candidate": "Beth Fuller",
+     "party": "Democrat",
+     "votes": 15121,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Deborah Silcox",
+     "party": "Republican",
+     "votes": 14403,
+     "incumbent": true,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-54",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 54,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 25283,
+   "candidates": [
+    {
+     "candidate": "Betsy Holland",
+     "party": "Democrat",
+     "votes": 16714,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Greg Miller",
+     "party": "Republican",
+     "votes": 8569,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-55",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 55,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 24238,
+   "candidates": [
+    {
+     "candidate": "Inga S. Willis",
+     "party": "Democrat",
+     "votes": 20188,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Samuel S. Lenaeus",
+     "party": "Republican",
+     "votes": 4050,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-56-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 56,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 18485,
+   "candidates": [
+    {
+     "candidate": "Bryce Berry",
+     "party": "Democrat",
+     "votes": 18485,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-57",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 57,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 28144,
+   "candidates": [
+    {
+     "candidate": "Stacey Evans",
+     "party": "Democrat",
+     "votes": 23706,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Helmut Lucero Love",
+     "party": "Republican",
+     "votes": 4438,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-58",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 58,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 23928,
+   "candidates": [
+    {
+     "candidate": "Mathewos Samson",
+     "party": "Democrat",
+     "votes": 22038,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Torrey Balam",
+     "party": "Republican",
+     "votes": 1890,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-59",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 59,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 22738,
+   "candidates": [
+    {
+     "candidate": "Phil A. Olaleye",
+     "party": "Democrat",
+     "votes": 21607,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Devanta \"Sully\" Sullivan",
+     "party": "Republican",
+     "votes": 1131,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-60-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 60,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 22740,
+   "candidates": [
+    {
+     "candidate": "Sheila Jones",
+     "party": "Democrat",
+     "votes": 22740,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-61",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 61,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 29785,
+   "candidates": [
+    {
+     "candidate": "Mekyah McQueen",
+     "party": "Democrat",
+     "votes": 24732,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Damita Bishop",
+     "party": "Republican",
+     "votes": 5053,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-62-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 62,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 23019,
+   "candidates": [
+    {
+     "candidate": "Kenn Collier",
+     "party": "Democrat",
+     "votes": 23019,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-63-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 63,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 20609,
+   "candidates": [
+    {
+     "candidate": "Kim Schofield",
+     "party": "Democrat",
+     "votes": 20609,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-64",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 64,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 26666,
+   "candidates": [
+    {
+     "candidate": "Sylvia Wayfer Baker",
+     "party": "Democrat",
+     "votes": 20953,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Lydia Parchue",
+     "party": "Republican",
+     "votes": 5713,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-65",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 65,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 32455,
+   "candidates": [
+    {
+     "candidate": "Robert Dawson",
+     "party": "Democrat",
+     "votes": 26379,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Gordon W. Rolle, Jr.",
+     "party": "Republican",
+     "votes": 6076,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-66-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 66,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 18602,
+   "candidates": [
+    {
+     "candidate": "Kimberly Alexander",
+     "party": "Democrat",
+     "votes": 18602,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-67",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 67,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 26041,
+   "candidates": [
+    {
+     "candidate": "Lydia Glaize",
+     "party": "Democrat",
+     "votes": 19396,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Daniel Cook",
+     "party": "Republican",
+     "votes": 6645,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-68-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 68,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 21358,
+   "candidates": [
+    {
+     "candidate": "Timoria McQueen Saba",
+     "party": "Democrat",
+     "votes": 21358,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-69-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 69,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 24665,
+   "candidates": [
+    {
+     "candidate": "Debra Bazemore",
+     "party": "Democrat",
+     "votes": 24665,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-70",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 70,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 21930,
+   "candidates": [
+    {
+     "candidate": "Melissa Stuckey",
+     "party": "Republican",
+     "votes": 11615,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Pierre Whatley",
+     "party": "Democrat",
+     "votes": 10315,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-71",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 71,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 22845,
+   "candidates": [
+    {
+     "candidate": "Justin \"Jutt\" Howard",
+     "party": "Republican",
+     "votes": 13097,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Brandolynn Yarbrough",
+     "party": "Democrat",
+     "votes": 9748,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-72-rep",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 72,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 17727,
+   "candidates": [
+    {
+     "candidate": "David Huddleston",
+     "party": "Republican",
+     "votes": 17727,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-73",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 73,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 30396,
+   "candidates": [
+    {
+     "candidate": "Josh Bonner",
+     "party": "Republican",
+     "votes": 18136,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Tim Wilkinson",
+     "party": "Democrat",
+     "votes": 12260,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-74-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 74,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 22750,
+   "candidates": [
+    {
+     "candidate": "Robert Flournoy, Jr.",
+     "party": "Democrat",
+     "votes": 22750,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-75-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 75,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 18564,
+   "candidates": [
+    {
+     "candidate": "Eric W. Bell II",
+     "party": "Democrat",
+     "votes": 18564,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-76-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 76,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 18253,
+   "candidates": [
+    {
+     "candidate": "Sandra G. Scott",
+     "party": "Democrat",
+     "votes": 18253,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-77-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 77,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 16142,
+   "candidates": [
+    {
+     "candidate": "Rhonda Burnough",
+     "party": "Democrat",
+     "votes": 16142,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-78-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 78,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 23150,
+   "candidates": [
+    {
+     "candidate": "Demetrius Douglas",
+     "party": "Democrat",
+     "votes": 23150,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-79",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 79,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 14564,
+   "candidates": [
+    {
+     "candidate": "Yasmin Neal",
+     "party": "Democrat",
+     "votes": 13251,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "David Hamrick",
+     "party": "Republican",
+     "votes": 1313,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-80",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 80,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 22737,
+   "candidates": [
+    {
+     "candidate": "Long Tran",
+     "party": "Democrat",
+     "votes": 15042,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Brian Anderson",
+     "party": "Republican",
+     "votes": 7695,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-81",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 81,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 27464,
+   "candidates": [
+    {
+     "candidate": "Mishael White",
+     "party": "Democrat",
+     "votes": 14771,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Noelle Kahaian",
+     "party": "Republican",
+     "votes": 12693,
+     "incumbent": true,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-82",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 82,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 27317,
+   "candidates": [
+    {
+     "candidate": "Karen I. Mathiak",
+     "party": "Republican",
+     "votes": 15294,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Anthony Dickson",
+     "party": "Democrat",
+     "votes": 12023,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-83",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 83,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 19775,
+   "candidates": [
+    {
+     "candidate": "Karen Lupton",
+     "party": "Democrat",
+     "votes": 14200,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "James \"Trip\" Smith",
+     "party": "Republican",
+     "votes": 5575,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-84-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 84,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 26622,
+   "candidates": [
+    {
+     "candidate": "Mary Margaret Oliver",
+     "party": "Democrat",
+     "votes": 26622,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-85",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 85,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 22355,
+   "candidates": [
+    {
+     "candidate": "Karla L. Drenner",
+     "party": "Democrat",
+     "votes": 20216,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Tyion Fields",
+     "party": "Republican",
+     "votes": 2139,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-86-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 86,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 20155,
+   "candidates": [
+    {
+     "candidate": "Imani Barnes",
+     "party": "Democrat",
+     "votes": 20155,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-87",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 87,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 23232,
+   "candidates": [
+    {
+     "candidate": "Viola Davis",
+     "party": "Democrat",
+     "votes": 19322,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Timothy J. Burson",
+     "party": "Republican",
+     "votes": 3910,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-88",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 88,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 22568,
+   "candidates": [
+    {
+     "candidate": "Billy Mitchell",
+     "party": "Democrat",
+     "votes": 19488,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "William Park Freeman",
+     "party": "Republican",
+     "votes": 3080,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-89-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 89,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 27601,
+   "candidates": [
+    {
+     "candidate": "Omari Crawford",
+     "party": "Democrat",
+     "votes": 27601,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-90",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 90,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 30222,
+   "candidates": [
+    {
+     "candidate": "Bentley Hudgins",
+     "party": "Democrat",
+     "votes": 27942,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Samantha Boston",
+     "party": "Republican",
+     "votes": 2280,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-91-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 91,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 22765,
+   "candidates": [
+    {
+     "candidate": "Angela Moore",
+     "party": "Democrat",
+     "votes": 22765,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-92-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 92,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 22549,
+   "candidates": [
+    {
+     "candidate": "Rhonda Taylor",
+     "party": "Democrat",
+     "votes": 22549,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-93-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 93,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 20584,
+   "candidates": [
+    {
+     "candidate": "Doreen Carter",
+     "party": "Democrat",
+     "votes": 20584,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-94-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 94,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 23274,
+   "candidates": [
+    {
+     "candidate": "Venola Mason",
+     "party": "Democrat",
+     "votes": 23274,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-95",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 95,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 23827,
+   "candidates": [
+    {
+     "candidate": "Darshun Nicole Kendrick",
+     "party": "Democrat",
+     "votes": 20748,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Reggie Hall",
+     "party": "Republican",
+     "votes": 3079,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-96-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 96,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 12167,
+   "candidates": [
+    {
+     "candidate": "Arlene Beckles",
+     "party": "Democrat",
+     "votes": 12167,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-97",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 97,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 20340,
+   "candidates": [
+    {
+     "candidate": "Jyot Singh",
+     "party": "Democrat",
+     "votes": 13828,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Yassin Moghazy",
+     "party": "Republican",
+     "votes": 6512,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-98-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 98,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 8176,
+   "candidates": [
+    {
+     "candidate": "Marvin Lim",
+     "party": "Democrat",
+     "votes": 8176,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-99",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 99,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 23442,
+   "candidates": [
+    {
+     "candidate": "Michelle Kang",
+     "party": "Democrat",
+     "votes": 13703,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Matt Reeves",
+     "party": "Republican",
+     "votes": 9739,
+     "incumbent": true,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-100",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 100,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 24764,
+   "candidates": [
+    {
+     "candidate": "Josh Clark",
+     "party": "Republican",
+     "votes": 12990,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Jennifer Ambler",
+     "party": "Democrat",
+     "votes": 11774,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-101",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 101,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 22942,
+   "candidates": [
+    {
+     "candidate": "Scott Holcomb",
+     "party": "Democrat",
+     "votes": 18022,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Jennifer Hutchison",
+     "party": "Republican",
+     "votes": 4920,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-102-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 102,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 16649,
+   "candidates": [
+    {
+     "candidate": "Gabe Okoye",
+     "party": "Democrat",
+     "votes": 16649,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-103",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 103,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 23997,
+   "candidates": [
+    {
+     "candidate": "Chris Luchey",
+     "party": "Democrat",
+     "votes": 12016,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Soo Hong",
+     "party": "Republican",
+     "votes": 11981,
+     "incumbent": true,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-104-rep",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 104,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 17893,
+   "candidates": [
+    {
+     "candidate": "Chuck Efstration",
+     "party": "Republican",
+     "votes": 17893,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-105",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 105,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 25104,
+   "candidates": [
+    {
+     "candidate": "Farooq Mughal",
+     "party": "Democrat",
+     "votes": 15250,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Sandy Donatucci",
+     "party": "Republican",
+     "votes": 9854,
+     "incumbent": true,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-106-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 106,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 16635,
+   "candidates": [
+    {
+     "candidate": "Akbar Ali",
+     "party": "Democrat",
+     "votes": 16635,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-107",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 107,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 20853,
+   "candidates": [
+    {
+     "candidate": "Sam Park",
+     "party": "Democrat",
+     "votes": 14794,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Murray R. Berkowitz",
+     "party": "Republican",
+     "votes": 6059,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-108",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 108,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 24136,
+   "candidates": [
+    {
+     "candidate": "Rahim Asani",
+     "party": "Democrat",
+     "votes": 15147,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Elvia Davila",
+     "party": "Republican",
+     "votes": 8989,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-109-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 109,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 10666,
+   "candidates": [
+    {
+     "candidate": "Juan Estrada",
+     "party": "Democrat",
+     "votes": 10666,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-110",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 110,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 28696,
+   "candidates": [
+    {
+     "candidate": "Segun Adeyina",
+     "party": "Democrat",
+     "votes": 21703,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Charles Lollar",
+     "party": "Republican",
+     "votes": 6993,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-111",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 111,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 27817,
+   "candidates": [
+    {
+     "candidate": "Reynaldo \"Rey\" Martinez",
+     "party": "Republican",
+     "votes": 14175,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Scott T. Jackson",
+     "party": "Democrat",
+     "votes": 13642,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-112",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 112,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 26442,
+   "candidates": [
+    {
+     "candidate": "Bruce Williamson",
+     "party": "Republican",
+     "votes": 16883,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Lisa Maria",
+     "party": "Democrat",
+     "votes": 9559,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-113",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 113,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 24174,
+   "candidates": [
+    {
+     "candidate": "Karla Daniels Hooper",
+     "party": "Democrat",
+     "votes": 19455,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Don Scarbrough",
+     "party": "Republican",
+     "votes": 4719,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-114",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 114,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 28896,
+   "candidates": [
+    {
+     "candidate": "Brett Mauldin",
+     "party": "Republican",
+     "votes": 18695,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Michael Caw",
+     "party": "Democrat",
+     "votes": 10201,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-115",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 115,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 30743,
+   "candidates": [
+    {
+     "candidate": "Regina Lewis-Ward",
+     "party": "Democrat",
+     "votes": 27112,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Darius L. Francis",
+     "party": "Republican",
+     "votes": 3631,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-116",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 116,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 25947,
+   "candidates": [
+    {
+     "candidate": "El-Mahdi Holly",
+     "party": "Democrat",
+     "votes": 22692,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Samie Lee Conyers",
+     "party": "Republican",
+     "votes": 3255,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-117-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 117,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 22822,
+   "candidates": [
+    {
+     "candidate": "Kim Thomas Smith",
+     "party": "Democrat",
+     "votes": 22822,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-118",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 118,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 24905,
+   "candidates": [
+    {
+     "candidate": "Clint Crowe",
+     "party": "Republican",
+     "votes": 14676,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Sharonda Bell",
+     "party": "Democrat",
+     "votes": 10229,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-119",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 119,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 23751,
+   "candidates": [
+    {
+     "candidate": "Holt Persinger",
+     "party": "Republican",
+     "votes": 14890,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Catherine Morris",
+     "party": "Democrat",
+     "votes": 8861,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-120",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 120,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 25178,
+   "candidates": [
+    {
+     "candidate": "Gary \"Ward\" Black, Jr.",
+     "party": "Republican",
+     "votes": 13067,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Suzanna Karatassos",
+     "party": "Democrat",
+     "votes": 12111,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-121",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 121,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 26930,
+   "candidates": [
+    {
+     "candidate": "Mack \"Dutch\" Guest IV",
+     "party": "Republican",
+     "votes": 14125,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Eric Gisler",
+     "party": "Democrat",
+     "votes": 12805,
+     "incumbent": true,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-122",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 122,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 16094,
+   "candidates": [
+    {
+     "candidate": "Spencer Frye",
+     "party": "Democrat",
+     "votes": 13571,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Carol Hubbard",
+     "party": "Republican",
+     "votes": 2523,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-123",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 123,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 24448,
+   "candidates": [
+    {
+     "candidate": "Rob Leverett",
+     "party": "Republican",
+     "votes": 16198,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Hope S. Beard",
+     "party": "Democrat",
+     "votes": 8250,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-124",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 124,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 29591,
+   "candidates": [
+    {
+     "candidate": "Trey Rhodes",
+     "party": "Republican",
+     "votes": 17780,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Melanie Michele Miller",
+     "party": "Democrat",
+     "votes": 11811,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-125",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 125,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 25513,
+   "candidates": [
+    {
+     "candidate": "Gary Richardson",
+     "party": "Republican",
+     "votes": 14166,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Leonard Hennessy",
+     "party": "Democrat",
+     "votes": 11347,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-126",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 126,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 21976,
+   "candidates": [
+    {
+     "candidate": "L.C. Myles Jr.",
+     "party": "Democrat",
+     "votes": 14502,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "William C. Harris",
+     "party": "Republican",
+     "votes": 7474,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-127",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 127,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 24296,
+   "candidates": [
+    {
+     "candidate": "Mark Newton",
+     "party": "Republican",
+     "votes": 14780,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Channing Von-T Taylor",
+     "party": "Democrat",
+     "votes": 9516,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-128",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 128,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 23221,
+   "candidates": [
+    {
+     "candidate": "Trey Sheppard",
+     "party": "Republican",
+     "votes": 11789,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Tyrone A. Evans",
+     "party": "Democrat",
+     "votes": 11432,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-129-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 129,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 13730,
+   "candidates": [
+    {
+     "candidate": "Karlton L. Howard",
+     "party": "Democrat",
+     "votes": 13730,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-130",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 130,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 17935,
+   "candidates": [
+    {
+     "candidate": "Sheila Clark Nelson",
+     "party": "Democrat",
+     "votes": 13407,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "David Carson",
+     "party": "Republican",
+     "votes": 4528,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-131",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 131,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 26089,
+   "candidates": [
+    {
+     "candidate": "Rob Clifton",
+     "party": "Republican",
+     "votes": 15148,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Jenny E. Eppard",
+     "party": "Democrat",
+     "votes": 10941,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-132-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 132,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 16657,
+   "candidates": [
+    {
+     "candidate": "Brian L. Prince",
+     "party": "Democrat",
+     "votes": 16657,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-133-rep",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 133,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 16066,
+   "candidates": [
+    {
+     "candidate": "Danny Mathis",
+     "party": "Republican",
+     "votes": 16066,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-134-rep",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 134,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 17630,
+   "candidates": [
+    {
+     "candidate": "Robert Dickey",
+     "party": "Republican",
+     "votes": 17630,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-135-rep",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 135,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 20487,
+   "candidates": [
+    {
+     "candidate": "Beth Camp",
+     "party": "Republican",
+     "votes": 20487,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-136-rep",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 136,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 20300,
+   "candidates": [
+    {
+     "candidate": "David Jenkins",
+     "party": "Republican",
+     "votes": 20300,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-137-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 137,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 17292,
+   "candidates": [
+    {
+     "candidate": "Debbie G. Buckner",
+     "party": "Democrat",
+     "votes": 17292,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-138",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 138,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 25464,
+   "candidates": [
+    {
+     "candidate": "Vance Smith",
+     "party": "Republican",
+     "votes": 17205,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Cyndie Hutchings",
+     "party": "Democrat",
+     "votes": 8259,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-139",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 139,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 22839,
+   "candidates": [
+    {
+     "candidate": "Carmen Rice",
+     "party": "Republican",
+     "votes": 12734,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Elliot Valdez",
+     "party": "Democrat",
+     "votes": 10105,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-140",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 140,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 11245,
+   "candidates": [
+    {
+     "candidate": "Marquese \"Skinny\" Averett",
+     "party": "Democrat",
+     "votes": 9088,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Edward Kvietkus",
+     "party": "Republican",
+     "votes": 2157,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-141",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 141,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 17110,
+   "candidates": [
+    {
+     "candidate": "Carolyn F. Hugley",
+     "party": "Democrat",
+     "votes": 13486,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Reggie Liparoto",
+     "party": "Republican",
+     "votes": 3624,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-142",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 142,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 21757,
+   "candidates": [
+    {
+     "candidate": "Miriam Paris",
+     "party": "Democrat",
+     "votes": 14266,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Calvin Palmer",
+     "party": "Republican",
+     "votes": 7491,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-143-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 143,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 14150,
+   "candidates": [
+    {
+     "candidate": "Anissa M. Jones",
+     "party": "Democrat",
+     "votes": 14150,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-144-rep",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 144,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 22159,
+   "candidates": [
+    {
+     "candidate": "Dale Washburn",
+     "party": "Republican",
+     "votes": 22159,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-145",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 145,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 22185,
+   "candidates": [
+    {
+     "candidate": "Tangie Herring",
+     "party": "Democrat",
+     "votes": 12721,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Eric S. Wilson",
+     "party": "Republican",
+     "votes": 9464,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-146-rep",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 146,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 20523,
+   "candidates": [
+    {
+     "candidate": "Shaw Blackmon",
+     "party": "Republican",
+     "votes": 20523,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-147",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 147,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 23090,
+   "candidates": [
+    {
+     "candidate": "Renita A Duncan",
+     "party": "Democrat",
+     "votes": 12094,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Bethany Ballard",
+     "party": "Republican",
+     "votes": 10996,
+     "incumbent": true,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-148",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 148,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 21071,
+   "candidates": [
+    {
+     "candidate": "Noel W. Williams Jr.",
+     "party": "Republican",
+     "votes": 13877,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Cynthia Johnson",
+     "party": "Democrat",
+     "votes": 7194,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-149",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 149,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 19100,
+   "candidates": [
+    {
+     "candidate": "Floyd Griffin",
+     "party": "Democrat",
+     "votes": 11547,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Randy Peters",
+     "party": "Republican",
+     "votes": 7553,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-150",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 150,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 18252,
+   "candidates": [
+    {
+     "candidate": "Patty Bentley Stinson",
+     "party": "Democrat",
+     "votes": 10578,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Cary Moore",
+     "party": "Republican",
+     "votes": 7674,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-151",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 151,
+   "contestParty": null,
+   "outcome": "runoff",
+   "totalVotes": 19637,
+   "candidates": [
+    {
+     "candidate": "Mike Cheokas",
+     "party": "Republican",
+     "votes": 9403,
+     "incumbent": true,
+     "winner": false,
+     "advancedToRunoff": true
+    },
+    {
+     "candidate": "Ethan Wolfe",
+     "party": "Democrat",
+     "votes": 8022,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": true
+    },
+    {
+     "candidate": "Travis Lockhart",
+     "party": "Independent",
+     "votes": 2212,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-152",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 152,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 22177,
+   "candidates": [
+    {
+     "candidate": "William J. \"Bill\" Yearta",
+     "party": "Republican",
+     "votes": 14528,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Mitchell Rosa",
+     "party": "Democrat",
+     "votes": 7649,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-153-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 153,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 14616,
+   "candidates": [
+    {
+     "candidate": "David Lee Sampson",
+     "party": "Democrat",
+     "votes": 14616,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-154",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 154,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 20139,
+   "candidates": [
+    {
+     "candidate": "Gerald E. Greene",
+     "party": "Republican",
+     "votes": 10195,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Harry James",
+     "party": "Democrat",
+     "votes": 9944,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-155",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 155,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 21091,
+   "candidates": [
+    {
+     "candidate": "Matt Hatchett",
+     "party": "Republican",
+     "votes": 13824,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Joe Powers",
+     "party": "Democrat",
+     "votes": 7267,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-156-rep",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 156,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 14110,
+   "candidates": [
+    {
+     "candidate": "Leesa Hagan",
+     "party": "Republican",
+     "votes": 14110,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-157",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 157,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 17153,
+   "candidates": [
+    {
+     "candidate": "Bradley B. Anderson",
+     "party": "Republican",
+     "votes": 12640,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Micah King",
+     "party": "Democrat",
+     "votes": 4513,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-158-rep",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 158,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 15706,
+   "candidates": [
+    {
+     "candidate": "Butch Parrish",
+     "party": "Republican",
+     "votes": 15706,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-159-rep",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 159,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 17561,
+   "candidates": [
+    {
+     "candidate": "Jon G. Burns",
+     "party": "Republican",
+     "votes": 17561,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-160-rep",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 160,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 13487,
+   "candidates": [
+    {
+     "candidate": "Lehman Franklin",
+     "party": "Republican",
+     "votes": 13487,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-161",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 161,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 22158,
+   "candidates": [
+    {
+     "candidate": "David Dillie",
+     "party": "Democrat",
+     "votes": 11488,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Bill Hitchens",
+     "party": "Republican",
+     "votes": 10670,
+     "incumbent": true,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-162-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 162,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 16231,
+   "candidates": [
+    {
+     "candidate": "Orlando Scott",
+     "party": "Democrat",
+     "votes": 16231,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-163-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 163,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 17297,
+   "candidates": [
+    {
+     "candidate": "Anne Allen Westbrook",
+     "party": "Democrat",
+     "votes": 17297,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-164",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 164,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 23704,
+   "candidates": [
+    {
+     "candidate": "Stephanie O Burgess",
+     "party": "Democrat",
+     "votes": 12461,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Ron Stephens",
+     "party": "Republican",
+     "votes": 11243,
+     "incumbent": true,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-165-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 165,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 17610,
+   "candidates": [
+    {
+     "candidate": "MiQuan Green",
+     "party": "Democrat",
+     "votes": 17610,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-166",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 166,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 32557,
+   "candidates": [
+    {
+     "candidate": "Jesse Petrea",
+     "party": "Republican",
+     "votes": 20998,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Pat Daley",
+     "party": "Democrat",
+     "votes": 11559,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-167",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 167,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 21396,
+   "candidates": [
+    {
+     "candidate": "Buddy DeLoach",
+     "party": "Republican",
+     "votes": 13265,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Nathaniel Hicks, Jr.",
+     "party": "Democrat",
+     "votes": 8131,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-168",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 168,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 16735,
+   "candidates": [
+    {
+     "candidate": "Al Williams",
+     "party": "Democrat",
+     "votes": 11452,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Kevin Remillard",
+     "party": "Republican",
+     "votes": 5283,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-169-rep",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 169,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 14909,
+   "candidates": [
+    {
+     "candidate": "Angie O'Steen",
+     "party": "Republican",
+     "votes": 14909,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-170-rep",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 170,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 15191,
+   "candidates": [
+    {
+     "candidate": "Jaclyn Dixon Ford",
+     "party": "Republican",
+     "votes": 15191,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-171-rep",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 171,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 13513,
+   "candidates": [
+    {
+     "candidate": "Joseph M. Campbell",
+     "party": "Republican",
+     "votes": 13513,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-172-rep",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 172,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 13917,
+   "candidates": [
+    {
+     "candidate": "Charles \"Chas\" Cannon",
+     "party": "Republican",
+     "votes": 13917,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-173",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 173,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 20414,
+   "candidates": [
+    {
+     "candidate": "Darlene Taylor",
+     "party": "Republican",
+     "votes": 11820,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Adam Chitwood",
+     "party": "Democrat",
+     "votes": 8594,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-174",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 174,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 17591,
+   "candidates": [
+    {
+     "candidate": "John L. Corbett",
+     "party": "Republican",
+     "votes": 13641,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "David Hall",
+     "party": "Democrat",
+     "votes": 3950,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-175",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 175,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 21987,
+   "candidates": [
+    {
+     "candidate": "John LaHood",
+     "party": "Republican",
+     "votes": 14274,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Anissa Knight Wiseman",
+     "party": "Democrat",
+     "votes": 7713,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-176",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 176,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 16466,
+   "candidates": [
+    {
+     "candidate": "James Burchett",
+     "party": "Republican",
+     "votes": 11617,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Marcus T. Ryan",
+     "party": "Democrat",
+     "votes": 4849,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-177-dem",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 177,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 11540,
+   "candidates": [
+    {
+     "candidate": "Elsie Cason Napier",
+     "party": "Democrat",
+     "votes": 11540,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-178",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 178,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 20255,
+   "candidates": [
+    {
+     "candidate": "Steven Meeks",
+     "party": "Republican",
+     "votes": 16602,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Barry Dunham",
+     "party": "Democrat",
+     "votes": 3653,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-179-rep",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 179,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 16231,
+   "candidates": [
+    {
+     "candidate": "Rick Townsend",
+     "party": "Republican",
+     "votes": 16231,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "state-house-district-180-rep",
+   "section": "state-house",
+   "office": "Georgia House of Representatives",
+   "district": 180,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 16287,
+   "candidates": [
+    {
+     "candidate": "Steven Sainz",
+     "party": "Republican",
+     "votes": 16287,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "courts-district-attorney-atlantic-judicial-circuit",
+   "section": "courts",
+   "office": "District Attorney - Atlantic Judicial Circuit",
+   "district": null,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 27133,
+   "candidates": [
+    {
+     "candidate": "Richard \"Richy\" Braun",
+     "party": null,
+     "votes": 16140,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Laurie E. Baio",
+     "party": null,
+     "votes": 10993,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "courts-district-attorney-columbia-judicial-circuit-rep",
+   "section": "courts",
+   "office": "District Attorney - Columbia Judicial Circuit",
+   "district": null,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 51650,
+   "candidates": [
+    {
+     "candidate": "Natalie Paine",
+     "party": "Republican",
+     "votes": 51650,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "courts-district-attorney-cordele-judicial-circuit-rep",
+   "section": "courts",
+   "office": "District Attorney - Cordele Judicial Circuit",
+   "district": null,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 12891,
+   "candidates": [
+    {
+     "candidate": "Lyndsey Walters",
+     "party": "Republican",
+     "votes": 12891,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "courts-district-attorney-enotah-judicial-circuit-rep",
+   "section": "courts",
+   "office": "District Attorney - Enotah Judicial Circuit",
+   "district": null,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 41217,
+   "candidates": [
+    {
+     "candidate": "Jeff Langley",
+     "party": "Republican",
+     "votes": 41217,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "courts-district-attorney-northeastern-judicial-circuit-rep",
+   "section": "courts",
+   "office": "District Attorney - Northeastern Judicial Circuit",
+   "district": null,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 75836,
+   "candidates": [
+    {
+     "candidate": "Lee Darragh",
+     "party": "Republican",
+     "votes": 75836,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "courts-district-attorney-pataula-judicial-circuit-rep",
+   "section": "courts",
+   "office": "District Attorney - Pataula Judicial Circuit",
+   "district": null,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 11936,
+   "candidates": [
+    {
+     "candidate": "Vic McNease",
+     "party": "Republican",
+     "votes": 11936,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "courts-district-attorney-paulding-judicial-circuit-rep",
+   "section": "courts",
+   "office": "District Attorney - Paulding Judicial Circuit",
+   "district": null,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 52727,
+   "candidates": [
+    {
+     "candidate": "Robert S. Lane",
+     "party": "Republican",
+     "votes": 52727,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "courts-district-attorney-rockdale-judicial-circuit-dem",
+   "section": "courts",
+   "office": "District Attorney - Rockdale Judicial Circuit",
+   "district": null,
+   "contestParty": "Democrat",
+   "outcome": "uncontested",
+   "totalVotes": 33650,
+   "candidates": [
+    {
+     "candidate": "Alisha Adams Johnson",
+     "party": "Democrat",
+     "votes": 33650,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "courts-district-attorney-waycross-judicial-circuit-rep",
+   "section": "courts",
+   "office": "District Attorney - Waycross Judicial Circuit",
+   "district": null,
+   "contestParty": "Republican",
+   "outcome": "not-reported",
+   "totalVotes": null,
+   "candidates": [
+    {
+     "candidate": "Marilyn Bennett",
+     "party": "Republican",
+     "votes": null,
+     "incumbent": true,
+     "winner": null,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "courts-district-attorney-west-georgia-judicial-circuit-rep",
+   "section": "courts",
+   "office": "District Attorney - West Georgia Judicial Circuit",
+   "district": null,
+   "contestParty": "Republican",
+   "outcome": "uncontested",
+   "totalVotes": 39491,
+   "candidates": [
+    {
+     "candidate": "Sarah Stimac Japour",
+     "party": "Republican",
+     "votes": 39491,
+     "incumbent": true,
+     "winner": true,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "measures-proposed-constitutional-amendment-1",
+   "section": "measures",
+   "office": "Proposed Constitutional Amendment 1",
+   "district": null,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 4018145,
+   "candidates": [
+    {
+     "candidate": "Yes",
+     "party": null,
+     "votes": 2163712,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "No",
+     "party": null,
+     "votes": 1854433,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "measures-proposed-constitutional-amendment-2",
+   "section": "measures",
+   "office": "Proposed Constitutional Amendment 2",
+   "district": null,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 4027169,
+   "candidates": [
+    {
+     "candidate": "Yes",
+     "party": null,
+     "votes": 2752872,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "No",
+     "party": null,
+     "votes": 1274297,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  },
+  {
+   "contestId": "measures-proposed-constitutional-amendment-3",
+   "section": "measures",
+   "office": "Proposed Constitutional Amendment 3",
+   "district": null,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 4033554,
+   "candidates": [
+    {
+     "candidate": "Yes",
+     "party": null,
+     "votes": 3135317,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "No",
+     "party": null,
+     "votes": 898237,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  }
+ ]
+}

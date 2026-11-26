@@ -1,0 +1,459 @@
+election,office,district,party,candidate,votes,totalVotes,incumbent,winner,electionDate,section,contestId,contestParty,outcome,advancedToRunoff,status
+2026-general,US Senate,,Democrat,Jon Ossoff,2469059,4182732,True,True,2026-11-03,statewide,statewide-us-senate,,decided,False,certified
+2026-general,US Senate,,Republican,Mike Collins,1713673,4182732,False,False,2026-11-03,statewide,statewide-us-senate,,decided,False,certified
+2026-general,Governor,,Democrat,Keisha Lance Bottoms,2273918,4184844,False,True,2026-11-03,statewide,statewide-governor,,decided,False,certified
+2026-general,Governor,,Republican,Rick Jackson,1910926,4184844,False,False,2026-11-03,statewide,statewide-governor,,decided,False,certified
+2026-general,Lieutenant Governor,,Democrat,Josh McLaurin,2332730,4167957,False,True,2026-11-03,statewide,statewide-lieutenant-governor,,decided,False,certified
+2026-general,Lieutenant Governor,,Republican,Greg Dolezal,1835227,4167957,False,False,2026-11-03,statewide,statewide-lieutenant-governor,,decided,False,certified
+2026-general,Secretary of State,,Democrat,Penny Brown Reynolds,2323906,4172940,False,True,2026-11-03,statewide,statewide-secretary-of-state,,decided,False,certified
+2026-general,Secretary of State,,Republican,Tim Fleming,1849034,4172940,False,False,2026-11-03,statewide,statewide-secretary-of-state,,decided,False,certified
+2026-general,Attorney General,,Democrat,Tanya Miller,2322364,4180479,False,True,2026-11-03,statewide,statewide-attorney-general,,decided,False,certified
+2026-general,Attorney General,,Republican,Brian Strickland,1858115,4180479,False,False,2026-11-03,statewide,statewide-attorney-general,,decided,False,certified
+2026-general,Commissioner of Agriculture,,Democrat,Katherine E. Juhan-Arnold,2244295,4167751,False,True,2026-11-03,statewide,statewide-commissioner-of-agriculture,,decided,False,certified
+2026-general,Commissioner of Agriculture,,Republican,Tyler Harper,1923456,4167751,True,False,2026-11-03,statewide,statewide-commissioner-of-agriculture,,decided,False,certified
+2026-general,Commissioner of Insurance,,Democrat,Keisha Sean Waites,2260907,4163156,False,True,2026-11-03,statewide,statewide-commissioner-of-insurance,,decided,False,certified
+2026-general,Commissioner of Insurance,,Republican,John King,1902249,4163156,True,False,2026-11-03,statewide,statewide-commissioner-of-insurance,,decided,False,certified
+2026-general,State School Superintendent,,Democrat,Lydia Powell,2278023,4170005,False,True,2026-11-03,statewide,statewide-state-school-superintendent,,decided,False,certified
+2026-general,State School Superintendent,,Republican,Richard Woods,1891982,4170005,True,False,2026-11-03,statewide,statewide-state-school-superintendent,,decided,False,certified
+2026-general,Commissioner of Labor,,Democrat,Nikki Porcher,2271896,4157662,False,True,2026-11-03,statewide,statewide-commissioner-of-labor,,decided,False,certified
+2026-general,Commissioner of Labor,,Republican,Bárbara Rivera Holmes,1885766,4157662,True,False,2026-11-03,statewide,statewide-commissioner-of-labor,,decided,False,certified
+2026-general,PSC - District 3,3,Democrat,Peter Hubbard,2340871,4150471,True,True,2026-11-03,statewide,statewide-psc-district-3,,decided,False,certified
+2026-general,PSC - District 3,3,Republican,Fitz Johnson,1809600,4150471,False,False,2026-11-03,statewide,statewide-psc-district-3,,decided,False,certified
+2026-general,PSC - District 5,5,Democrat,Shelia Edwards,2299962,4156536,False,True,2026-11-03,statewide,statewide-psc-district-5,,decided,False,certified
+2026-general,PSC - District 5,5,Republican,Josh Tolbert,1856574,4156536,False,False,2026-11-03,statewide,statewide-psc-district-5,,decided,False,certified
+2026-general,U.S. House,1,Republican,"James ""Jim"" Kingston",140266,272877,False,True,2026-11-03,us-house,us-house-district-1,,decided,False,certified
+2026-general,U.S. House,1,Democrat,Amanda Hollowell,132611,272877,False,False,2026-11-03,us-house,us-house-district-1,,decided,False,certified
+2026-general,U.S. House,2,Democrat,Sanford Bishop,148422,244060,True,True,2026-11-03,us-house,us-house-district-2,,decided,False,certified
+2026-general,U.S. House,2,Republican,Matt Day,95638,244060,False,False,2026-11-03,us-house,us-house-district-2,,decided,False,certified
+2026-general,U.S. House,3,Republican,Brian Jack,188624,321864,True,True,2026-11-03,us-house,us-house-district-3,,decided,False,certified
+2026-general,U.S. House,3,Democrat,Maura Keller,133240,321864,False,False,2026-11-03,us-house,us-house-district-3,,decided,False,certified
+2026-general,U.S. House,4,Democrat,"Henry ""Hank"" Johnson Jr.",217340,262984,True,True,2026-11-03,us-house,us-house-district-4,,decided,False,certified
+2026-general,U.S. House,4,Republican,Jim Duffie,45644,262984,False,False,2026-11-03,us-house,us-house-district-4,,decided,False,certified
+2026-general,U.S. House,5,Democrat,Nikema Williams,274922,304784,True,True,2026-11-03,us-house,us-house-district-5,,decided,False,certified
+2026-general,U.S. House,5,Republican,"John ""Bongo"" Salvesen",29862,304784,False,False,2026-11-03,us-house,us-house-district-5,,decided,False,certified
+2026-general,U.S. House,6,Democrat,Lucy McBath,264024,326403,True,True,2026-11-03,us-house,us-house-district-6,,decided,False,certified
+2026-general,U.S. House,6,Republican,Kevin E. Martin,62379,326403,False,False,2026-11-03,us-house,us-house-district-6,,decided,False,certified
+2026-general,U.S. House,7,Republican,Rich McCormick,191625,341082,True,True,2026-11-03,us-house,us-house-district-7,,decided,False,certified
+2026-general,U.S. House,7,Democrat,Tony Kozycki,149457,341082,False,False,2026-11-03,us-house,us-house-district-7,,decided,False,certified
+2026-general,U.S. House,8,Republican,Austin Scott,160171,265179,True,True,2026-11-03,us-house,us-house-district-8,,decided,False,certified
+2026-general,U.S. House,8,Democrat,Kelly Esti,105008,265179,False,False,2026-11-03,us-house,us-house-district-8,,decided,False,certified
+2026-general,U.S. House,9,Republican,Andrew Clyde,182986,308639,True,True,2026-11-03,us-house,us-house-district-9,,decided,False,certified
+2026-general,U.S. House,9,Democrat,Caitlyn Gegen,125653,308639,False,False,2026-11-03,us-house,us-house-district-9,,decided,False,certified
+2026-general,U.S. House,10,Republican,Houston Gaines,174845,325970,False,True,2026-11-03,us-house,us-house-district-10,,decided,False,certified
+2026-general,U.S. House,10,Democrat,"Pamela ""Pam"" Delancy",151125,325970,False,False,2026-11-03,us-house,us-house-district-10,,decided,False,certified
+2026-general,U.S. House,11,Republican,John Cowan,182230,329197,False,True,2026-11-03,us-house,us-house-district-11,,decided,False,certified
+2026-general,U.S. House,11,Democrat,Chris Harden,146967,329197,False,False,2026-11-03,us-house,us-house-district-11,,decided,False,certified
+2026-general,U.S. House,12,Republican,Rick W. Allen,140905,270542,True,True,2026-11-03,us-house,us-house-district-12,,decided,False,certified
+2026-general,U.S. House,12,Democrat,Ceretta Smith,129637,270542,False,False,2026-11-03,us-house,us-house-district-12,,decided,False,certified
+2026-general,U.S. House,13,Democrat,Jasmine Clark,248094,310774,False,True,2026-11-03,us-house,us-house-district-13,,decided,False,certified
+2026-general,U.S. House,13,Republican,Jonathan Chavez,62680,310774,False,False,2026-11-03,us-house,us-house-district-13,,decided,False,certified
+2026-general,U.S. House,14,Republican,Clay Fuller,168830,287276,True,True,2026-11-03,us-house,us-house-district-14,,decided,False,certified
+2026-general,U.S. House,14,Democrat,Shawn Harris,118446,287276,False,False,2026-11-03,us-house,us-house-district-14,,decided,False,certified
+2026-general,Georgia State Senate,1,Republican,Ben Watson,38705,74101,True,True,2026-11-03,state-senate,state-senate-district-1,,decided,False,certified
+2026-general,Georgia State Senate,1,Democrat,Corey Foreman,35396,74101,False,False,2026-11-03,state-senate,state-senate-district-1,,decided,False,certified
+2026-general,Georgia State Senate,2,Democrat,Derek J. Mallow,54214,54214,True,True,2026-11-03,state-senate,state-senate-district-2-dem,Democrat,uncontested,False,certified
+2026-general,Georgia State Senate,3,Republican,Mike Hodges,53530,53530,True,True,2026-11-03,state-senate,state-senate-district-3-rep,Republican,uncontested,False,certified
+2026-general,Georgia State Senate,4,Republican,Billy Hickman,50551,50551,True,True,2026-11-03,state-senate,state-senate-district-4-rep,Republican,uncontested,False,certified
+2026-general,Georgia State Senate,5,Democrat,Sheikh Rahman,35109,35109,True,True,2026-11-03,state-senate,state-senate-district-5-dem,Democrat,uncontested,False,certified
+2026-general,Georgia State Senate,6,Republican,Matt Brass,55673,84236,True,True,2026-11-03,state-senate,state-senate-district-6,,decided,False,certified
+2026-general,Georgia State Senate,6,Democrat,Jermarkus A. Jacobs,28563,84236,False,False,2026-11-03,state-senate,state-senate-district-6,,decided,False,certified
+2026-general,Georgia State Senate,7,Democrat,Ruwa Romman,45729,69285,False,True,2026-11-03,state-senate,state-senate-district-7,,decided,False,certified
+2026-general,Georgia State Senate,7,Republican,Aizaz Shahbaz Shaikh,23556,69285,False,False,2026-11-03,state-senate,state-senate-district-7,,decided,False,certified
+2026-general,Georgia State Senate,8,Republican,Russ Goodman,44698,44698,True,True,2026-11-03,state-senate,state-senate-district-8-rep,Republican,uncontested,False,certified
+2026-general,Georgia State Senate,9,Democrat,Nikki Merritt,52989,74559,True,True,2026-11-03,state-senate,state-senate-district-9,,decided,False,certified
+2026-general,Georgia State Senate,9,Republican,Michael Johnson,21570,74559,False,False,2026-11-03,state-senate,state-senate-district-9,,decided,False,certified
+2026-general,Georgia State Senate,10,Democrat,Larry Johnson,80838,90038,False,True,2026-11-03,state-senate,state-senate-district-10,,decided,False,certified
+2026-general,Georgia State Senate,10,Republican,Furquan Stafford,9200,90038,False,False,2026-11-03,state-senate,state-senate-district-10,,decided,False,certified
+2026-general,Georgia State Senate,11,Republican,Sam Watson,46220,46220,True,True,2026-11-03,state-senate,state-senate-district-11-rep,Republican,uncontested,False,certified
+2026-general,Georgia State Senate,12,Democrat,Edward Brown,46632,46632,False,True,2026-11-03,state-senate,state-senate-district-12-dem,Democrat,uncontested,False,certified
+2026-general,Georgia State Senate,13,Republican,Carden H. Summers,50370,50370,True,True,2026-11-03,state-senate,state-senate-district-13-rep,Republican,uncontested,False,certified
+2026-general,Georgia State Senate,14,Democrat,Kevin Abel,50505,80476,False,True,2026-11-03,state-senate,state-senate-district-14,,decided,False,certified
+2026-general,Georgia State Senate,14,Republican,Mike Dvorscak,29971,80476,False,False,2026-11-03,state-senate,state-senate-district-14,,decided,False,certified
+2026-general,Georgia State Senate,15,Democrat,"Tremaine ""Teddy"" Reese",36680,51484,False,True,2026-11-03,state-senate,state-senate-district-15,,decided,False,certified
+2026-general,Georgia State Senate,15,Republican,Chuck Hand,14804,51484,False,False,2026-11-03,state-senate,state-senate-district-15,,decided,False,certified
+2026-general,Georgia State Senate,16,Republican,Marty Harbin,51365,87934,True,True,2026-11-03,state-senate,state-senate-district-16,,decided,False,certified
+2026-general,Georgia State Senate,16,Democrat,Sonya Wimberly Hawkins,36569,87934,False,False,2026-11-03,state-senate,state-senate-district-16,,decided,False,certified
+2026-general,Georgia State Senate,17,Democrat,Gail Davenport,73397,73397,True,True,2026-11-03,state-senate,state-senate-district-17-dem,Democrat,uncontested,False,certified
+2026-general,Georgia State Senate,18,Republican,Steven McNeel,58730,58730,True,True,2026-11-03,state-senate,state-senate-district-18-rep,Republican,uncontested,False,certified
+2026-general,Georgia State Senate,19,Republican,David Sikes,39582,56005,False,True,2026-11-03,state-senate,state-senate-district-19,,decided,False,certified
+2026-general,Georgia State Senate,19,Democrat,Joshua C. Wilkerson,16423,56005,False,False,2026-11-03,state-senate,state-senate-district-19,,decided,False,certified
+2026-general,Georgia State Senate,20,Republican,Larry Walker,58829,58829,True,True,2026-11-03,state-senate,state-senate-district-20-rep,Republican,uncontested,False,certified
+2026-general,Georgia State Senate,21,Republican,Jason T. Dickerson,60092,93469,True,True,2026-11-03,state-senate,state-senate-district-21,,decided,False,certified
+2026-general,Georgia State Senate,21,Democrat,Kori Simmons,33377,93469,False,False,2026-11-03,state-senate,state-senate-district-21,,decided,False,certified
+2026-general,Georgia State Senate,22,Democrat,Harold V. Jones II,53405,53405,True,True,2026-11-03,state-senate,state-senate-district-22-dem,Democrat,uncontested,False,certified
+2026-general,Georgia State Senate,23,Republican,Max Burns,37458,70020,True,True,2026-11-03,state-senate,state-senate-district-23,,decided,False,certified
+2026-general,Georgia State Senate,23,Democrat,Shayna Boston,32562,70020,False,False,2026-11-03,state-senate,state-senate-district-23,,decided,False,certified
+2026-general,Georgia State Senate,24,Republican,Lee Anderson,57104,87857,True,True,2026-11-03,state-senate,state-senate-district-24,,decided,False,certified
+2026-general,Georgia State Senate,24,Democrat,Lorraine V. Thomas,30753,87857,False,False,2026-11-03,state-senate,state-senate-district-24,,decided,False,certified
+2026-general,Georgia State Senate,25,Republican,Rick A. Williams,57824,57824,True,True,2026-11-03,state-senate,state-senate-district-25-rep,Republican,uncontested,False,certified
+2026-general,Georgia State Senate,26,Democrat,David E. Lucas,40504,59209,True,True,2026-11-03,state-senate,state-senate-district-26,,decided,False,certified
+2026-general,Georgia State Senate,26,Republican,Tracy Wheeler,18705,59209,False,False,2026-11-03,state-senate,state-senate-district-26,,decided,False,certified
+2026-general,Georgia State Senate,27,Republican,Mike Dudgeon,52049,82255,False,True,2026-11-03,state-senate,state-senate-district-27,,decided,False,certified
+2026-general,Georgia State Senate,27,Democrat,Jessica Roper,30206,82255,False,False,2026-11-03,state-senate,state-senate-district-27,,decided,False,certified
+2026-general,Georgia State Senate,28,Democrat,Donzella James,72664,72664,True,True,2026-11-03,state-senate,state-senate-district-28-dem,Democrat,uncontested,False,certified
+2026-general,Georgia State Senate,29,Republican,Randy Robertson,43108,74647,True,True,2026-11-03,state-senate,state-senate-district-29,,decided,False,certified
+2026-general,Georgia State Senate,29,Democrat,Jeff Lowe,31539,74647,False,False,2026-11-03,state-senate,state-senate-district-29,,decided,False,certified
+2026-general,Georgia State Senate,30,Republican,Timothy J. Bearden,41640,74677,True,True,2026-11-03,state-senate,state-senate-district-30,,decided,False,certified
+2026-general,Georgia State Senate,30,Democrat,Wanda Cooper,33037,74677,False,False,2026-11-03,state-senate,state-senate-district-30,,decided,False,certified
+2026-general,Georgia State Senate,31,Republican,Jason R. Anavitarte,44597,79392,True,True,2026-11-03,state-senate,state-senate-district-31,,decided,False,certified
+2026-general,Georgia State Senate,31,Democrat,Alec Miller,34795,79392,False,False,2026-11-03,state-senate,state-senate-district-31,,decided,False,certified
+2026-general,Georgia State Senate,32,Republican,Kay Kirkpatrick,42424,83187,True,True,2026-11-03,state-senate,state-senate-district-32,,decided,False,certified
+2026-general,Georgia State Senate,32,Democrat,Michael Hettig,40763,83187,False,False,2026-11-03,state-senate,state-senate-district-32,,decided,False,certified
+2026-general,Georgia State Senate,33,Democrat,Michael Doc Rhett,57651,57651,True,True,2026-11-03,state-senate,state-senate-district-33-dem,Democrat,uncontested,False,certified
+2026-general,Georgia State Senate,34,Democrat,Kenya Wicks,54864,54864,True,True,2026-11-03,state-senate,state-senate-district-34-dem,Democrat,uncontested,False,certified
+2026-general,Georgia State Senate,35,Democrat,Jaha V. Howard,74072,74072,True,True,2026-11-03,state-senate,state-senate-district-35-dem,Democrat,uncontested,False,certified
+2026-general,Georgia State Senate,36,Democrat,Nan Grogan Orrock,72091,78384,True,True,2026-11-03,state-senate,state-senate-district-36,,decided,False,certified
+2026-general,Georgia State Senate,36,Republican,Katie Corkren,6293,78384,False,False,2026-11-03,state-senate,state-senate-district-36,,decided,False,certified
+2026-general,Georgia State Senate,37,Democrat,Darcy Castro,47653,93885,False,True,2026-11-03,state-senate,state-senate-district-37,,decided,False,certified
+2026-general,Georgia State Senate,37,Republican,Ed Setzler,46232,93885,True,False,2026-11-03,state-senate,state-senate-district-37,,decided,False,certified
+2026-general,Georgia State Senate,38,Democrat,Rashaun Kemp,68348,84317,True,True,2026-11-03,state-senate,state-senate-district-38,,decided,False,certified
+2026-general,Georgia State Senate,38,Republican,Eric Helvy,15969,84317,False,False,2026-11-03,state-senate,state-senate-district-38,,decided,False,certified
+2026-general,Georgia State Senate,39,Democrat,Sonya Halpern,64855,73262,True,True,2026-11-03,state-senate,state-senate-district-39,,decided,False,certified
+2026-general,Georgia State Senate,39,Republican,"John F. Guest, Jr.",8407,73262,False,False,2026-11-03,state-senate,state-senate-district-39,,decided,False,certified
+2026-general,Georgia State Senate,40,Democrat,Sally Harrell,48578,69756,True,True,2026-11-03,state-senate,state-senate-district-40,,decided,False,certified
+2026-general,Georgia State Senate,40,Republican,Melina R. Mast,21178,69756,False,False,2026-11-03,state-senate,state-senate-district-40,,decided,False,certified
+2026-general,Georgia State Senate,41,Democrat,Kim Jackson,58974,67500,True,True,2026-11-03,state-senate,state-senate-district-41,,decided,False,certified
+2026-general,Georgia State Senate,41,Republican,Jeff Newlin,8526,67500,False,False,2026-11-03,state-senate,state-senate-district-41,,decided,False,certified
+2026-general,Georgia State Senate,42,Democrat,"Eric W. Lee, Sr.",45573,87558,False,True,2026-11-03,state-senate,state-senate-district-42,,decided,False,certified
+2026-general,Georgia State Senate,42,Republican,Bret A. Dunn,41985,87558,False,False,2026-11-03,state-senate,state-senate-district-42,,decided,False,certified
+2026-general,Georgia State Senate,43,Democrat,Tonya P. Anderson,72217,72217,True,True,2026-11-03,state-senate,state-senate-district-43-dem,Democrat,uncontested,False,certified
+2026-general,Georgia State Senate,44,Democrat,Saira Draper,81092,87693,False,True,2026-11-03,state-senate,state-senate-district-44,,decided,False,certified
+2026-general,Georgia State Senate,44,Republican,Ngozi Orabueze,6601,87693,False,False,2026-11-03,state-senate,state-senate-district-44,,decided,False,certified
+2026-general,Georgia State Senate,45,Democrat,Scott Tippetts,39546,75470,False,True,2026-11-03,state-senate,state-senate-district-45,,decided,False,certified
+2026-general,Georgia State Senate,45,Republican,Clint Dixon,35924,75470,True,False,2026-11-03,state-senate,state-senate-district-45,,decided,False,certified
+2026-general,Georgia State Senate,46,Republican,Marc McMain,44682,81745,False,True,2026-11-03,state-senate,state-senate-district-46,,decided,False,certified
+2026-general,Georgia State Senate,46,Democrat,Ray Smith,37063,81745,False,False,2026-11-03,state-senate,state-senate-district-46,,decided,False,certified
+2026-general,Georgia State Senate,47,Republican,Frank Ginn,42644,42644,True,True,2026-11-03,state-senate,state-senate-district-47-rep,Republican,uncontested,False,certified
+2026-general,Georgia State Senate,48,Democrat,Laura Murvartian,41049,77629,False,True,2026-11-03,state-senate,state-senate-district-48,,decided,False,certified
+2026-general,Georgia State Senate,48,Republican,Shawn Still,36580,77629,True,False,2026-11-03,state-senate,state-senate-district-48,,decided,False,certified
+2026-general,Georgia State Senate,49,Republican,Drew Echols,50090,75251,True,True,2026-11-03,state-senate,state-senate-district-49,,decided,False,certified
+2026-general,Georgia State Senate,49,Democrat,William Wallace,25161,75251,False,False,2026-11-03,state-senate,state-senate-district-49,,decided,False,certified
+2026-general,Georgia State Senate,50,Republican,Bo Hatchett,57897,73930,True,True,2026-11-03,state-senate,state-senate-district-50,,decided,False,certified
+2026-general,Georgia State Senate,50,Democrat,Dave Cooper,16033,73930,False,False,2026-11-03,state-senate,state-senate-district-50,,decided,False,certified
+2026-general,Georgia State Senate,51,Republican,Will Wade,70190,88763,False,True,2026-11-03,state-senate,state-senate-district-51,,decided,False,certified
+2026-general,Georgia State Senate,51,Democrat,Gary St. Lawrence,18573,88763,False,False,2026-11-03,state-senate,state-senate-district-51,,decided,False,certified
+2026-general,Georgia State Senate,52,Republican,Chuck Hufstetler,55687,55687,True,True,2026-11-03,state-senate,state-senate-district-52-rep,Republican,uncontested,False,certified
+2026-general,Georgia State Senate,53,Republican,Lanny Thomas,45648,61749,True,True,2026-11-03,state-senate,state-senate-district-53,,decided,False,certified
+2026-general,Georgia State Senate,53,Democrat,"John Bentley ""Jack"" Zibluk",16101,61749,False,False,2026-11-03,state-senate,state-senate-district-53,,decided,False,certified
+2026-general,Georgia State Senate,54,Republican,Chuck Payne,45754,45754,True,True,2026-11-03,state-senate,state-senate-district-54-rep,Republican,uncontested,False,certified
+2026-general,Georgia State Senate,55,Democrat,Randal Mangham,66267,79419,True,True,2026-11-03,state-senate,state-senate-district-55,,decided,False,certified
+2026-general,Georgia State Senate,55,Republican,Mary Williams Benefield,13152,79419,False,False,2026-11-03,state-senate,state-senate-district-55,,decided,False,certified
+2026-general,Georgia State Senate,56,Republican,John Albers,52410,97114,True,True,2026-11-03,state-senate,state-senate-district-56,,decided,False,certified
+2026-general,Georgia State Senate,56,Democrat,Patrick Thompson,44704,97114,False,False,2026-11-03,state-senate,state-senate-district-56,,decided,False,certified
+2026-general,Georgia House of Representatives,1,Republican,Mike Cameron,13265,18148,True,True,2026-11-03,state-house,state-house-district-1,,decided,False,certified
+2026-general,Georgia House of Representatives,1,Democrat,"Steven ""Diz"" Disbrow",4883,18148,False,False,2026-11-03,state-house,state-house-district-1,,decided,False,certified
+2026-general,Georgia House of Representatives,2,Republican,Steve Tarvin,16077,21274,True,True,2026-11-03,state-house,state-house-district-2,,decided,False,certified
+2026-general,Georgia House of Representatives,2,Democrat,Whitney Echenique,5197,21274,False,False,2026-11-03,state-house,state-house-district-2,,decided,False,certified
+2026-general,Georgia House of Representatives,3,Republican,Mitchell Horner,14007,20233,True,True,2026-11-03,state-house,state-house-district-3,,decided,False,certified
+2026-general,Georgia House of Representatives,3,Democrat,Margaret Spear,6226,20233,False,False,2026-11-03,state-house,state-house-district-3,,decided,False,certified
+2026-general,Georgia House of Representatives,4,Republican,Kasey Carpenter,7225,13947,True,True,2026-11-03,state-house,state-house-district-4,,decided,False,certified
+2026-general,Georgia House of Representatives,4,Democrat,Quentin Postell,6722,13947,False,False,2026-11-03,state-house,state-house-district-4,,decided,False,certified
+2026-general,Georgia House of Representatives,5,Republican,Matt Barton,14240,19202,True,True,2026-11-03,state-house,state-house-district-5,,decided,False,certified
+2026-general,Georgia House of Representatives,5,Democrat,Rasmus Jensen,4962,19202,False,False,2026-11-03,state-house,state-house-district-5,,decided,False,certified
+2026-general,Georgia House of Representatives,6,Republican,Jason T. Ridley,14311,18444,True,True,2026-11-03,state-house,state-house-district-6,,decided,False,certified
+2026-general,Georgia House of Representatives,6,Democrat,Cathy Kott,4133,18444,False,False,2026-11-03,state-house,state-house-district-6,,decided,False,certified
+2026-general,Georgia House of Representatives,7,Republican,Johnny Chastain,23768,23768,True,True,2026-11-03,state-house,state-house-district-7-rep,Republican,uncontested,False,certified
+2026-general,Georgia House of Representatives,8,Republican,Stan Gunter,25560,31472,True,True,2026-11-03,state-house,state-house-district-8,,decided,False,certified
+2026-general,Georgia House of Representatives,8,Democrat,Nick Mitchell,5912,31472,False,False,2026-11-03,state-house,state-house-district-8,,decided,False,certified
+2026-general,Georgia House of Representatives,9,Republican,Chris Dockery,20483,26288,False,True,2026-11-03,state-house,state-house-district-9,,decided,False,certified
+2026-general,Georgia House of Representatives,9,Democrat,Roger L. Smith,5805,26288,False,False,2026-11-03,state-house,state-house-district-9,,decided,False,certified
+2026-general,Georgia House of Representatives,10,Republican,Victor Anderson,18514,23925,True,True,2026-11-03,state-house,state-house-district-10,,decided,False,certified
+2026-general,Georgia House of Representatives,10,Democrat,John Brown,5411,23925,False,False,2026-11-03,state-house,state-house-district-10,,decided,False,certified
+2026-general,Georgia House of Representatives,11,Republican,Rick Jasperse,21684,28075,True,True,2026-11-03,state-house,state-house-district-11,,decided,False,certified
+2026-general,Georgia House of Representatives,11,Democrat,Ryan Fountain,6391,28075,False,False,2026-11-03,state-house,state-house-district-11,,decided,False,certified
+2026-general,Georgia House of Representatives,12,Republican,Eddie Lumsden,13733,18534,True,True,2026-11-03,state-house,state-house-district-12,,decided,False,certified
+2026-general,Georgia House of Representatives,12,Democrat,Holly Chaney,4801,18534,False,False,2026-11-03,state-house,state-house-district-12,,decided,False,certified
+2026-general,Georgia House of Representatives,13,Republican,Katie Dempsey,11112,18726,True,True,2026-11-03,state-house,state-house-district-13,,decided,False,certified
+2026-general,Georgia House of Representatives,13,Democrat,Vincent Mendes,7614,18726,False,False,2026-11-03,state-house,state-house-district-13,,decided,False,certified
+2026-general,Georgia House of Representatives,14,Republican,Mitchell Scoggins,18938,25014,True,True,2026-11-03,state-house,state-house-district-14,,decided,False,certified
+2026-general,Georgia House of Representatives,14,Democrat,Bella Bautista,6076,25014,False,False,2026-11-03,state-house,state-house-district-14,,decided,False,certified
+2026-general,Georgia House of Representatives,15,Republican,Matthew Gambill,14725,22415,True,True,2026-11-03,state-house,state-house-district-15,,decided,False,certified
+2026-general,Georgia House of Representatives,15,Democrat,Lauren Jones,7690,22415,False,False,2026-11-03,state-house,state-house-district-15,,decided,False,certified
+2026-general,Georgia House of Representatives,16,Republican,Trey Kelley,15438,21601,True,True,2026-11-03,state-house,state-house-district-16,,decided,False,certified
+2026-general,Georgia House of Representatives,16,Democrat,Diana Spangler,6163,21601,False,False,2026-11-03,state-house,state-house-district-16,,decided,False,certified
+2026-general,Georgia House of Representatives,17,Republican,Martin Momtahan,13468,25704,True,True,2026-11-03,state-house,state-house-district-17,,decided,False,certified
+2026-general,Georgia House of Representatives,17,Democrat,Ke'Andra Foggie,12236,25704,False,False,2026-11-03,state-house,state-house-district-17,,decided,False,certified
+2026-general,Georgia House of Representatives,18,Republican,Tyler Paul Smith,19256,23999,True,True,2026-11-03,state-house,state-house-district-18,,decided,False,certified
+2026-general,Georgia House of Representatives,18,Democrat,Pat Rhudy,4743,23999,False,False,2026-11-03,state-house,state-house-district-18,,decided,False,certified
+2026-general,Georgia House of Representatives,19,Democrat,Cynthia Starke-Jones,14904,28690,False,True,2026-11-03,state-house,state-house-district-19,,decided,False,certified
+2026-general,Georgia House of Representatives,19,Republican,Joseph Gullett,13786,28690,True,False,2026-11-03,state-house,state-house-district-19,,decided,False,certified
+2026-general,Georgia House of Representatives,20,Republican,Charlice Byrd,16030,26674,True,True,2026-11-03,state-house,state-house-district-20,,decided,False,certified
+2026-general,Georgia House of Representatives,20,Democrat,Jason D. Tanner,10644,26674,False,False,2026-11-03,state-house,state-house-district-20,,decided,False,certified
+2026-general,Georgia House of Representatives,21,Republican,Brad Thomas,21111,31029,True,True,2026-11-03,state-house,state-house-district-21,,decided,False,certified
+2026-general,Georgia House of Representatives,21,Democrat,Anthony Aragues,9918,31029,False,False,2026-11-03,state-house,state-house-district-21,,decided,False,certified
+2026-general,Georgia House of Representatives,22,Republican,Jordan Ridley,13166,26062,True,True,2026-11-03,state-house,state-house-district-22,,decided,False,certified
+2026-general,Georgia House of Representatives,22,Democrat,James Shade,12896,26062,False,False,2026-11-03,state-house,state-house-district-22,,decided,False,certified
+2026-general,Georgia House of Representatives,23,Republican,Bill Fincher,19002,27110,True,True,2026-11-03,state-house,state-house-district-23,,decided,False,certified
+2026-general,Georgia House of Representatives,23,Democrat,Rob Epstein,8108,27110,False,False,2026-11-03,state-house,state-house-district-23,,decided,False,certified
+2026-general,Georgia House of Representatives,24,Republican,Carter Barrett,14222,24634,True,True,2026-11-03,state-house,state-house-district-24,,decided,False,certified
+2026-general,Georgia House of Representatives,24,Democrat,Maureen Gault,10412,24634,False,False,2026-11-03,state-house,state-house-district-24,,decided,False,certified
+2026-general,Georgia House of Representatives,25,Republican,Todd Jones,12750,24716,True,True,2026-11-03,state-house,state-house-district-25,,decided,False,certified
+2026-general,Georgia House of Representatives,25,Democrat,Elaine Padgett,11966,24716,False,False,2026-11-03,state-house,state-house-district-25,,decided,False,certified
+2026-general,Georgia House of Representatives,26,Republican,Lauren W. McDonald III,15368,24919,True,True,2026-11-03,state-house,state-house-district-26,,decided,False,certified
+2026-general,Georgia House of Representatives,26,Democrat,Meredith Greene,9551,24919,False,False,2026-11-03,state-house,state-house-district-26,,decided,False,certified
+2026-general,Georgia House of Representatives,27,Republican,Lee Hawkins,19741,25189,True,True,2026-11-03,state-house,state-house-district-27,,decided,False,certified
+2026-general,Georgia House of Representatives,27,Democrat,Jay Kirkland,5448,25189,False,False,2026-11-03,state-house,state-house-district-27,,decided,False,certified
+2026-general,Georgia House of Representatives,28,Republican,Brent Cox,18944,26264,True,True,2026-11-03,state-house,state-house-district-28,,decided,False,certified
+2026-general,Georgia House of Representatives,28,Democrat,Mateo Sanabria,7320,26264,False,False,2026-11-03,state-house,state-house-district-28,,decided,False,certified
+2026-general,Georgia House of Representatives,29,Democrat,Scott Soracco,7915,15695,False,True,2026-11-03,state-house,state-house-district-29,,decided,False,certified
+2026-general,Georgia House of Representatives,29,Republican,Matt Dubnik,7780,15695,True,False,2026-11-03,state-house,state-house-district-29,,decided,False,certified
+2026-general,Georgia House of Representatives,30,Republican,Derrick McCollum,17635,27263,True,True,2026-11-03,state-house,state-house-district-30,,decided,False,certified
+2026-general,Georgia House of Representatives,30,Democrat,Braden Michael Doxey,9628,27263,False,False,2026-11-03,state-house,state-house-district-30,,decided,False,certified
+2026-general,Georgia House of Representatives,31,Republican,Chad Bingham,22376,22376,False,True,2026-11-03,state-house,state-house-district-31-rep,Republican,uncontested,False,certified
+2026-general,Georgia House of Representatives,32,Republican,Chris Erwin,16803,21276,True,True,2026-11-03,state-house,state-house-district-32,,decided,False,certified
+2026-general,Georgia House of Representatives,32,Democrat,Rebecca Sims,4473,21276,False,False,2026-11-03,state-house,state-house-district-32,,decided,False,certified
+2026-general,Georgia House of Representatives,33,Republican,Alan Powell,20814,20814,True,True,2026-11-03,state-house,state-house-district-33-rep,Republican,uncontested,False,certified
+2026-general,Georgia House of Representatives,34,Republican,Devan Seabaugh,16395,31963,True,True,2026-11-03,state-house,state-house-district-34,,decided,False,certified
+2026-general,Georgia House of Representatives,34,Democrat,Titus Nichols,15568,31963,False,False,2026-11-03,state-house,state-house-district-34,,decided,False,certified
+2026-general,Georgia House of Representatives,35,Democrat,Lisa Gayle Campbell,15416,21668,True,True,2026-11-03,state-house,state-house-district-35,,decided,False,certified
+2026-general,Georgia House of Representatives,35,Republican,Elvis Casely,6252,21668,False,False,2026-11-03,state-house,state-house-district-35,,decided,False,certified
+2026-general,Georgia House of Representatives,36,Republican,Ginny Ehrhart,16353,29624,True,True,2026-11-03,state-house,state-house-district-36,,decided,False,certified
+2026-general,Georgia House of Representatives,36,Democrat,"Luc ""Luke"" Noiset",13271,29624,False,False,2026-11-03,state-house,state-house-district-36,,decided,False,certified
+2026-general,Georgia House of Representatives,37,Democrat,Mary Frances Williams,15784,15784,True,True,2026-11-03,state-house,state-house-district-37-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,38,Democrat,David Wilkerson,22678,22678,True,True,2026-11-03,state-house,state-house-district-38-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,39,Democrat,Terry Cummings,19717,19717,True,True,2026-11-03,state-house,state-house-district-39-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,40,Democrat,Elisa Lassiter,12985,25461,False,True,2026-11-03,state-house,state-house-district-40,,decided,False,certified
+2026-general,Georgia House of Representatives,40,Republican,Kimberly R. New,12476,25461,True,False,2026-11-03,state-house,state-house-district-40,,decided,False,certified
+2026-general,Georgia House of Representatives,41,Democrat,Michael Smith,16571,16571,True,True,2026-11-03,state-house,state-house-district-41-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,42,Democrat,Gabriel Sanchez,16612,22384,True,True,2026-11-03,state-house,state-house-district-42,,decided,False,certified
+2026-general,Georgia House of Representatives,42,Republican,André Stafford,5772,22384,False,False,2026-11-03,state-house,state-house-district-42,,decided,False,certified
+2026-general,Georgia House of Representatives,43,Democrat,Solomon Adesanya,17282,17282,True,True,2026-11-03,state-house,state-house-district-43-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,44,Democrat,Danielle Bell,14543,27958,False,True,2026-11-03,state-house,state-house-district-44,,decided,False,certified
+2026-general,Georgia House of Representatives,44,Republican,Don L. Parsons,13415,27958,True,False,2026-11-03,state-house,state-house-district-44,,decided,False,certified
+2026-general,Georgia House of Representatives,45,Republican,Sharon Cooper,16417,31711,True,True,2026-11-03,state-house,state-house-district-45,,decided,False,certified
+2026-general,Georgia House of Representatives,45,Democrat,Michelle Schreiner,15294,31711,False,False,2026-11-03,state-house,state-house-district-45,,decided,False,certified
+2026-general,Georgia House of Representatives,46,Republican,John Carson,16022,30998,True,True,2026-11-03,state-house,state-house-district-46,,decided,False,certified
+2026-general,Georgia House of Representatives,46,Democrat,Dumont J. Walker,14976,30998,False,False,2026-11-03,state-house,state-house-district-46,,decided,False,certified
+2026-general,Georgia House of Representatives,47,Republican,Jack Miller,13678,25401,False,True,2026-11-03,state-house,state-house-district-47,,decided,False,certified
+2026-general,Georgia House of Representatives,47,Democrat,Lindsay Defranco,11723,25401,False,False,2026-11-03,state-house,state-house-district-47,,decided,False,certified
+2026-general,Georgia House of Representatives,48,Democrat,Adam Cleveland,14086,27722,False,True,2026-11-03,state-house,state-house-district-48,,decided,False,certified
+2026-general,Georgia House of Representatives,48,Republican,Scott Hilton,13636,27722,True,False,2026-11-03,state-house,state-house-district-48,,decided,False,certified
+2026-general,Georgia House of Representatives,49,Republican,"Charles E. ""Chuck"" Martin",15876,30410,True,True,2026-11-03,state-house,state-house-district-49,,decided,False,certified
+2026-general,Georgia House of Representatives,49,Democrat,Sara Fuchs,14534,30410,False,False,2026-11-03,state-house,state-house-district-49,,decided,False,certified
+2026-general,Georgia House of Representatives,50,Democrat,Michelle Au,15058,23530,True,True,2026-11-03,state-house,state-house-district-50,,decided,False,certified
+2026-general,Georgia House of Representatives,50,Republican,Azure Duan,8472,23530,False,False,2026-11-03,state-house,state-house-district-50,,decided,False,certified
+2026-general,Georgia House of Representatives,51,Democrat,Esther Panitch,15513,24092,True,True,2026-11-03,state-house,state-house-district-51,,decided,False,certified
+2026-general,Georgia House of Representatives,51,Republican,Keith Gettmann,8579,24092,False,False,2026-11-03,state-house,state-house-district-51,,decided,False,certified
+2026-general,Georgia House of Representatives,52,Democrat,Shea Roberts,20825,20825,True,True,2026-11-03,state-house,state-house-district-52-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,53,Democrat,Beth Fuller,15121,29524,False,True,2026-11-03,state-house,state-house-district-53,,decided,False,certified
+2026-general,Georgia House of Representatives,53,Republican,Deborah Silcox,14403,29524,True,False,2026-11-03,state-house,state-house-district-53,,decided,False,certified
+2026-general,Georgia House of Representatives,54,Democrat,Betsy Holland,16714,25283,True,True,2026-11-03,state-house,state-house-district-54,,decided,False,certified
+2026-general,Georgia House of Representatives,54,Republican,Greg Miller,8569,25283,False,False,2026-11-03,state-house,state-house-district-54,,decided,False,certified
+2026-general,Georgia House of Representatives,55,Democrat,Inga S. Willis,20188,24238,True,True,2026-11-03,state-house,state-house-district-55,,decided,False,certified
+2026-general,Georgia House of Representatives,55,Republican,Samuel S. Lenaeus,4050,24238,False,False,2026-11-03,state-house,state-house-district-55,,decided,False,certified
+2026-general,Georgia House of Representatives,56,Democrat,Bryce Berry,18485,18485,True,True,2026-11-03,state-house,state-house-district-56-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,57,Democrat,Stacey Evans,23706,28144,True,True,2026-11-03,state-house,state-house-district-57,,decided,False,certified
+2026-general,Georgia House of Representatives,57,Republican,Helmut Lucero Love,4438,28144,False,False,2026-11-03,state-house,state-house-district-57,,decided,False,certified
+2026-general,Georgia House of Representatives,58,Democrat,Mathewos Samson,22038,23928,False,True,2026-11-03,state-house,state-house-district-58,,decided,False,certified
+2026-general,Georgia House of Representatives,58,Republican,Torrey Balam,1890,23928,False,False,2026-11-03,state-house,state-house-district-58,,decided,False,certified
+2026-general,Georgia House of Representatives,59,Democrat,Phil A. Olaleye,21607,22738,True,True,2026-11-03,state-house,state-house-district-59,,decided,False,certified
+2026-general,Georgia House of Representatives,59,Republican,"Devanta ""Sully"" Sullivan",1131,22738,False,False,2026-11-03,state-house,state-house-district-59,,decided,False,certified
+2026-general,Georgia House of Representatives,60,Democrat,Sheila Jones,22740,22740,True,True,2026-11-03,state-house,state-house-district-60-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,61,Democrat,Mekyah McQueen,24732,29785,True,True,2026-11-03,state-house,state-house-district-61,,decided,False,certified
+2026-general,Georgia House of Representatives,61,Republican,Damita Bishop,5053,29785,False,False,2026-11-03,state-house,state-house-district-61,,decided,False,certified
+2026-general,Georgia House of Representatives,62,Democrat,Kenn Collier,23019,23019,False,True,2026-11-03,state-house,state-house-district-62-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,63,Democrat,Kim Schofield,20609,20609,True,True,2026-11-03,state-house,state-house-district-63-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,64,Democrat,Sylvia Wayfer Baker,20953,26666,True,True,2026-11-03,state-house,state-house-district-64,,decided,False,certified
+2026-general,Georgia House of Representatives,64,Republican,Lydia Parchue,5713,26666,False,False,2026-11-03,state-house,state-house-district-64,,decided,False,certified
+2026-general,Georgia House of Representatives,65,Democrat,Robert Dawson,26379,32455,True,True,2026-11-03,state-house,state-house-district-65,,decided,False,certified
+2026-general,Georgia House of Representatives,65,Republican,"Gordon W. Rolle, Jr.",6076,32455,False,False,2026-11-03,state-house,state-house-district-65,,decided,False,certified
+2026-general,Georgia House of Representatives,66,Democrat,Kimberly Alexander,18602,18602,True,True,2026-11-03,state-house,state-house-district-66-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,67,Democrat,Lydia Glaize,19396,26041,True,True,2026-11-03,state-house,state-house-district-67,,decided,False,certified
+2026-general,Georgia House of Representatives,67,Republican,Daniel Cook,6645,26041,False,False,2026-11-03,state-house,state-house-district-67,,decided,False,certified
+2026-general,Georgia House of Representatives,68,Democrat,Timoria McQueen Saba,21358,21358,False,True,2026-11-03,state-house,state-house-district-68-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,69,Democrat,Debra Bazemore,24665,24665,True,True,2026-11-03,state-house,state-house-district-69-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,70,Republican,Melissa Stuckey,11615,21930,False,True,2026-11-03,state-house,state-house-district-70,,decided,False,certified
+2026-general,Georgia House of Representatives,70,Democrat,Pierre Whatley,10315,21930,False,False,2026-11-03,state-house,state-house-district-70,,decided,False,certified
+2026-general,Georgia House of Representatives,71,Republican,"Justin ""Jutt"" Howard",13097,22845,True,True,2026-11-03,state-house,state-house-district-71,,decided,False,certified
+2026-general,Georgia House of Representatives,71,Democrat,Brandolynn Yarbrough,9748,22845,False,False,2026-11-03,state-house,state-house-district-71,,decided,False,certified
+2026-general,Georgia House of Representatives,72,Republican,David Huddleston,17727,17727,True,True,2026-11-03,state-house,state-house-district-72-rep,Republican,uncontested,False,certified
+2026-general,Georgia House of Representatives,73,Republican,Josh Bonner,18136,30396,True,True,2026-11-03,state-house,state-house-district-73,,decided,False,certified
+2026-general,Georgia House of Representatives,73,Democrat,Tim Wilkinson,12260,30396,False,False,2026-11-03,state-house,state-house-district-73,,decided,False,certified
+2026-general,Georgia House of Representatives,74,Democrat,"Robert Flournoy, Jr.",22750,22750,True,True,2026-11-03,state-house,state-house-district-74-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,75,Democrat,Eric W. Bell II,18564,18564,True,True,2026-11-03,state-house,state-house-district-75-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,76,Democrat,Sandra G. Scott,18253,18253,True,True,2026-11-03,state-house,state-house-district-76-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,77,Democrat,Rhonda Burnough,16142,16142,True,True,2026-11-03,state-house,state-house-district-77-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,78,Democrat,Demetrius Douglas,23150,23150,True,True,2026-11-03,state-house,state-house-district-78-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,79,Democrat,Yasmin Neal,13251,14564,True,True,2026-11-03,state-house,state-house-district-79,,decided,False,certified
+2026-general,Georgia House of Representatives,79,Republican,David Hamrick,1313,14564,False,False,2026-11-03,state-house,state-house-district-79,,decided,False,certified
+2026-general,Georgia House of Representatives,80,Democrat,Long Tran,15042,22737,True,True,2026-11-03,state-house,state-house-district-80,,decided,False,certified
+2026-general,Georgia House of Representatives,80,Republican,Brian Anderson,7695,22737,False,False,2026-11-03,state-house,state-house-district-80,,decided,False,certified
+2026-general,Georgia House of Representatives,81,Democrat,Mishael White,14771,27464,False,True,2026-11-03,state-house,state-house-district-81,,decided,False,certified
+2026-general,Georgia House of Representatives,81,Republican,Noelle Kahaian,12693,27464,True,False,2026-11-03,state-house,state-house-district-81,,decided,False,certified
+2026-general,Georgia House of Representatives,82,Republican,Karen I. Mathiak,15294,27317,True,True,2026-11-03,state-house,state-house-district-82,,decided,False,certified
+2026-general,Georgia House of Representatives,82,Democrat,Anthony Dickson,12023,27317,False,False,2026-11-03,state-house,state-house-district-82,,decided,False,certified
+2026-general,Georgia House of Representatives,83,Democrat,Karen Lupton,14200,19775,True,True,2026-11-03,state-house,state-house-district-83,,decided,False,certified
+2026-general,Georgia House of Representatives,83,Republican,"James ""Trip"" Smith",5575,19775,False,False,2026-11-03,state-house,state-house-district-83,,decided,False,certified
+2026-general,Georgia House of Representatives,84,Democrat,Mary Margaret Oliver,26622,26622,True,True,2026-11-03,state-house,state-house-district-84-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,85,Democrat,Karla L. Drenner,20216,22355,True,True,2026-11-03,state-house,state-house-district-85,,decided,False,certified
+2026-general,Georgia House of Representatives,85,Republican,Tyion Fields,2139,22355,False,False,2026-11-03,state-house,state-house-district-85,,decided,False,certified
+2026-general,Georgia House of Representatives,86,Democrat,Imani Barnes,20155,20155,True,True,2026-11-03,state-house,state-house-district-86-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,87,Democrat,Viola Davis,19322,23232,True,True,2026-11-03,state-house,state-house-district-87,,decided,False,certified
+2026-general,Georgia House of Representatives,87,Republican,Timothy J. Burson,3910,23232,False,False,2026-11-03,state-house,state-house-district-87,,decided,False,certified
+2026-general,Georgia House of Representatives,88,Democrat,Billy Mitchell,19488,22568,True,True,2026-11-03,state-house,state-house-district-88,,decided,False,certified
+2026-general,Georgia House of Representatives,88,Republican,William Park Freeman,3080,22568,False,False,2026-11-03,state-house,state-house-district-88,,decided,False,certified
+2026-general,Georgia House of Representatives,89,Democrat,Omari Crawford,27601,27601,True,True,2026-11-03,state-house,state-house-district-89-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,90,Democrat,Bentley Hudgins,27942,30222,False,True,2026-11-03,state-house,state-house-district-90,,decided,False,certified
+2026-general,Georgia House of Representatives,90,Republican,Samantha Boston,2280,30222,False,False,2026-11-03,state-house,state-house-district-90,,decided,False,certified
+2026-general,Georgia House of Representatives,91,Democrat,Angela Moore,22765,22765,True,True,2026-11-03,state-house,state-house-district-91-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,92,Democrat,Rhonda Taylor,22549,22549,True,True,2026-11-03,state-house,state-house-district-92-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,93,Democrat,Doreen Carter,20584,20584,True,True,2026-11-03,state-house,state-house-district-93-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,94,Democrat,Venola Mason,23274,23274,True,True,2026-11-03,state-house,state-house-district-94-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,95,Democrat,Darshun Nicole Kendrick,20748,23827,True,True,2026-11-03,state-house,state-house-district-95,,decided,False,certified
+2026-general,Georgia House of Representatives,95,Republican,Reggie Hall,3079,23827,False,False,2026-11-03,state-house,state-house-district-95,,decided,False,certified
+2026-general,Georgia House of Representatives,96,Democrat,Arlene Beckles,12167,12167,True,True,2026-11-03,state-house,state-house-district-96-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,97,Democrat,Jyot Singh,13828,20340,False,True,2026-11-03,state-house,state-house-district-97,,decided,False,certified
+2026-general,Georgia House of Representatives,97,Republican,Yassin Moghazy,6512,20340,False,False,2026-11-03,state-house,state-house-district-97,,decided,False,certified
+2026-general,Georgia House of Representatives,98,Democrat,Marvin Lim,8176,8176,True,True,2026-11-03,state-house,state-house-district-98-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,99,Democrat,Michelle Kang,13703,23442,False,True,2026-11-03,state-house,state-house-district-99,,decided,False,certified
+2026-general,Georgia House of Representatives,99,Republican,Matt Reeves,9739,23442,True,False,2026-11-03,state-house,state-house-district-99,,decided,False,certified
+2026-general,Georgia House of Representatives,100,Republican,Josh Clark,12990,24764,False,True,2026-11-03,state-house,state-house-district-100,,decided,False,certified
+2026-general,Georgia House of Representatives,100,Democrat,Jennifer Ambler,11774,24764,False,False,2026-11-03,state-house,state-house-district-100,,decided,False,certified
+2026-general,Georgia House of Representatives,101,Democrat,Scott Holcomb,18022,22942,True,True,2026-11-03,state-house,state-house-district-101,,decided,False,certified
+2026-general,Georgia House of Representatives,101,Republican,Jennifer Hutchison,4920,22942,False,False,2026-11-03,state-house,state-house-district-101,,decided,False,certified
+2026-general,Georgia House of Representatives,102,Democrat,Gabe Okoye,16649,16649,True,True,2026-11-03,state-house,state-house-district-102-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,103,Democrat,Chris Luchey,12016,23997,False,True,2026-11-03,state-house,state-house-district-103,,decided,False,certified
+2026-general,Georgia House of Representatives,103,Republican,Soo Hong,11981,23997,True,False,2026-11-03,state-house,state-house-district-103,,decided,False,certified
+2026-general,Georgia House of Representatives,104,Republican,Chuck Efstration,17893,17893,True,True,2026-11-03,state-house,state-house-district-104-rep,Republican,uncontested,False,certified
+2026-general,Georgia House of Representatives,105,Democrat,Farooq Mughal,15250,25104,False,True,2026-11-03,state-house,state-house-district-105,,decided,False,certified
+2026-general,Georgia House of Representatives,105,Republican,Sandy Donatucci,9854,25104,True,False,2026-11-03,state-house,state-house-district-105,,decided,False,certified
+2026-general,Georgia House of Representatives,106,Democrat,Akbar Ali,16635,16635,True,True,2026-11-03,state-house,state-house-district-106-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,107,Democrat,Sam Park,14794,20853,True,True,2026-11-03,state-house,state-house-district-107,,decided,False,certified
+2026-general,Georgia House of Representatives,107,Republican,Murray R. Berkowitz,6059,20853,False,False,2026-11-03,state-house,state-house-district-107,,decided,False,certified
+2026-general,Georgia House of Representatives,108,Democrat,Rahim Asani,15147,24136,False,True,2026-11-03,state-house,state-house-district-108,,decided,False,certified
+2026-general,Georgia House of Representatives,108,Republican,Elvia Davila,8989,24136,False,False,2026-11-03,state-house,state-house-district-108,,decided,False,certified
+2026-general,Georgia House of Representatives,109,Democrat,Juan Estrada,10666,10666,False,True,2026-11-03,state-house,state-house-district-109-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,110,Democrat,Segun Adeyina,21703,28696,True,True,2026-11-03,state-house,state-house-district-110,,decided,False,certified
+2026-general,Georgia House of Representatives,110,Republican,Charles Lollar,6993,28696,False,False,2026-11-03,state-house,state-house-district-110,,decided,False,certified
+2026-general,Georgia House of Representatives,111,Republican,"Reynaldo ""Rey"" Martinez",14175,27817,True,True,2026-11-03,state-house,state-house-district-111,,decided,False,certified
+2026-general,Georgia House of Representatives,111,Democrat,Scott T. Jackson,13642,27817,False,False,2026-11-03,state-house,state-house-district-111,,decided,False,certified
+2026-general,Georgia House of Representatives,112,Republican,Bruce Williamson,16883,26442,True,True,2026-11-03,state-house,state-house-district-112,,decided,False,certified
+2026-general,Georgia House of Representatives,112,Democrat,Lisa Maria,9559,26442,False,False,2026-11-03,state-house,state-house-district-112,,decided,False,certified
+2026-general,Georgia House of Representatives,113,Democrat,Karla Daniels Hooper,19455,24174,False,True,2026-11-03,state-house,state-house-district-113,,decided,False,certified
+2026-general,Georgia House of Representatives,113,Republican,Don Scarbrough,4719,24174,False,False,2026-11-03,state-house,state-house-district-113,,decided,False,certified
+2026-general,Georgia House of Representatives,114,Republican,Brett Mauldin,18695,28896,False,True,2026-11-03,state-house,state-house-district-114,,decided,False,certified
+2026-general,Georgia House of Representatives,114,Democrat,Michael Caw,10201,28896,False,False,2026-11-03,state-house,state-house-district-114,,decided,False,certified
+2026-general,Georgia House of Representatives,115,Democrat,Regina Lewis-Ward,27112,30743,True,True,2026-11-03,state-house,state-house-district-115,,decided,False,certified
+2026-general,Georgia House of Representatives,115,Republican,Darius L. Francis,3631,30743,False,False,2026-11-03,state-house,state-house-district-115,,decided,False,certified
+2026-general,Georgia House of Representatives,116,Democrat,El-Mahdi Holly,22692,25947,True,True,2026-11-03,state-house,state-house-district-116,,decided,False,certified
+2026-general,Georgia House of Representatives,116,Republican,Samie Lee Conyers,3255,25947,False,False,2026-11-03,state-house,state-house-district-116,,decided,False,certified
+2026-general,Georgia House of Representatives,117,Democrat,Kim Thomas Smith,22822,22822,False,True,2026-11-03,state-house,state-house-district-117-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,118,Republican,Clint Crowe,14676,24905,True,True,2026-11-03,state-house,state-house-district-118,,decided,False,certified
+2026-general,Georgia House of Representatives,118,Democrat,Sharonda Bell,10229,24905,False,False,2026-11-03,state-house,state-house-district-118,,decided,False,certified
+2026-general,Georgia House of Representatives,119,Republican,Holt Persinger,14890,23751,True,True,2026-11-03,state-house,state-house-district-119,,decided,False,certified
+2026-general,Georgia House of Representatives,119,Democrat,Catherine Morris,8861,23751,False,False,2026-11-03,state-house,state-house-district-119,,decided,False,certified
+2026-general,Georgia House of Representatives,120,Republican,"Gary ""Ward"" Black, Jr.",13067,25178,False,True,2026-11-03,state-house,state-house-district-120,,decided,False,certified
+2026-general,Georgia House of Representatives,120,Democrat,Suzanna Karatassos,12111,25178,False,False,2026-11-03,state-house,state-house-district-120,,decided,False,certified
+2026-general,Georgia House of Representatives,121,Republican,"Mack ""Dutch"" Guest IV",14125,26930,False,True,2026-11-03,state-house,state-house-district-121,,decided,False,certified
+2026-general,Georgia House of Representatives,121,Democrat,Eric Gisler,12805,26930,True,False,2026-11-03,state-house,state-house-district-121,,decided,False,certified
+2026-general,Georgia House of Representatives,122,Democrat,Spencer Frye,13571,16094,True,True,2026-11-03,state-house,state-house-district-122,,decided,False,certified
+2026-general,Georgia House of Representatives,122,Republican,Carol Hubbard,2523,16094,False,False,2026-11-03,state-house,state-house-district-122,,decided,False,certified
+2026-general,Georgia House of Representatives,123,Republican,Rob Leverett,16198,24448,True,True,2026-11-03,state-house,state-house-district-123,,decided,False,certified
+2026-general,Georgia House of Representatives,123,Democrat,Hope S. Beard,8250,24448,False,False,2026-11-03,state-house,state-house-district-123,,decided,False,certified
+2026-general,Georgia House of Representatives,124,Republican,Trey Rhodes,17780,29591,True,True,2026-11-03,state-house,state-house-district-124,,decided,False,certified
+2026-general,Georgia House of Representatives,124,Democrat,Melanie Michele Miller,11811,29591,False,False,2026-11-03,state-house,state-house-district-124,,decided,False,certified
+2026-general,Georgia House of Representatives,125,Republican,Gary Richardson,14166,25513,True,True,2026-11-03,state-house,state-house-district-125,,decided,False,certified
+2026-general,Georgia House of Representatives,125,Democrat,Leonard Hennessy,11347,25513,False,False,2026-11-03,state-house,state-house-district-125,,decided,False,certified
+2026-general,Georgia House of Representatives,126,Democrat,L.C. Myles Jr.,14502,21976,True,True,2026-11-03,state-house,state-house-district-126,,decided,False,certified
+2026-general,Georgia House of Representatives,126,Republican,William C. Harris,7474,21976,False,False,2026-11-03,state-house,state-house-district-126,,decided,False,certified
+2026-general,Georgia House of Representatives,127,Republican,Mark Newton,14780,24296,True,True,2026-11-03,state-house,state-house-district-127,,decided,False,certified
+2026-general,Georgia House of Representatives,127,Democrat,Channing Von-T Taylor,9516,24296,False,False,2026-11-03,state-house,state-house-district-127,,decided,False,certified
+2026-general,Georgia House of Representatives,128,Republican,Trey Sheppard,11789,23221,False,True,2026-11-03,state-house,state-house-district-128,,decided,False,certified
+2026-general,Georgia House of Representatives,128,Democrat,Tyrone A. Evans,11432,23221,False,False,2026-11-03,state-house,state-house-district-128,,decided,False,certified
+2026-general,Georgia House of Representatives,129,Democrat,Karlton L. Howard,13730,13730,True,True,2026-11-03,state-house,state-house-district-129-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,130,Democrat,Sheila Clark Nelson,13407,17935,True,True,2026-11-03,state-house,state-house-district-130,,decided,False,certified
+2026-general,Georgia House of Representatives,130,Republican,David Carson,4528,17935,False,False,2026-11-03,state-house,state-house-district-130,,decided,False,certified
+2026-general,Georgia House of Representatives,131,Republican,Rob Clifton,15148,26089,True,True,2026-11-03,state-house,state-house-district-131,,decided,False,certified
+2026-general,Georgia House of Representatives,131,Democrat,Jenny E. Eppard,10941,26089,False,False,2026-11-03,state-house,state-house-district-131,,decided,False,certified
+2026-general,Georgia House of Representatives,132,Democrat,Brian L. Prince,16657,16657,True,True,2026-11-03,state-house,state-house-district-132-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,133,Republican,Danny Mathis,16066,16066,True,True,2026-11-03,state-house,state-house-district-133-rep,Republican,uncontested,False,certified
+2026-general,Georgia House of Representatives,134,Republican,Robert Dickey,17630,17630,True,True,2026-11-03,state-house,state-house-district-134-rep,Republican,uncontested,False,certified
+2026-general,Georgia House of Representatives,135,Republican,Beth Camp,20487,20487,True,True,2026-11-03,state-house,state-house-district-135-rep,Republican,uncontested,False,certified
+2026-general,Georgia House of Representatives,136,Republican,David Jenkins,20300,20300,True,True,2026-11-03,state-house,state-house-district-136-rep,Republican,uncontested,False,certified
+2026-general,Georgia House of Representatives,137,Democrat,Debbie G. Buckner,17292,17292,True,True,2026-11-03,state-house,state-house-district-137-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,138,Republican,Vance Smith,17205,25464,True,True,2026-11-03,state-house,state-house-district-138,,decided,False,certified
+2026-general,Georgia House of Representatives,138,Democrat,Cyndie Hutchings,8259,25464,False,False,2026-11-03,state-house,state-house-district-138,,decided,False,certified
+2026-general,Georgia House of Representatives,139,Republican,Carmen Rice,12734,22839,True,True,2026-11-03,state-house,state-house-district-139,,decided,False,certified
+2026-general,Georgia House of Representatives,139,Democrat,Elliot Valdez,10105,22839,False,False,2026-11-03,state-house,state-house-district-139,,decided,False,certified
+2026-general,Georgia House of Representatives,140,Democrat,"Marquese ""Skinny"" Averett",9088,11245,False,True,2026-11-03,state-house,state-house-district-140,,decided,False,certified
+2026-general,Georgia House of Representatives,140,Republican,Edward Kvietkus,2157,11245,False,False,2026-11-03,state-house,state-house-district-140,,decided,False,certified
+2026-general,Georgia House of Representatives,141,Democrat,Carolyn F. Hugley,13486,17110,True,True,2026-11-03,state-house,state-house-district-141,,decided,False,certified
+2026-general,Georgia House of Representatives,141,Republican,Reggie Liparoto,3624,17110,False,False,2026-11-03,state-house,state-house-district-141,,decided,False,certified
+2026-general,Georgia House of Representatives,142,Democrat,Miriam Paris,14266,21757,True,True,2026-11-03,state-house,state-house-district-142,,decided,False,certified
+2026-general,Georgia House of Representatives,142,Republican,Calvin Palmer,7491,21757,False,False,2026-11-03,state-house,state-house-district-142,,decided,False,certified
+2026-general,Georgia House of Representatives,143,Democrat,Anissa M. Jones,14150,14150,True,True,2026-11-03,state-house,state-house-district-143-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,144,Republican,Dale Washburn,22159,22159,True,True,2026-11-03,state-house,state-house-district-144-rep,Republican,uncontested,False,certified
+2026-general,Georgia House of Representatives,145,Democrat,Tangie Herring,12721,22185,True,True,2026-11-03,state-house,state-house-district-145,,decided,False,certified
+2026-general,Georgia House of Representatives,145,Republican,Eric S. Wilson,9464,22185,False,False,2026-11-03,state-house,state-house-district-145,,decided,False,certified
+2026-general,Georgia House of Representatives,146,Republican,Shaw Blackmon,20523,20523,True,True,2026-11-03,state-house,state-house-district-146-rep,Republican,uncontested,False,certified
+2026-general,Georgia House of Representatives,147,Democrat,Renita A Duncan,12094,23090,False,True,2026-11-03,state-house,state-house-district-147,,decided,False,certified
+2026-general,Georgia House of Representatives,147,Republican,Bethany Ballard,10996,23090,True,False,2026-11-03,state-house,state-house-district-147,,decided,False,certified
+2026-general,Georgia House of Representatives,148,Republican,Noel W. Williams Jr.,13877,21071,True,True,2026-11-03,state-house,state-house-district-148,,decided,False,certified
+2026-general,Georgia House of Representatives,148,Democrat,Cynthia Johnson,7194,21071,False,False,2026-11-03,state-house,state-house-district-148,,decided,False,certified
+2026-general,Georgia House of Representatives,149,Democrat,Floyd Griffin,11547,19100,True,True,2026-11-03,state-house,state-house-district-149,,decided,False,certified
+2026-general,Georgia House of Representatives,149,Republican,Randy Peters,7553,19100,False,False,2026-11-03,state-house,state-house-district-149,,decided,False,certified
+2026-general,Georgia House of Representatives,150,Democrat,Patty Bentley Stinson,10578,18252,True,True,2026-11-03,state-house,state-house-district-150,,decided,False,certified
+2026-general,Georgia House of Representatives,150,Republican,Cary Moore,7674,18252,False,False,2026-11-03,state-house,state-house-district-150,,decided,False,certified
+2026-general,Georgia House of Representatives,151,Republican,Mike Cheokas,9403,19637,True,False,2026-11-03,state-house,state-house-district-151,,runoff,True,certified
+2026-general,Georgia House of Representatives,151,Democrat,Ethan Wolfe,8022,19637,False,False,2026-11-03,state-house,state-house-district-151,,runoff,True,certified
+2026-general,Georgia House of Representatives,151,Independent,Travis Lockhart,2212,19637,False,False,2026-11-03,state-house,state-house-district-151,,runoff,False,certified
+2026-general,Georgia House of Representatives,152,Republican,"William J. ""Bill"" Yearta",14528,22177,True,True,2026-11-03,state-house,state-house-district-152,,decided,False,certified
+2026-general,Georgia House of Representatives,152,Democrat,Mitchell Rosa,7649,22177,False,False,2026-11-03,state-house,state-house-district-152,,decided,False,certified
+2026-general,Georgia House of Representatives,153,Democrat,David Lee Sampson,14616,14616,True,True,2026-11-03,state-house,state-house-district-153-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,154,Republican,Gerald E. Greene,10195,20139,True,True,2026-11-03,state-house,state-house-district-154,,decided,False,certified
+2026-general,Georgia House of Representatives,154,Democrat,Harry James,9944,20139,False,False,2026-11-03,state-house,state-house-district-154,,decided,False,certified
+2026-general,Georgia House of Representatives,155,Republican,Matt Hatchett,13824,21091,True,True,2026-11-03,state-house,state-house-district-155,,decided,False,certified
+2026-general,Georgia House of Representatives,155,Democrat,Joe Powers,7267,21091,False,False,2026-11-03,state-house,state-house-district-155,,decided,False,certified
+2026-general,Georgia House of Representatives,156,Republican,Leesa Hagan,14110,14110,True,True,2026-11-03,state-house,state-house-district-156-rep,Republican,uncontested,False,certified
+2026-general,Georgia House of Representatives,157,Republican,Bradley B. Anderson,12640,17153,False,True,2026-11-03,state-house,state-house-district-157,,decided,False,certified
+2026-general,Georgia House of Representatives,157,Democrat,Micah King,4513,17153,False,False,2026-11-03,state-house,state-house-district-157,,decided,False,certified
+2026-general,Georgia House of Representatives,158,Republican,Butch Parrish,15706,15706,True,True,2026-11-03,state-house,state-house-district-158-rep,Republican,uncontested,False,certified
+2026-general,Georgia House of Representatives,159,Republican,Jon G. Burns,17561,17561,True,True,2026-11-03,state-house,state-house-district-159-rep,Republican,uncontested,False,certified
+2026-general,Georgia House of Representatives,160,Republican,Lehman Franklin,13487,13487,True,True,2026-11-03,state-house,state-house-district-160-rep,Republican,uncontested,False,certified
+2026-general,Georgia House of Representatives,161,Democrat,David Dillie,11488,22158,False,True,2026-11-03,state-house,state-house-district-161,,decided,False,certified
+2026-general,Georgia House of Representatives,161,Republican,Bill Hitchens,10670,22158,True,False,2026-11-03,state-house,state-house-district-161,,decided,False,certified
+2026-general,Georgia House of Representatives,162,Democrat,Orlando Scott,16231,16231,False,True,2026-11-03,state-house,state-house-district-162-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,163,Democrat,Anne Allen Westbrook,17297,17297,True,True,2026-11-03,state-house,state-house-district-163-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,164,Democrat,Stephanie O Burgess,12461,23704,False,True,2026-11-03,state-house,state-house-district-164,,decided,False,certified
+2026-general,Georgia House of Representatives,164,Republican,Ron Stephens,11243,23704,True,False,2026-11-03,state-house,state-house-district-164,,decided,False,certified
+2026-general,Georgia House of Representatives,165,Democrat,MiQuan Green,17610,17610,False,True,2026-11-03,state-house,state-house-district-165-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,166,Republican,Jesse Petrea,20998,32557,True,True,2026-11-03,state-house,state-house-district-166,,decided,False,certified
+2026-general,Georgia House of Representatives,166,Democrat,Pat Daley,11559,32557,False,False,2026-11-03,state-house,state-house-district-166,,decided,False,certified
+2026-general,Georgia House of Representatives,167,Republican,Buddy DeLoach,13265,21396,True,True,2026-11-03,state-house,state-house-district-167,,decided,False,certified
+2026-general,Georgia House of Representatives,167,Democrat,"Nathaniel Hicks, Jr.",8131,21396,False,False,2026-11-03,state-house,state-house-district-167,,decided,False,certified
+2026-general,Georgia House of Representatives,168,Democrat,Al Williams,11452,16735,True,True,2026-11-03,state-house,state-house-district-168,,decided,False,certified
+2026-general,Georgia House of Representatives,168,Republican,Kevin Remillard,5283,16735,False,False,2026-11-03,state-house,state-house-district-168,,decided,False,certified
+2026-general,Georgia House of Representatives,169,Republican,Angie O'Steen,14909,14909,True,True,2026-11-03,state-house,state-house-district-169-rep,Republican,uncontested,False,certified
+2026-general,Georgia House of Representatives,170,Republican,Jaclyn Dixon Ford,15191,15191,True,True,2026-11-03,state-house,state-house-district-170-rep,Republican,uncontested,False,certified
+2026-general,Georgia House of Representatives,171,Republican,Joseph M. Campbell,13513,13513,True,True,2026-11-03,state-house,state-house-district-171-rep,Republican,uncontested,False,certified
+2026-general,Georgia House of Representatives,172,Republican,"Charles ""Chas"" Cannon",13917,13917,True,True,2026-11-03,state-house,state-house-district-172-rep,Republican,uncontested,False,certified
+2026-general,Georgia House of Representatives,173,Republican,Darlene Taylor,11820,20414,True,True,2026-11-03,state-house,state-house-district-173,,decided,False,certified
+2026-general,Georgia House of Representatives,173,Democrat,Adam Chitwood,8594,20414,False,False,2026-11-03,state-house,state-house-district-173,,decided,False,certified
+2026-general,Georgia House of Representatives,174,Republican,John L. Corbett,13641,17591,True,True,2026-11-03,state-house,state-house-district-174,,decided,False,certified
+2026-general,Georgia House of Representatives,174,Democrat,David Hall,3950,17591,False,False,2026-11-03,state-house,state-house-district-174,,decided,False,certified
+2026-general,Georgia House of Representatives,175,Republican,John LaHood,14274,21987,True,True,2026-11-03,state-house,state-house-district-175,,decided,False,certified
+2026-general,Georgia House of Representatives,175,Democrat,Anissa Knight Wiseman,7713,21987,False,False,2026-11-03,state-house,state-house-district-175,,decided,False,certified
+2026-general,Georgia House of Representatives,176,Republican,James Burchett,11617,16466,True,True,2026-11-03,state-house,state-house-district-176,,decided,False,certified
+2026-general,Georgia House of Representatives,176,Democrat,Marcus T. Ryan,4849,16466,False,False,2026-11-03,state-house,state-house-district-176,,decided,False,certified
+2026-general,Georgia House of Representatives,177,Democrat,Elsie Cason Napier,11540,11540,False,True,2026-11-03,state-house,state-house-district-177-dem,Democrat,uncontested,False,certified
+2026-general,Georgia House of Representatives,178,Republican,Steven Meeks,16602,20255,True,True,2026-11-03,state-house,state-house-district-178,,decided,False,certified
+2026-general,Georgia House of Representatives,178,Democrat,Barry Dunham,3653,20255,False,False,2026-11-03,state-house,state-house-district-178,,decided,False,certified
+2026-general,Georgia House of Representatives,179,Republican,Rick Townsend,16231,16231,True,True,2026-11-03,state-house,state-house-district-179-rep,Republican,uncontested,False,certified
+2026-general,Georgia House of Representatives,180,Republican,Steven Sainz,16287,16287,True,True,2026-11-03,state-house,state-house-district-180-rep,Republican,uncontested,False,certified
+2026-general,District Attorney - Atlantic Judicial Circuit,,,"Richard ""Richy"" Braun",16140,27133,False,True,2026-11-03,courts,courts-district-attorney-atlantic-judicial-circuit,,decided,False,certified
+2026-general,District Attorney - Atlantic Judicial Circuit,,,Laurie E. Baio,10993,27133,False,False,2026-11-03,courts,courts-district-attorney-atlantic-judicial-circuit,,decided,False,certified
+2026-general,District Attorney - Columbia Judicial Circuit,,Republican,Natalie Paine,51650,51650,False,True,2026-11-03,courts,courts-district-attorney-columbia-judicial-circuit-rep,Republican,uncontested,False,certified
+2026-general,District Attorney - Cordele Judicial Circuit,,Republican,Lyndsey Walters,12891,12891,False,True,2026-11-03,courts,courts-district-attorney-cordele-judicial-circuit-rep,Republican,uncontested,False,certified
+2026-general,District Attorney - Enotah Judicial Circuit,,Republican,Jeff Langley,41217,41217,True,True,2026-11-03,courts,courts-district-attorney-enotah-judicial-circuit-rep,Republican,uncontested,False,certified
+2026-general,District Attorney - Northeastern Judicial Circuit,,Republican,Lee Darragh,75836,75836,True,True,2026-11-03,courts,courts-district-attorney-northeastern-judicial-circuit-rep,Republican,uncontested,False,certified
+2026-general,District Attorney - Pataula Judicial Circuit,,Republican,Vic McNease,11936,11936,True,True,2026-11-03,courts,courts-district-attorney-pataula-judicial-circuit-rep,Republican,uncontested,False,certified
+2026-general,District Attorney - Paulding Judicial Circuit,,Republican,Robert S. Lane,52727,52727,True,True,2026-11-03,courts,courts-district-attorney-paulding-judicial-circuit-rep,Republican,uncontested,False,certified
+2026-general,District Attorney - Rockdale Judicial Circuit,,Democrat,Alisha Adams Johnson,33650,33650,True,True,2026-11-03,courts,courts-district-attorney-rockdale-judicial-circuit-dem,Democrat,uncontested,False,certified
+2026-general,District Attorney - Waycross Judicial Circuit,,Republican,Marilyn Bennett,,,True,,2026-11-03,courts,courts-district-attorney-waycross-judicial-circuit-rep,Republican,not-reported,False,certified
+2026-general,District Attorney - West Georgia Judicial Circuit,,Republican,Sarah Stimac Japour,39491,39491,True,True,2026-11-03,courts,courts-district-attorney-west-georgia-judicial-circuit-rep,Republican,uncontested,False,certified
+2026-general,Proposed Constitutional Amendment 1,,,Yes,2163712,4018145,False,True,2026-11-03,measures,measures-proposed-constitutional-amendment-1,,decided,False,certified
+2026-general,Proposed Constitutional Amendment 1,,,No,1854433,4018145,False,False,2026-11-03,measures,measures-proposed-constitutional-amendment-1,,decided,False,certified
+2026-general,Proposed Constitutional Amendment 2,,,Yes,2752872,4027169,False,True,2026-11-03,measures,measures-proposed-constitutional-amendment-2,,decided,False,certified
+2026-general,Proposed Constitutional Amendment 2,,,No,1274297,4027169,False,False,2026-11-03,measures,measures-proposed-constitutional-amendment-2,,decided,False,certified
+2026-general,Proposed Constitutional Amendment 3,,,Yes,3135317,4033554,False,True,2026-11-03,measures,measures-proposed-constitutional-amendment-3,,decided,False,certified
+2026-general,Proposed Constitutional Amendment 3,,,No,898237,4033554,False,False,2026-11-03,measures,measures-proposed-constitutional-amendment-3,,decided,False,certified

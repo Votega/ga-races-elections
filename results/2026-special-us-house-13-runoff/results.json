@@ -1,0 +1,42 @@
+{
+ "metadata": {
+  "election": "2026-special-us-house-13-runoff",
+  "title": "Georgia 2026 Special Election Runoff Results",
+  "electionDate": "2026-08-25",
+  "status": "certified",
+  "source": "Georgia Secretary of State",
+  "resultsPage": "https://www.votega.org/ga-special-2026-runoff-results/",
+  "generatedAt": "2026-09-03T10:32:54+00:00",
+  "schemaVersion": "1.0.0",
+  "contestCount": 1
+ },
+ "contests": [
+  {
+   "contestId": "us-house-district-13",
+   "section": "us-house",
+   "office": "U.S. House",
+   "district": 13,
+   "contestParty": null,
+   "outcome": "decided",
+   "totalVotes": 18342,
+   "candidates": [
+    {
+     "candidate": "Everton \"EJ\" Blair",
+     "party": "Democrat",
+     "votes": 9895,
+     "incumbent": false,
+     "winner": true,
+     "advancedToRunoff": false
+    },
+    {
+     "candidate": "Marcye Scott",
+     "party": "Democrat",
+     "votes": 8447,
+     "incumbent": false,
+     "winner": false,
+     "advancedToRunoff": false
+    }
+   ]
+  }
+ ]
+}

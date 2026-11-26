@@ -1,0 +1,124 @@
+{
+ "manifestSchemaVersion": "1.0.0",
+ "dataset": "results",
+ "title": "Georgia certified election results",
+ "description": "Certified vote counts for Georgia elections, one folder per election.",
+ "repo": "Votega/ga-races-elections",
+ "publisher": "VoteGA.org",
+ "generatedAt": "2026-11-20T15:51:29+00:00",
+ "updateCadence": "After the Secretary of State certifies an election.",
+ "schemaVersion": "1.0.0",
+ "rowCount": 1328,
+ "source": "Georgia Secretary of State",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+ },
+ "files": [
+  {
+   "path": "results/2026-general/results.csv",
+   "description": "Certified results as a spreadsheet, one row per contest and candidate.",
+   "bytes": 77755
+  },
+  {
+   "path": "results/2026-general/results.json",
+   "description": "Certified results, one entry per contest.",
+   "bytes": 148255
+  },
+  {
+   "path": "results/2026-general/results.schema.json",
+   "description": "JSON Schema for results.json.",
+   "bytes": 3902
+  },
+  {
+   "path": "results/2026-primary-runoff/results.csv",
+   "description": "Certified results as a spreadsheet, one row per contest and candidate.",
+   "bytes": 9799
+  },
+  {
+   "path": "results/2026-primary-runoff/results.json",
+   "description": "Certified results, one entry per contest.",
+   "bytes": 16484
+  },
+  {
+   "path": "results/2026-primary-runoff/results.schema.json",
+   "description": "JSON Schema for results.json.",
+   "bytes": 3909
+  },
+  {
+   "path": "results/2026-primary/results.csv",
+   "description": "Certified results as a spreadsheet, one row per contest and candidate.",
+   "bytes": 146276
+  },
+  {
+   "path": "results/2026-primary/results.json",
+   "description": "Certified results, one entry per contest.",
+   "bytes": 283011
+  },
+  {
+   "path": "results/2026-primary/results.schema.json",
+   "description": "JSON Schema for results.json.",
+   "bytes": 3902
+  },
+  {
+   "path": "results/2026-special-us-house-13-runoff/results.csv",
+   "description": "Certified results as a spreadsheet, one row per contest and candidate.",
+   "bytes": 474
+  },
+  {
+   "path": "results/2026-special-us-house-13-runoff/results.json",
+   "description": "Certified results, one entry per contest.",
+   "bytes": 982
+  },
+  {
+   "path": "results/2026-special-us-house-13-runoff/results.schema.json",
+   "description": "JSON Schema for results.json.",
+   "bytes": 3921
+  },
+  {
+   "path": "results/2026-special-us-house-13/results.csv",
+   "description": "Certified results as a spreadsheet, one row per contest and candidate.",
+   "bytes": 907
+  },
+  {
+   "path": "results/2026-special-us-house-13/results.json",
+   "description": "Certified results, one entry per contest.",
+   "bytes": 1475
+  },
+  {
+   "path": "results/2026-special-us-house-13/results.schema.json",
+   "description": "JSON Schema for results.json.",
+   "bytes": 3914
+  }
+ ],
+ "coverage": {
+  "elections": [
+   {
+    "election": "2026-general",
+    "electionDate": "2026-11-03",
+    "status": "certified"
+   },
+   {
+    "election": "2026-primary",
+    "electionDate": "2026-05-19",
+    "status": "certified"
+   },
+   {
+    "election": "2026-primary-runoff",
+    "electionDate": "2026-06-16",
+    "status": "certified"
+   },
+   {
+    "election": "2026-special-us-house-13",
+    "electionDate": "2026-07-28",
+    "status": "certified"
+   },
+   {
+    "election": "2026-special-us-house-13-runoff",
+    "electionDate": "2026-08-25",
+    "status": "certified"
+   }
+  ]
+ }
+}

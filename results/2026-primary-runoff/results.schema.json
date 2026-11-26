@@ -1,0 +1,169 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "$id": "https://raw.githubusercontent.com/Votega/ga-races-elections/main/results/2026-primary-runoff/results.schema.json",
+ "schemaVersion": "1.0.0",
+ "schemaStability": "Fields and CSV columns are only ever added (CSV columns at the end). Every file here describes one certified election.",
+ "title": "Georgia certified election results",
+ "type": "object",
+ "required": [
+  "metadata",
+  "contests"
+ ],
+ "properties": {
+  "metadata": {
+   "type": "object",
+   "properties": {
+    "election": {
+     "type": "string",
+     "description": "The folder name under results/."
+    },
+    "title": {
+     "type": "string"
+    },
+    "electionDate": {
+     "type": "string",
+     "description": "ISO date of the election."
+    },
+    "status": {
+     "type": "string",
+     "enum": [
+      "certified"
+     ]
+    },
+    "source": {
+     "type": "string"
+    },
+    "resultsPage": {
+     "type": "string"
+    },
+    "generatedAt": {
+     "type": "string",
+     "description": "When the underlying results data was built."
+    },
+    "schemaVersion": {
+     "type": "string"
+    },
+    "contestCount": {
+     "type": "integer"
+    }
+   }
+  },
+  "contests": {
+   "type": "array",
+   "items": {
+    "type": "object",
+    "required": [
+     "contestId",
+     "section",
+     "office",
+     "district",
+     "contestParty",
+     "outcome",
+     "totalVotes",
+     "candidates"
+    ],
+    "properties": {
+     "contestId": {
+      "type": "string",
+      "description": "Unique within the election."
+     },
+     "section": {
+      "type": "string",
+      "enum": [
+       "statewide",
+       "us-house",
+       "state-senate",
+       "state-house",
+       "courts",
+       "measures"
+      ]
+     },
+     "office": {
+      "type": "string",
+      "description": "Office, chamber or ballot question."
+     },
+     "district": {
+      "type": [
+       "integer",
+       "null"
+      ],
+      "description": "District number, where the office has one."
+     },
+     "contestParty": {
+      "type": [
+       "string",
+       "null"
+      ],
+      "description": "Party ballot, for a one-party contest; null otherwise."
+     },
+     "outcome": {
+      "type": "string",
+      "enum": [
+       "decided",
+       "uncontested",
+       "runoff",
+       "not-reported"
+      ],
+      "description": "not-reported: the Secretary of State export carried no count for it."
+     },
+     "totalVotes": {
+      "type": [
+       "integer",
+       "null"
+      ],
+      "description": "Votes cast in the contest; null when not reported."
+     },
+     "candidates": {
+      "type": "array",
+      "items": {
+       "type": "object",
+       "required": [
+        "candidate",
+        "party",
+        "votes",
+        "incumbent",
+        "winner",
+        "advancedToRunoff"
+       ],
+       "properties": {
+        "candidate": {
+         "type": "string",
+         "description": "Ballot name, without the party suffix."
+        },
+        "party": {
+         "type": [
+          "string",
+          "null"
+         ],
+         "description": "Candidate's party; null for nonpartisan contests and ballot questions."
+        },
+        "votes": {
+         "type": [
+          "integer",
+          "null"
+         ],
+         "description": "Votes received; null when the contest was not reported."
+        },
+        "incumbent": {
+         "type": "boolean",
+         "description": "Marked as the incumbent on the ballot."
+        },
+        "winner": {
+         "type": [
+          "boolean",
+          "null"
+         ],
+         "description": "Won this contest outright (in a primary: won the nomination). For a ballot question, the option with more votes. Null when not reported."
+        },
+        "advancedToRunoff": {
+         "type": "boolean",
+         "description": "Went on to a runoff from this contest."
+        }
+       }
+      }
+     }
+    }
+   }
+  }
+ }
+}
