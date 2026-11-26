@@ -9,7 +9,7 @@
   "generatedAt": "2026-08-10T02:21:18+00:00",
   "schemaVersion": "1.1.0",
   "contestCount": 1,
-  "countyResults": false
+  "countyResults": true
  },
  "contests": [
   {
@@ -28,10 +28,10 @@
      "incumbent": false,
      "winner": false,
      "advancedToRunoff": true,
-     "electionDay": null,
-     "advanceVoting": null,
-     "absenteeByMail": null,
-     "provisional": null
+     "electionDay": 4303,
+     "advanceVoting": 4768,
+     "absenteeByMail": 368,
+     "provisional": 2
     },
     {
      "candidate": "Everton \"EJ\" Blair",
@@ -40,10 +40,10 @@
      "incumbent": false,
      "winner": false,
      "advancedToRunoff": true,
-     "electionDay": null,
-     "advanceVoting": null,
-     "absenteeByMail": null,
-     "provisional": null
+     "electionDay": 4471,
+     "advanceVoting": 3019,
+     "absenteeByMail": 184,
+     "provisional": 6
     },
     {
      "candidate": "Caesar Gonzales",
@@ -52,10 +52,10 @@
      "incumbent": false,
      "winner": false,
      "advancedToRunoff": false,
-     "electionDay": null,
-     "advanceVoting": null,
-     "absenteeByMail": null,
-     "provisional": null
+     "electionDay": 1105,
+     "advanceVoting": 567,
+     "absenteeByMail": 106,
+     "provisional": 0
     },
     {
      "candidate": "Fayth Park",
@@ -64,10 +64,10 @@
      "incumbent": false,
      "winner": false,
      "advancedToRunoff": false,
-     "electionDay": null,
-     "advanceVoting": null,
-     "absenteeByMail": null,
-     "provisional": null
+     "electionDay": 613,
+     "advanceVoting": 281,
+     "absenteeByMail": 78,
+     "provisional": 0
     },
     {
      "candidate": "Carlos Moore",
@@ -76,10 +76,10 @@
      "incumbent": false,
      "winner": false,
      "advancedToRunoff": false,
-     "electionDay": null,
-     "advanceVoting": null,
-     "absenteeByMail": null,
-     "provisional": null
+     "electionDay": 324,
+     "advanceVoting": 285,
+     "absenteeByMail": 30,
+     "provisional": 0
     }
    ]
   }

@@ -77,14 +77,19 @@
    "bytes": 4870
   },
   {
+   "path": "results/2026-special-us-house-13-runoff/county-results.csv",
+   "description": "Certified results by county and vote method, one row per county, contest and candidate.",
+   "bytes": 2020
+  },
+  {
    "path": "results/2026-special-us-house-13-runoff/results.csv",
    "description": "Certified results as a spreadsheet, one row per contest and candidate.",
-   "bytes": 535
+   "bytes": 559
   },
   {
    "path": "results/2026-special-us-house-13-runoff/results.json",
    "description": "Certified results, one entry per contest.",
-   "bytes": 1226
+   "bytes": 1217
   },
   {
    "path": "results/2026-special-us-house-13-runoff/results.schema.json",
@@ -92,14 +97,19 @@
    "bytes": 4889
   },
   {
+   "path": "results/2026-special-us-house-13/county-results.csv",
+   "description": "Certified results by county and vote method, one row per county, contest and candidate.",
+   "bytes": 4483
+  },
+  {
    "path": "results/2026-special-us-house-13/results.csv",
    "description": "Certified results as a spreadsheet, one row per contest and candidate.",
-   "bytes": 980
+   "bytes": 1033
   },
   {
    "path": "results/2026-special-us-house-13/results.json",
    "description": "Certified results, one entry per contest.",
-   "bytes": 2046
+   "bytes": 2018
   },
   {
    "path": "results/2026-special-us-house-13/results.schema.json",

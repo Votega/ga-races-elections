@@ -1,0 +1,13 @@
+election,county,countyFips,office,district,party,candidate,votes,electionDay,advanceVoting,absenteeByMail,provisional,contestId,section,electionDate,status
+2026-special-us-house-13-runoff,Clayton,13063,U.S. House,13,Democrat,"Everton ""EJ"" Blair",1132,581,524,27,0,us-house-district-13,us-house,2026-08-25,certified
+2026-special-us-house-13-runoff,Clayton,13063,U.S. House,13,Democrat,Marcye Scott,1846,927,851,68,0,us-house-district-13,us-house,2026-08-25,certified
+2026-special-us-house-13-runoff,DeKalb,13089,U.S. House,13,Democrat,"Everton ""EJ"" Blair",226,105,121,0,0,us-house-district-13,us-house,2026-08-25,certified
+2026-special-us-house-13-runoff,DeKalb,13089,U.S. House,13,Democrat,Marcye Scott,397,169,228,0,0,us-house-district-13,us-house,2026-08-25,certified
+2026-special-us-house-13-runoff,Gwinnett,13135,U.S. House,13,Democrat,"Everton ""EJ"" Blair",5709,3369,2280,58,2,us-house-district-13,us-house,2026-08-25,certified
+2026-special-us-house-13-runoff,Gwinnett,13135,U.S. House,13,Democrat,Marcye Scott,2442,1476,910,54,2,us-house-district-13,us-house,2026-08-25,certified
+2026-special-us-house-13-runoff,Henry,13151,U.S. House,13,Democrat,"Everton ""EJ"" Blair",984,620,360,3,1,us-house-district-13,us-house,2026-08-25,certified
+2026-special-us-house-13-runoff,Henry,13151,U.S. House,13,Democrat,Marcye Scott,1675,1017,649,9,0,us-house-district-13,us-house,2026-08-25,certified
+2026-special-us-house-13-runoff,Newton,13217,U.S. House,13,Democrat,"Everton ""EJ"" Blair",590,352,181,57,0,us-house-district-13,us-house,2026-08-25,certified
+2026-special-us-house-13-runoff,Newton,13217,U.S. House,13,Democrat,Marcye Scott,749,401,195,153,0,us-house-district-13,us-house,2026-08-25,certified
+2026-special-us-house-13-runoff,Rockdale,13247,U.S. House,13,Democrat,"Everton ""EJ"" Blair",1254,663,570,21,0,us-house-district-13,us-house,2026-08-25,certified
+2026-special-us-house-13-runoff,Rockdale,13247,U.S. House,13,Democrat,Marcye Scott,1338,702,614,20,2,us-house-district-13,us-house,2026-08-25,certified

@@ -9,7 +9,7 @@
   "generatedAt": "2026-09-03T10:32:54+00:00",
   "schemaVersion": "1.1.0",
   "contestCount": 1,
-  "countyResults": false
+  "countyResults": true
  },
  "contests": [
   {
@@ -28,10 +28,10 @@
      "incumbent": false,
      "winner": true,
      "advancedToRunoff": false,
-     "electionDay": null,
-     "advanceVoting": null,
-     "absenteeByMail": null,
-     "provisional": null
+     "electionDay": 5690,
+     "advanceVoting": 4036,
+     "absenteeByMail": 166,
+     "provisional": 3
     },
     {
      "candidate": "Marcye Scott",
@@ -40,10 +40,10 @@
      "incumbent": false,
      "winner": false,
      "advancedToRunoff": false,
-     "electionDay": null,
-     "advanceVoting": null,
-     "absenteeByMail": null,
-     "provisional": null
+     "electionDay": 4692,
+     "advanceVoting": 3447,
+     "absenteeByMail": 304,
+     "provisional": 4
     }
    ]
   }

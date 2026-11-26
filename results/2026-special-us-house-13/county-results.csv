@@ -1,0 +1,31 @@
+election,county,countyFips,office,district,party,candidate,votes,electionDay,advanceVoting,absenteeByMail,provisional,contestId,section,electionDate,status
+2026-special-us-house-13,Clayton,13063,U.S. House,13,Democrat,Marcye Scott,2417,959,1374,84,0,us-house-district-13,us-house,2026-07-28,certified
+2026-special-us-house-13,Clayton,13063,U.S. House,13,Democrat,"Everton ""EJ"" Blair",850,359,472,19,0,us-house-district-13,us-house,2026-07-28,certified
+2026-special-us-house-13,Clayton,13063,U.S. House,13,Republican,Caesar Gonzales,174,75,89,10,0,us-house-district-13,us-house,2026-07-28,certified
+2026-special-us-house-13,Clayton,13063,U.S. House,13,Republican,Fayth Park,117,47,57,13,0,us-house-district-13,us-house,2026-07-28,certified
+2026-special-us-house-13,Clayton,13063,U.S. House,13,Democrat,Carlos Moore,135,51,75,9,0,us-house-district-13,us-house,2026-07-28,certified
+2026-special-us-house-13,DeKalb,13089,U.S. House,13,Democrat,Marcye Scott,632,204,410,18,0,us-house-district-13,us-house,2026-07-28,certified
+2026-special-us-house-13,DeKalb,13089,U.S. House,13,Democrat,"Everton ""EJ"" Blair",240,106,128,6,0,us-house-district-13,us-house,2026-07-28,certified
+2026-special-us-house-13,DeKalb,13089,U.S. House,13,Republican,Caesar Gonzales,8,3,5,0,0,us-house-district-13,us-house,2026-07-28,certified
+2026-special-us-house-13,DeKalb,13089,U.S. House,13,Republican,Fayth Park,8,3,5,0,0,us-house-district-13,us-house,2026-07-28,certified
+2026-special-us-house-13,DeKalb,13089,U.S. House,13,Democrat,Carlos Moore,41,15,23,3,0,us-house-district-13,us-house,2026-07-28,certified
+2026-special-us-house-13,Gwinnett,13135,U.S. House,13,Democrat,Marcye Scott,1924,1085,752,86,1,us-house-district-13,us-house,2026-07-28,certified
+2026-special-us-house-13,Gwinnett,13135,U.S. House,13,Democrat,"Everton ""EJ"" Blair",4492,3014,1376,97,5,us-house-district-13,us-house,2026-07-28,certified
+2026-special-us-house-13,Gwinnett,13135,U.S. House,13,Republican,Caesar Gonzales,935,694,178,63,0,us-house-district-13,us-house,2026-07-28,certified
+2026-special-us-house-13,Gwinnett,13135,U.S. House,13,Republican,Fayth Park,439,313,85,41,0,us-house-district-13,us-house,2026-07-28,certified
+2026-special-us-house-13,Gwinnett,13135,U.S. House,13,Democrat,Carlos Moore,230,139,85,6,0,us-house-district-13,us-house,2026-07-28,certified
+2026-special-us-house-13,Henry,13151,U.S. House,13,Democrat,Marcye Scott,2019,979,1035,5,0,us-house-district-13,us-house,2026-07-28,certified
+2026-special-us-house-13,Henry,13151,U.S. House,13,Democrat,"Everton ""EJ"" Blair",729,366,360,3,0,us-house-district-13,us-house,2026-07-28,certified
+2026-special-us-house-13,Henry,13151,U.S. House,13,Republican,Caesar Gonzales,306,134,164,8,0,us-house-district-13,us-house,2026-07-28,certified
+2026-special-us-house-13,Henry,13151,U.S. House,13,Republican,Fayth Park,154,95,59,0,0,us-house-district-13,us-house,2026-07-28,certified
+2026-special-us-house-13,Henry,13151,U.S. House,13,Democrat,Carlos Moore,114,59,53,2,0,us-house-district-13,us-house,2026-07-28,certified
+2026-special-us-house-13,Newton,13217,U.S. House,13,Democrat,Marcye Scott,843,390,304,149,0,us-house-district-13,us-house,2026-07-28,certified
+2026-special-us-house-13,Newton,13217,U.S. House,13,Democrat,"Everton ""EJ"" Blair",460,223,190,47,0,us-house-district-13,us-house,2026-07-28,certified
+2026-special-us-house-13,Newton,13217,U.S. House,13,Republican,Caesar Gonzales,116,63,29,24,0,us-house-district-13,us-house,2026-07-28,certified
+2026-special-us-house-13,Newton,13217,U.S. House,13,Republican,Fayth Park,124,72,30,22,0,us-house-district-13,us-house,2026-07-28,certified
+2026-special-us-house-13,Newton,13217,U.S. House,13,Democrat,Carlos Moore,46,27,10,9,0,us-house-district-13,us-house,2026-07-28,certified
+2026-special-us-house-13,Rockdale,13247,U.S. House,13,Democrat,Marcye Scott,1606,686,893,26,1,us-house-district-13,us-house,2026-07-28,certified
+2026-special-us-house-13,Rockdale,13247,U.S. House,13,Democrat,"Everton ""EJ"" Blair",909,403,493,12,1,us-house-district-13,us-house,2026-07-28,certified
+2026-special-us-house-13,Rockdale,13247,U.S. House,13,Republican,Caesar Gonzales,239,136,102,1,0,us-house-district-13,us-house,2026-07-28,certified
+2026-special-us-house-13,Rockdale,13247,U.S. House,13,Republican,Fayth Park,130,83,45,2,0,us-house-district-13,us-house,2026-07-28,certified
+2026-special-us-house-13,Rockdale,13247,U.S. House,13,Democrat,Carlos Moore,73,33,39,1,0,us-house-district-13,us-house,2026-07-28,certified
