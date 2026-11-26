@@ -1,0 +1,73 @@
+{
+ "manifestSchemaVersion": "1.0.0",
+ "dataset": "early-vote",
+ "title": "Georgia early voting turnout",
+ "description": "County-level counts of accepted early in-person and mail ballots for the current general election, with the mail pipeline and comparisons against past elections at the same point before election day.",
+ "repo": "Votega/ga-races-elections",
+ "publisher": "VoteGA.org",
+ "generatedAt": "2026-11-02T17:54:57Z",
+ "updateCadence": "Whenever the Secretary of State posts a new file, during early voting.",
+ "schemaVersion": "1.0.0",
+ "rowCount": 159,
+ "source": "the Georgia Secretary of State; the county Census figures in early-vote/ come from the U.S. Census Bureau's American Community Survey, compiled by Georgia Civic Data (georgiacivicdata.org, CC BY 4.0)",
+ "license": {
+  "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+  "spdx": "CC-BY-SA-4.0",
+  "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+ },
+ "files": [
+  {
+   "path": "early-vote/2026-general/README.md",
+   "description": "Human-readable overview.",
+   "bytes": 3066
+  },
+  {
+   "path": "early-vote/2026-general/county-by-day.csv",
+   "description": "The same daily rows as a spreadsheet.",
+   "bytes": 561331
+  },
+  {
+   "path": "early-vote/2026-general/county-by-day.json",
+   "description": "Accepted ballots per county per day before election day.",
+   "bytes": 2563479
+  },
+  {
+   "path": "early-vote/2026-general/county-by-day.schema.json",
+   "description": "JSON Schema for a county-by-day row.",
+   "bytes": 2258
+  },
+  {
+   "path": "early-vote/2026-general/county-totals.csv",
+   "description": "The same totals as a spreadsheet.",
+   "bytes": 21006
+  },
+  {
+   "path": "early-vote/2026-general/county-totals.json",
+   "description": "Per-county early and mail ballot totals so far.",
+   "bytes": 131224
+  },
+  {
+   "path": "early-vote/2026-general/county-totals.schema.json",
+   "description": "JSON Schema for a county-totals row.",
+   "bytes": 6801
+  },
+  {
+   "path": "early-vote/2026-general/source-data-dictionary.md",
+   "description": "The Secretary of State's own field definitions.",
+   "bytes": 15558
+  }
+ ],
+ "coverage": {
+  "election": {
+   "date": "2026-11-03",
+   "year": 2026
+  },
+  "asOf": "2026-10-30",
+  "comparisons": [
+   "2022",
+   "2024"
+  ],
+  "counties": 159
+ },
+ "asOf": "2026-10-30"
+}
