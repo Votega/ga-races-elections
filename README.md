@@ -1,5 +1,5 @@
 # ga-races-elections
-Georgia election data, one folder per election cycle, maintained by [VoteGA.org](https://votega.org): **races and candidates** (updated daily) and **early-voting turnout by county** (refreshed by hand when the Secretary of State posts a new file; see [Early voting](#early-voting)).
+Georgia election data, one folder per election cycle, maintained by [VoteGA.org](https://votega.org): **races and candidates** (updated daily), **[certified election results](#election-results)** and **early-voting turnout by county** (refreshed by hand when the Secretary of State posts a new file; see [Early voting](#early-voting)).
 
 ## Files
 
@@ -23,11 +23,70 @@ ga-races-elections/
 ├── races/
 │   └── 2026/                 one folder per election cycle (a cycle spans its primary, runoff and general)
 │       ├── races.json, races.csv, candidates.csv, races.schema.json, RACES.md
+├── results/
+│   └── 2026-general/         one folder per certified election
+│       ├── results.json, results.csv, results.schema.json
 └── early-vote/
     └── 2026-general/         one folder per election
 ```
 
 > **Moved in October 2026.** The races files used to sit at the repository root (`/races.json` and so on). They now live in `races/2026/`; the old paths no longer exist. A later cycle appears as `races/2028/` with the same file names.
+
+## Election results
+
+Vote counts for each election the Georgia Secretary of State has **certified**, one folder per election. Unofficial counts are never published here; they appear on the [VoteGA results pages](https://www.votega.org/results/).
+
+| Folder | Election | Date |
+| :----- | :----- | :-----: |
+| [`results/2026-primary/`](results/2026-primary/) | General primary and nonpartisan judicial election | 2026-05-19 |
+| [`results/2026-primary-runoff/`](results/2026-primary-runoff/) | Primary runoff | 2026-06-16 |
+| [`results/2026-special-us-house-13/`](results/2026-special-us-house-13/) | U.S. House District 13 special election | 2026-07-28 |
+| [`results/2026-special-us-house-13-runoff/`](results/2026-special-us-house-13-runoff/) | U.S. House District 13 special runoff | 2026-08-25 |
+| [`results/2026-general/`](results/2026-general/) | General election | 2026-11-03 |
+
+The December 1, 2026 general runoff will appear in `results/2026-general-runoff/` once it is certified. [`data/results/manifest.json`](data/results/manifest.json) lists every published election, so read that instead of assuming this table is complete.
+
+Each folder holds:
+
+| File | Best for |
+| :----- | :----- |
+| `results.csv` | **Spreadsheets and analysis** — one row per contest and candidate |
+| `results.json` | Developers — `metadata` (including `status` and `electionDate`) and one entry per contest with its candidates |
+| `results.schema.json` | Every field described |
+
+### results.csv columns
+
+| Column | Meaning |
+| :-----: | :----- |
+| `election` | Folder name, e.g. `2026-general` |
+| `office`, `district` | Office or ballot question; `district` is blank where the office has none |
+| `party` | The candidate's party; blank for nonpartisan contests and ballot questions |
+| `candidate` | Ballot name |
+| `votes`, `totalVotes` | Votes for the candidate and in the contest. Blank (not zero) when the contest was not reported |
+| `incumbent` | `True` if marked as the incumbent on the ballot |
+| `winner` | `True` if the candidate won this contest outright. In a primary that means won the nomination; for a ballot question it marks the option with more votes. Blank when not reported |
+| `electionDate`, `status` | Date of the election; `status` is `certified` |
+| `section` | `statewide`, `us-house`, `state-senate`, `state-house`, `courts` or `measures` |
+| `contestId` | Unique within an election. Use it to group rows: several contests can share an office name (superior court seats, or the two party primaries for one office) |
+| `contestParty` | The party ballot, for a one-party contest |
+| `outcome` | `decided`, `uncontested`, `runoff` (no one had a majority), or `not-reported` |
+| `advancedToRunoff` | `True` if the candidate went on to a runoff from this contest |
+
+### Read this first
+
+- **`winner` and `outcome` are derived** from the certified vote counts: where a majority is required, a leader without more than half goes to a runoff; in a runoff the leader wins. They are not a separate Secretary of State publication.
+- **In the 2026 general, the Waycross Judicial Circuit District Attorney contest is `not-reported`.** The data VoteGA holds carries no count for it, so its votes are blank rather than zero.
+- **In the 2026 general, the Atlantic Judicial Circuit District Attorney contest was a special primary**, not a general-election contest: `winner` there means the nominee.
+- **Ballot questions** are named by ballot position, as the Secretary of State reports them (`Proposed Constitutional Amendment 1`).
+- These are statewide totals per contest. There is no county or precinct breakdown here.
+
+```js
+const url = 'https://raw.githubusercontent.com/Votega/ga-races-elections/main/results/2026-general/results.json';
+const { metadata, contests } = await (await fetch(url)).json();
+
+// General-election contests headed to a runoff
+console.log(metadata.status, contests.filter(c => c.outcome === 'runoff').map(c => `${c.office} ${c.district ?? ''}`));
+```
 
 ### Early voting (`early-vote/2026-general/`)
 
@@ -245,10 +304,13 @@ Everything in `early-vote/` is a county-level aggregate derived from the Secreta
  - GA judicial candidates — GA Secretary of State Qualifying Candidate Information. Covers Superior Court, Court of Appeals, and Supreme Court of Georgia seats on the 2026 ballot.
  - Federal members — Congress.gov API
  - GA state members — GA General Assembly
+ - Election results — GA Secretary of State "Total Votes Results" exports for certified elections
  - Early voting — GA Secretary of State absentee-ballot and voter-history downloads, active/inactive voter counts, and certified results; county Census figures from the U.S. Census Bureau American Community Survey via Georgia Civic Data (CC BY 4.0)
 
 ## Updates
 `races.json` and the files built from it are published automatically from VoteGA.org via GitHub Actions. They update daily and whenever `races.json` changes in the source repo.
+
+`results/` is published when an election is certified; a published election's folder is permanent.
 
 `early-vote/` is published by hand-triggered workflow after the Secretary of State posts a new absentee file, so its update times vary; check `as_of`. Files in this repository are overwritten on each publish, so please don't edit them here.
 
