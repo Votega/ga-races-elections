@@ -53,6 +53,7 @@ Each folder holds:
 | `results.csv` | **Spreadsheets and analysis** — one row per contest and candidate |
 | `results.json` | Developers — `metadata` (including `status` and `electionDate`) and one entry per contest with its candidates |
 | `results.schema.json` | Every field described |
+| `county-results.csv` | **County analysis** — one row per county, contest and candidate |
 
 ### results.csv columns
 
@@ -71,6 +72,20 @@ Each folder holds:
 | `contestParty` | The party ballot, for a one-party contest |
 | `outcome` | `decided`, `uncontested`, `runoff` (no one had a majority), or `not-reported` |
 | `advancedToRunoff` | `True` if the candidate went on to a runoff from this contest |
+| `electionDay`, `advanceVoting`, `absenteeByMail`, `provisional` | The candidate's `votes` split by how they were cast. Blank where no split is available |
+
+### county-results.csv columns
+
+| Column | Meaning |
+| :-----: | :----- |
+| `election` | Folder name |
+| `county`, `countyFips` | County name and 5-digit FIPS code |
+| `office`, `district`, `party`, `candidate` | As in `results.csv` |
+| `votes` | The candidate's votes in that county |
+| `electionDay`, `advanceVoting`, `absenteeByMail`, `provisional` | Those votes by how they were cast. Blank where the county reports no split |
+| `contestId`, `section`, `electionDate`, `status` | As in `results.csv`; join the two files on `election` and `contestId` |
+
+A district contest has rows only for the counties it covers.
 
 ### Read this first
 
@@ -78,9 +93,11 @@ Each folder holds:
 - **In the 2026 general, the Waycross Judicial Circuit District Attorney contest is `not-reported`.** The data VoteGA holds carries no count for it, so its votes are blank rather than zero.
 - **In the 2026 general, the Atlantic Judicial Circuit District Attorney contest was a special primary**, not a general-election contest: `winner` there means the nominee.
 - **Ballot questions** are named by ballot position, as the Secretary of State reports them (`Proposed Constitutional Amendment 1`).
-- These are statewide totals per contest. There is no county or precinct breakdown here.
+- **Some counties report no vote-method split** for some contests. Their four method columns are blank, not zero, so adding the method columns across counties can fall short of the contest-wide figure in `results.csv`. The `votes` column always adds up.
+- There is no precinct breakdown here.
 
 ```js
+// County rows: https://raw.githubusercontent.com/Votega/ga-races-elections/main/results/2026-general/county-results.csv
 const url = 'https://raw.githubusercontent.com/Votega/ga-races-elections/main/results/2026-general/results.json';
 const { metadata, contests } = await (await fetch(url)).json();
 
