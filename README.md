@@ -53,7 +53,7 @@ Each folder holds:
 | `results.csv` | **Spreadsheets and analysis** — one row per contest and candidate |
 | `results.json` | Developers — `metadata` (including `status` and `electionDate`) and one entry per contest with its candidates |
 | `results.schema.json` | Every field described |
-| `county-results.csv` | **County analysis** — one row per county, contest and candidate. In the primary, primary runoff and general election folders |
+| `county-results.csv` | **County analysis** — one row per county, contest and candidate |
 
 ### results.csv columns
 
@@ -94,7 +94,6 @@ A district contest has rows only for the counties it covers.
 - **In the 2026 general, the Atlantic Judicial Circuit District Attorney contest was a special primary**, not a general-election contest: `winner` there means the nominee.
 - **Ballot questions** are named by ballot position, as the Secretary of State reports them (`Proposed Constitutional Amendment 1`).
 - **Some counties report no vote-method split** for some contests. Their four method columns are blank, not zero, so adding the method columns across counties can fall short of the contest-wide figure in `results.csv`. The `votes` column always adds up.
-- The two July and August U.S. House District 13 special elections have totals only: no `county-results.csv`, and blank method columns.
 - There is no precinct breakdown here.
 
 ```js
