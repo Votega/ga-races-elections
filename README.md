@@ -187,7 +187,9 @@ For races where an incumbent is running, the entry references their record in a 
   "memberSource": "congress"
 }
 ```
-memberSource is "congress" for U.S. members (keyed by bioguide ID) or "ga-members" for state officials. In `candidates.csv` these entries have a blank `candidateId`; they are identified by `memberId` (also given as `candidateKey`).
+memberSource is "congress" (keyed by bioguide ID); only U.S. members are listed this way. In `candidates.csv` these entries have a blank `candidateId`; they are identified by `memberId` (also given as `candidateKey`).
+
+A candidate with their own record who is also a sitting member carries `existingMemberId` and `existingMemberSource` instead: "state" for a Georgia General Assembly member or statewide official (keyed by their roster id in [ga-legislators](https://github.com/Votega/ga-legislators)), "congress" for a U.S. member. `candidates.csv` puts either pair in its `memberId` / `memberSource` columns, so `memberSource` there is "congress" or "state".
 
 ## ID conventions
 | Race type |	ID pattern | Example |
